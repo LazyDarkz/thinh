@@ -20,15 +20,13 @@ Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập c�
 - Phát triển ứng dụng web
 - Lập trình mạng
 
-### Chứng Chỉ
+### Chứng Chỉ Cisco Networking Academy
 
-{{< figure src="images/JE1.png" alt="Cisco Badge JE1" width="100" loading="lazy" >}}
+{{< figure src="images/JE1.png" alt="Cisco Badge JE1" width="200" loading="lazy" >}}
 
-{{< figure src="images/JE2.png" alt="Cisco Badge JE2" width="100" loading="lazy" >}}
+{{< figure src="images/JE2.png" alt="Cisco Badge JE2" width="200" loading="lazy" >}}
 
-{{< figure src="images/NB.png" alt="Cisco Badge NB" width="100" loading="lazy" >}}
-
-### Chứng chỉ Cisco Networking Academy
+{{< figure src="images/NB.png" alt="Cisco Badge NB" width="200" loading="lazy" >}}
 
 ### Ngôn Ngữ Lập Trình
 
