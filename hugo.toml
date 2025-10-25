@@ -24,7 +24,7 @@ defaultContentLanguage = 'vi'
 [params.sidebar.avatar]
     enabled = true
     local = false
-    src = "/img/avatar.webp"
+    src = "https://lazydarkz.github.io/thinh/img/Stacktheme.webp"
 
 [params.footer]
     since = 2023
