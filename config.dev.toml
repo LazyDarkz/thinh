@@ -1,5 +1,4 @@
-
-baseURL = 'https://lazydarkz.github.io/thinh/'
+baseURL = 'http://localhost:1313/'
 theme = "hugo-theme-stack"
 title = "Trần Phước Thịnh"
 languageCode = 'vi'
@@ -52,7 +51,6 @@ defaultContentLanguage = 'vi'
     name = "Về Tôi"
     url = "/page/about/"
     weight = 30
-
 
 [markup]
     [markup.highlight]

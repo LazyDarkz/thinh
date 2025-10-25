@@ -23,9 +23,9 @@ Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập c�
 ### Chứng Chỉ
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; margin: 20px 0;">
-    <img src="/images/certifications/JE1.png" alt="Cisco Badge" width="100" style="flex: 1;"/>
-    <img src="/images/certifications/JE2.png" alt="Cisco Badge" width="100" style="flex: 1;"/>
-    <img src="/images/certifications/NB.png" alt="Cisco Badge" width="100" style="flex: 1;"/>
+    <img src="/img/certifications/JE1.png" alt="Cisco Badge" width="100" style="flex: 1;"/>
+    <img src="/img/certifications/JE2.png" alt="Cisco Badge" width="100" style="flex: 1;"/>
+    <img src="/img/certifications/NB.png" alt="Cisco Badge" width="100" style="flex: 1;"/>
 </div>
 
 *Chứng chỉ Cisco Networking Academy*
