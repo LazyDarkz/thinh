@@ -1,1 +1,41 @@
 /* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+
+// Custom styles for certification badges
+.article-content {
+    figure {
+        display: inline-block;
+        width: 32%;
+        margin: 0 1% 20px 0;
+        text-align: center;
+        
+        img {
+            max-width: 100px;
+            height: auto;
+            margin: 0 auto;
+            display: block;
+        }
+        text-align: center;
+    }
+    
+    img {
+        max-width: 100px;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+}
+
+// Responsive adjustments
+@media (max-width: 768px) {
+    .certification-badge {
+        width: 48%;
+        margin: 0 2% 20px 0;
+    }
+}
+
+@media (max-width: 480px) {
+    .certification-badge {
+        width: 100%;
+        margin: 0 0 20px 0;
+    }
+}

@@ -22,13 +22,13 @@ Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập c�
 
 ### Chứng Chỉ
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; margin: 20px 0;">
-    <img src="/img/certifications/JE1.png" alt="Cisco Badge" width="100" style="flex: 1;"/>
-    <img src="/img/certifications/JE2.png" alt="Cisco Badge" width="100" style="flex: 1;"/>
-    <img src="/img/certifications/NB.png" alt="Cisco Badge" width="100" style="flex: 1;"/>
-</div>
+{{< figure src="images/JE1.png" alt="Cisco Badge JE1" width="100" loading="lazy" >}}
 
-*Chứng chỉ Cisco Networking Academy*
+{{< figure src="images/JE2.png" alt="Cisco Badge JE2" width="100" loading="lazy" >}}
+
+{{< figure src="images/NB.png" alt="Cisco Badge NB" width="100" loading="lazy" >}}
+
+### Chứng chỉ Cisco Networking Academy
 
 ### Ngôn Ngữ Lập Trình
 

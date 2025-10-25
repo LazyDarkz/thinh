@@ -12,6 +12,12 @@ defaultContentLanguage = 'vi'
     rssFullContent = true
     favicon = "img/favicon.webp"
 
+[params.imageProcessing]
+    enabled = true
+    content.enabled = true
+    content.quality = 75
+    content.sizes = ["400x", "600x", "800x"]
+
 [params.article]
     [params.article.author]
         enabled = true
