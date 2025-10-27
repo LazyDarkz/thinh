@@ -9,12 +9,12 @@ defaultContentLanguage = 'vi'
     mainSections = ["post"]
     featuredImageField = "img"
     rssFullContent = true
-    favicon = "img/favicon.webp"
+    favicon = "/img/favicon.webp"
 
 [params.article]
     [params.article.author]
         enabled = true
-        avatar = "/img/avatar.png"
+        avatar = "/img/Thinhavt.jpg"
         name = "Trần Phước Thịnh"
 
 [params.sidebar]

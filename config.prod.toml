@@ -14,7 +14,6 @@ defaultContentLanguage = 'vi'
 [params.article]
     [params.article.author]
         enabled = true
-        avatar = "/img/avatar.png"
         name = "Trần Phước Thịnh"
 
 [params.sidebar]
@@ -51,6 +50,7 @@ defaultContentLanguage = 'vi'
     name = "Về Tôi"
     url = "/page/about/"
     weight = 30
+
 
 [markup]
     [markup.highlight]
