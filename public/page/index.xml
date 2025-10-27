@@ -16,14 +16,35 @@ alt="Logo HUTECH" width="4000" loading="lazy"&gt;&lt;figcaption&gt;
 &lt;li&gt;Lập trình mạng&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="chứng-chỉ-cisco-networking-academy-đã-đạt-được"&gt;Chứng Chỉ Cisco Networking Academy đã đạt được
-&lt;/h3&gt;&lt;figure&gt;&lt;img src="https://lazydarkz.github.io/thinh/page/about/images/JE1.png"
-alt="Cisco Badge JE1" width="200" loading="lazy"&gt;
+&lt;/h3&gt;&lt;h3 id="chứng-chỉ-cisco-networking-academy-đã-đạt-được-1"&gt;Chứng Chỉ Cisco Networking Academy đã đạt được
+&lt;/h3&gt;&lt;figure class="center"&gt;&lt;img src="https://lazydarkz.github.io/thinh/images/certifications/QRJE1.jpeg"
+alt="Cisco Badge JE1" width="auto" loading="lazy"&gt;&lt;figcaption&gt;
+&lt;h4&gt;Chứng chỉ Cisco JE1&lt;/h4&gt;
+&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;figure&gt;&lt;img src="https://lazydarkz.github.io/thinh/page/about/images/JE2.png"
-alt="Cisco Badge JE2" width="200" loading="lazy"&gt;
+&lt;figure class="center"&gt;&lt;img src="https://lazydarkz.github.io/thinh/images/certifications/QRJE2.jpeg"
+alt="Cisco Badge JE2" width="auto" loading="lazy"&gt;&lt;figcaption&gt;
+&lt;h4&gt;Chứng chỉ Cisco JE2&lt;/h4&gt;
+&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;figure&gt;&lt;img src="https://lazydarkz.github.io/thinh/page/about/images/NB.png"
-alt="Cisco Badge NB" width="200" loading="lazy"&gt;
+&lt;figure class="center"&gt;&lt;img src="https://lazydarkz.github.io/thinh/images/certifications/QRNB.jpeg"
+alt="Cisco Badge NB" width="auto" loading="lazy"&gt;&lt;figcaption&gt;
+&lt;h4&gt;Chứng chỉ Cisco NB&lt;/h4&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;div class="certification"&gt;
+&lt;img src="https://lazydarkz.github.io/thinh/images/certifications/QNB.png" alt="Cisco Networking Basics" loading="lazy" /&gt;
+&lt;figcaption class="center"&gt;Chứng chỉ Cisco Networking Basics&lt;/figcaption&gt;
+&lt;/div&gt;
+&lt;div class="certification"&gt;
+&lt;img src="https://lazydarkz.github.io/thinh/images/certifications/QJE1.png" alt="Cisco JE1" loading="lazy" /&gt;
+&lt;figcaption class="center"&gt;Chứng chỉ Cisco JE1&lt;/figcaption&gt;
+&lt;/div&gt;
+&lt;div class="certification"&gt;
+&lt;img src="https://lazydarkz.github.io/thinh/images/certifications/QJE2.png" alt="Cisco JE2" loading="lazy" /&gt;
+&lt;figcaption class="center"&gt;Chứng chỉ Cisco JE2&lt;/figcaption&gt;
+&lt;/div&gt;
 &lt;/figure&gt;
 &lt;h3 id="ngôn-ngữ-lập-trình"&gt;Ngôn Ngữ Lập Trình
 &lt;/h3&gt;&lt;ul&gt;

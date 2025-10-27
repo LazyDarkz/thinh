@@ -15,10 +15,6 @@
 &lt;/h3&gt;&lt;p&gt;JavaScript đang ngày càng phổ biến, đặc biệt với Node.js cho phép lập trình mạng phía server.&lt;/p&gt;
 &lt;h2 id="xu-hướng-lập-trình-mạng-hiện-tại"&gt;Xu hướng lập trình mạng hiện tại
 &lt;/h2&gt;&lt;p&gt;Trước đây Java hay .NET lại được sử dụng khá rộng rãi do sự tiện ích của nó khi xây dựng một ứng dụng mạng mang lại. Hiện nay, xu hướng ngôn ngữ lập trình đã có những thay đổi, đặc biệt là làn sóng xu lập trình Fullstack với lập trình mạng từ nền Javascript nhận được sự quan tâm nhiều hơn.&lt;/p&gt;
-&lt;figure&gt;&lt;img src="https://lazydarkz.github.io/thinh/images/mang.webp" width="auto" height="auto" loading="lazy"&gt;&lt;figcaption&gt;
-&lt;h4&gt;Lập trình mạng cần am hiểu nhiều ngôn ngữ khác nhau&lt;/h4&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
 &lt;h2 id="kiến-thức-cơ-bản-về-lập-trình-mạng"&gt;Kiến thức cơ bản về lập trình mạng
 &lt;/h2&gt;&lt;p&gt;Ngoài những hiểu biết về mạng và lập trình mạng cũng như ngôn ngữ lập trình. Hiện nay khi học lập trình, các nhà lập trình thường sử dụng ngôn ngữ lập trình NET. Ngôn ngữ lập trình của NET là tập hợp các lớp dùng để lập trình online thuộc không gian System.net và System.net Socket. Các lớp này hỗ trợ tất cả mọi thứ từ lập trình đến tạo địa chỉ TCP/IP.&lt;/p&gt;
 &lt;h3 id="mạng-cục-bộ-lan"&gt;Mạng cục bộ LAN
