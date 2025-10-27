@@ -30,11 +30,31 @@ Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập c�
 
 ### Chứng Chỉ Cisco Networking Academy đã đạt được
 
-{{< figure src="images/JE1.png" alt="Cisco Badge JE1" width="200" loading="lazy" >}}
+### Chứng Chỉ Cisco Networking Academy đã đạt được
 
-{{< figure src="images/JE2.png" alt="Cisco Badge JE2" width="200" loading="lazy" >}}
+{{< figure src="/images/certifications/QRJE1.jpeg" alt="Cisco Badge JE1" width="auto" class="center" loading="lazy" title="Chứng chỉ Cisco JE1">}}
 
-{{< figure src="images/NB.png" alt="Cisco Badge NB" width="200" loading="lazy" >}}
+{{< figure src="/images/certifications/QRJE2.jpeg" alt="Cisco Badge JE2" width="auto" class="center" loading="lazy" title="Chứng chỉ Cisco JE2">}}
+
+{{< figure src="/images/certifications/QRNB.jpeg" alt="Cisco Badge NB" width="auto" class="center" loading="lazy" title="Chứng chỉ Cisco NB">}}
+
+<figure>
+  <div class="certification">
+    <img src="/images/certifications/QNB.png" alt="Cisco Networking Basics" loading="lazy" />
+    <figcaption class="center">Chứng chỉ Cisco Networking Basics</figcaption>
+  </div>
+
+  <div class="certification">
+    <img src="/images/certifications/QJE1.png" alt="Cisco JE1" loading="lazy" />
+    <figcaption class="center">Chứng chỉ Cisco JE1</figcaption>
+  </div>
+
+  <div class="certification">
+    <img src="/images/certifications/QJE2.png" alt="Cisco JE2" loading="lazy" />
+    <figcaption class="center">Chứng chỉ Cisco JE2</figcaption>
+  </div>
+</figure>
+
 
 ### Ngôn Ngữ Lập Trình
 

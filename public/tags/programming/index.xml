@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Programming on Trần Phước Thịnh</title><link>https://lazydarkz.github.io/thinh/tags/programming/</link><description>Recent content in Programming on Trần Phước Thịnh</description><generator>Hugo -- gohugo.io</generator><language>vi</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lazydarkz.github.io/thinh/tags/programming/index.xml" rel="self" type="application/rss+xml"/><item><title>Biến và Khai Báo Biến trong JavaScript</title><link>https://lazydarkz.github.io/thinh/post/javascript-bien/</link><pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate><guid>https://lazydarkz.github.io/thinh/post/javascript-bien/</guid><description>&lt;h2 id="1-các-cách-khai-báo-biến-trong-javascript"&gt;1. Các cách khai báo biến trong JavaScript
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Programming on Trần Phước Thịnh</title><link>https://lazydarkz.github.io/thinh/tags/programming/</link><description>Recent content in Programming on Trần Phước Thịnh</description><generator>Hugo -- gohugo.io</generator><language>vi</language><lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lazydarkz.github.io/thinh/tags/programming/index.xml" rel="self" type="application/rss+xml"/><item><title>Lập trình mạng học ngôn ngữ gì? Hướng dẫn chọn ngôn ngữ phù hợp</title><link>https://lazydarkz.github.io/thinh/post/lap-trinh-mang-hoc-ngon-ngu-gi/</link><pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate><guid>https://lazydarkz.github.io/thinh/post/lap-trinh-mang-hoc-ngon-ngu-gi/</guid><description>&lt;h2 id="lập-trình-mạng-học-ngôn-ngữ-gì"&gt;Lập trình mạng học ngôn ngữ gì?
+&lt;/h2&gt;&lt;p&gt;Thành phần không thể thiếu của lập trình hay lập trình mạng chính là ngôn ngữ lập trình. Ngôn ngữ lập trình mạng là yếu tố quyết định then chốt xem chương trình mạng đang hoạt động ra sao. Tùy theo mục đích sử dụng mà sẽ tạo ngôn ngữ lập trình mạng tương ứng.&lt;/p&gt;
+&lt;h2 id="các-ngôn-ngữ-lập-trình-mạng-phổ-biến"&gt;Các ngôn ngữ lập trình mạng phổ biến
+&lt;/h2&gt;&lt;p&gt;Vậy thì học lập trình mạng chúng ta sẽ sử dụng ngôn ngữ nào? Có nhiều loại ngôn ngữ để lập trình mạng khác nhau, tuy nhiên tất cả đều vẫn có ưu nhược điểm riêng. Nhưng tóm gọn vẫn là hỗ trợ thư viện API với các cấp độ và mức phụ thuộc.&lt;/p&gt;
+&lt;p&gt;Các ngôn ngữ lập trình mạng phổ biến hiện nay được sử dụng nhiều nhất là:&lt;/p&gt;
+&lt;h3 id="1-cc"&gt;1. &lt;strong&gt;C/C++&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;C/C++ là một trong những ngôn ngữ cơ bản và mạnh mẽ cho lập trình mạng. C++ cung cấp khả năng kiểm soát chi tiết về hệ thống và hiệu năng cao.&lt;/p&gt;
+&lt;h3 id="2-java"&gt;2. &lt;strong&gt;Java&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;Java được sử dụng rộng rãi trong lập trình mạng nhờ tính tương thích và hỗ trợ đa nền tảng mạnh mẽ.&lt;/p&gt;
+&lt;h3 id="3-net"&gt;3. &lt;strong&gt;.NET&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;.NET là framework của Microsoft cung cấp thư viện phong phú cho lập trình mạng trên nền tảng Windows.&lt;/p&gt;
+&lt;h3 id="4-delphi"&gt;4. &lt;strong&gt;Delphi&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;Delphi là ngôn ngữ lập trình visual, phù hợp cho phát triển ứng dụng desktop có kết nối mạng.&lt;/p&gt;
+&lt;h3 id="5-javascript"&gt;5. &lt;strong&gt;JavaScript&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;JavaScript đang ngày càng phổ biến, đặc biệt với Node.js cho phép lập trình mạng phía server.&lt;/p&gt;
+&lt;h2 id="xu-hướng-lập-trình-mạng-hiện-tại"&gt;Xu hướng lập trình mạng hiện tại
+&lt;/h2&gt;&lt;p&gt;Trước đây Java hay .NET lại được sử dụng khá rộng rãi do sự tiện ích của nó khi xây dựng một ứng dụng mạng mang lại. Hiện nay, xu hướng ngôn ngữ lập trình đã có những thay đổi, đặc biệt là làn sóng xu lập trình Fullstack với lập trình mạng từ nền Javascript nhận được sự quan tâm nhiều hơn.&lt;/p&gt;
+&lt;figure&gt;&lt;img src="https://lazydarkz.github.io/thinh/images/mang.webp" width="auto" height="auto" loading="lazy"&gt;&lt;figcaption&gt;
+&lt;h4&gt;Lập trình mạng cần am hiểu nhiều ngôn ngữ khác nhau&lt;/h4&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id="kiến-thức-cơ-bản-về-lập-trình-mạng"&gt;Kiến thức cơ bản về lập trình mạng
+&lt;/h2&gt;&lt;p&gt;Ngoài những hiểu biết về mạng và lập trình mạng cũng như ngôn ngữ lập trình. Hiện nay khi học lập trình, các nhà lập trình thường sử dụng ngôn ngữ lập trình NET. Ngôn ngữ lập trình của NET là tập hợp các lớp dùng để lập trình online thuộc không gian System.net và System.net Socket. Các lớp này hỗ trợ tất cả mọi thứ từ lập trình đến tạo địa chỉ TCP/IP.&lt;/p&gt;
+&lt;h3 id="mạng-cục-bộ-lan"&gt;Mạng cục bộ LAN
+&lt;/h3&gt;&lt;p&gt;Mạng cục bộ LAN được các nhà lập trình tương lai xây dựng và phát triển các máy tính để kết nối tại các khu vực nhỏ như hộ gia đình hay toà nhà.&lt;/p&gt;
+&lt;h3 id="dịch-vụ-web-html-và-http"&gt;Dịch vụ web HTML và HTTP
+&lt;/h3&gt;&lt;p&gt;Ngoài ra lập trình mạng còn có dịch vụ web HTML, được thông qua từ HTTP. Hai không gian này đều có nền tảng hay networking cấp cao. Không chỉ vậy, lập trình mạng cũng cần tới nền Socket khi đây là giao diện trực tuyến, thông qua đó lập trình điều khiển 2 máy với nhau, gửi nhận dữ liệu giữa 2 máy.&lt;/p&gt;
+&lt;h2 id="tổng-kết"&gt;Tổng kết
+&lt;/h2&gt;&lt;p&gt;Việc chọn ngôn ngữ lập trình mạng phù hợp phụ thuộc vào mục đích và yêu cầu của dự án. Các ngôn ngữ như C/C++, Java, .NET, JavaScript đều có những ưu điểm riêng. Tuy nhiên, xu hướng hiện tại đang nghiêng về JavaScript với Node.js cho phép lập trình fullstack hiệu quả. Quan trọng là phải hiểu rõ các khái niệm cơ bản về mạng, TCP/IP, Socket và HTTP để có thể phát triển các ứng dụng mạng thành công.&lt;/p&gt;</description></item><item><title>Mạng là gì? Tổng quan về các loại mạng máy tính</title><link>https://lazydarkz.github.io/thinh/post/mang-la-gi/</link><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><guid>https://lazydarkz.github.io/thinh/post/mang-la-gi/</guid><description>&lt;h2 id="mạng-là-gì"&gt;Mạng là gì?
+&lt;/h2&gt;&lt;p&gt;Với mục đích phân tích và nghiên cứu quá trình giao tiếp, Mạng máy tính đã được tạo ra như một bước tiến mới trong lịch sử. Bởi nó liên kết toàn bộ các hệ thống máy tính khác nhau để trao đổi thông tin cần thiết.&lt;/p&gt;
+&lt;p&gt;Do đó, việc kết nối mạng chỉ thực hiện được khi có mạng riêng của nó. Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN. Người dùng cần chú ý cơ chế hoạt động của các mạng để lựa chọn phát triển chương trình mạng được tốt nhất.&lt;/p&gt;
+&lt;figure&gt;&lt;img src="https://lazydarkz.github.io/thinh/post/mang-la-gi/images/mang.webp" width="auto" height="auto" loading="lazy"&gt;&lt;figcaption&gt;
+&lt;h4&gt;Minh Hoạ Mạng&lt;/h4&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id="có-4-loại-mạng-cơ-bản-là-lan-man-wan-và-pan"&gt;Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN
+&lt;/h2&gt;&lt;h3 id="mạng-lan-local-area-network"&gt;Mạng LAN (Local Area Network)
+&lt;/h3&gt;&lt;p&gt;Mạng LAN là mạng cục bộ nên có đường truyền ngắn. Với giao thức TCP/IP, mạng LAN chủ yếu được sử dụng tại nơi diện tích nhỏ như: văn phòng, tòa nhà, trường học.&lt;/p&gt;
+&lt;p&gt;Tất cả máy tính kết nối mạng LAN đều được sử dụng để kết nối vào máy chủ sau đó chờ quyền truy cập để thực hiện lệnh in trên máy in.&lt;/p&gt;
+&lt;h3 id="mạng-man-metropolitan-area-network"&gt;Mạng MAN (Metropolitan Area Network)
+&lt;/h3&gt;&lt;p&gt;Khác với mạng LAN, mạng đô thị MAN có phạm vị kết nối rộng hơn, hình thành nhờ sự kết nối nhiều mạng LAN với nhau.&lt;/p&gt;
+&lt;p&gt;Đây là mô hình rộng cung cấp dịch vụ giá trị gia tăng; trên một đường truyền tốc độ nhanh để kết nối và mở rộng triển khai các doanh nghiệp với nhau.&lt;/p&gt;
+&lt;h3 id="mạng-wan-wide-area-network"&gt;Mạng WAN (Wide Area Network)
+&lt;/h3&gt;&lt;p&gt;Mạng diện rộng WAN là sự kết hợp giữa mạng LAN và mạng MAN với việc sử dụng đường dây cáp quang hay thuê bao hoặc thông qua đường truyền vệ tinh.&lt;/p&gt;
+&lt;p&gt;Phạm vi hoạt động của mạng rộng lớn hơn, bao gồm cả một quốc gia, khu vực địa lý hay thậm chí ở toàn cầu.&lt;/p&gt;
+&lt;h3 id="mạng-pan-personal-area-network"&gt;Mạng PAN (Personal Area Network)
+&lt;/h3&gt;&lt;p&gt;Mạng PAN có khả năng phát tín hiệu kết nối trong một diện tích nhỏ để truyền dữ liệu thông qua mạng trực tuyến.&lt;/p&gt;
+&lt;p&gt;Cá nhân có thể sử dụng mạng PAN giữa các thiết bị với nhau như di động, máy tính để liên lạc thuận tiện hơn hoặc kết nối với các mạng cao cấp hơn.&lt;/p&gt;
+&lt;h2 id="tổng-kết"&gt;Tổng kết
+&lt;/h2&gt;&lt;p&gt;Mạng máy tính đóng vai trò quan trọng trong việc kết nối và trao đổi thông tin giữa các thiết bị. Việc hiểu rõ các loại mạng cơ bản (LAN, MAN, WAN, PAN) sẽ giúp bạn lựa chọn và triển khai giải pháp mạng phù hợp nhất cho nhu cầu của mình.&lt;/p&gt;</description></item><item><title>Biến và Khai Báo Biến trong JavaScript</title><link>https://lazydarkz.github.io/thinh/post/javascript-bien/</link><pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate><guid>https://lazydarkz.github.io/thinh/post/javascript-bien/</guid><description>&lt;h2 id="1-các-cách-khai-báo-biến-trong-javascript"&gt;1. Các cách khai báo biến trong JavaScript
 &lt;/h2&gt;&lt;p&gt;Trong JavaScript, có ba cách để khai báo biến: &lt;code&gt;var&lt;/code&gt;, &lt;code&gt;let&lt;/code&gt;, và &lt;code&gt;const&lt;/code&gt;. Mỗi cách có những đặc điểm và trường hợp sử dụng riêng.&lt;/p&gt;
 &lt;h3 id="khai-báo-biến-trong-js-bằng-từ-khóa-var"&gt;Khai báo biến trong JS bằng từ khóa var
 &lt;/h3&gt;&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
