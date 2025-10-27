@@ -2,22 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/backend/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/loi-chao/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/blog/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/gi%E1%BB%9Bi-thi%E1%BB%87u/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/javascript/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/switch-case-trong-javascript/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/programming/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/switch-case/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/thinhblog/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/backend/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/javascript-bien/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/javascript-toan-tu/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/tags/for/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/java/</loc>
@@ -26,25 +62,22 @@
     <loc>http://localhost:1313/post/java-la-gi/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/javascript/</loc>
+    <loc>http://localhost:1313/post/javascript-la-gi/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/javascript-la-gi/</loc>
+    <loc>http://localhost:1313/tags/loop/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/operators/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/programming/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/programming/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/variables/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/variables/</loc>
+    <loc>http://localhost:1313/post/javascript-for-loop/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/web-development/</loc>
@@ -57,9 +90,6 @@
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/java/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/java-oop/</loc>

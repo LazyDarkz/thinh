@@ -2,22 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lazydarkz.github.io/thinh/tags/backend/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lazydarkz.github.io/thinh/post/</loc>
+    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/</loc>
+    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/post/loi-chao/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/tags/blog/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/categories/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/categories/gi%E1%BB%9Bi-thi%E1%BB%87u/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/tags/javascript/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/tags/l%E1%BA%ADp-tr%C3%ACnh/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/post/switch-case-trong-javascript/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/categories/programming/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/tags/switch-case/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/tags/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/tags/thinhblog/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/tags/backend/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lazydarkz.github.io/thinh/post/javascript-bien/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lazydarkz.github.io/thinh/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lazydarkz.github.io/thinh/post/javascript-toan-tu/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lazydarkz.github.io/thinh/categories/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lazydarkz.github.io/thinh/tags/for/</loc>
@@ -29,9 +62,6 @@
     <loc>https://lazydarkz.github.io/thinh/post/java-la-gi/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lazydarkz.github.io/thinh/tags/javascript/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lazydarkz.github.io/thinh/post/javascript-la-gi/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -41,13 +71,7 @@
     <loc>https://lazydarkz.github.io/thinh/tags/operators/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lazydarkz.github.io/thinh/categories/programming/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lazydarkz.github.io/thinh/tags/programming/</loc>
-    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lazydarkz.github.io/thinh/tags/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lazydarkz.github.io/thinh/tags/variables/</loc>
@@ -66,9 +90,6 @@
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lazydarkz.github.io/thinh/categories/java/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lazydarkz.github.io/thinh/tags/l%E1%BA%ADp-tr%C3%ACnh/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lazydarkz.github.io/thinh/post/java-oop/</loc>
