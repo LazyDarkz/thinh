@@ -14,7 +14,7 @@ defaultContentLanguage = 'vi'
 [params.article]
     [params.article.author]
         enabled = true
-        avatar = "/img/Thinhavt.jpg"
+        src = "/img/Thinhavt.jpg"
         name = "Trần Phước Thịnh"
 
 [params.sidebar]

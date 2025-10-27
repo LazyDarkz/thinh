@@ -4,7 +4,6 @@ description: "Tìm hiểu về OOP và các khái niệm cơ bản trong Java"
 date: "2023-10-25"
 categories: ["Java"]
 tags: ["java", "oop", "lập trình"]
-image: "/img/featured/featured-image.webp"
 ---
 
 ## Giới thiệu về OOP

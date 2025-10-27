@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="vi" dir="ltr">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Tìm hiểu về JavaScript - Ngôn ngữ lập trình phổ biến nhất cho web development">
+<title>JavaScript là gì? Tổng quan về ngôn ngữ lập trình JavaScript</title>
+
+<link rel='canonical' href='http://localhost:1313/post/javascript-la-gi/'>
+
+<link rel="stylesheet" href="/scss/style.min.f9005b4d227e2a407add3c1d31ad5d64b7165a8e65c7354b6bb14ccd45ff077a.css"><meta property='og:title' content="JavaScript là gì? Tổng quan về ngôn ngữ lập trình JavaScript">
+<meta property='og:description' content="Tìm hiểu về JavaScript - Ngôn ngữ lập trình phổ biến nhất cho web development">
+<meta property='og:url' content='http://localhost:1313/post/javascript-la-gi/'>
+<meta property='og:site_name' content='Trần Phước Thịnh'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='javascript' /><meta property='article:tag' content='programming' /><meta property='article:tag' content='web development' /><meta property='article:published_time' content='2023-10-27T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2023-10-27T00:00:00&#43;00:00'/>
+<meta name="twitter:title" content="JavaScript là gì? Tổng quan về ngôn ngữ lập trình JavaScript">
+<meta name="twitter:description" content="Tìm hiểu về JavaScript - Ngôn ngữ lập trình phổ biến nhất cho web development">
+    <link rel="shortcut icon" href="/img/favicon.webp" />
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column compact"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Hiển thị Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    <img src="/img/Thinhavt.jpg" width="300" height="300" class="site-logo" loading="lazy" alt="Avatar">
+                
+                </a>
+                
+                    <span class="emoji">🎓</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">Trần Phước Thịnh</a></h1>
+            <h2 class="site-description">Blog chia sẻ kiến thức</h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                <span>Trang Chủ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/post/' >
+                
+                
+                
+                <span>Blog</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/about/' >
+                
+                
+                
+                <span>Về Tôi</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Chế độ nền tối</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/programming/" >
+                Programming
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/javascript-la-gi/">JavaScript là gì? Tổng quan về ngôn ngữ lập trình JavaScript</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            Tìm hiểu về JavaScript - Ngôn ngữ lập trình phổ biến nhất cho web development
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">thg 10 27, 2023</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    4 phút đọc
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <h2 id="1-javascript-là-gì">1. JavaScript là gì?
+</h2><p>JavaScript (JS) là một ngôn ngữ lập trình kịch bản (scripting language) được sử dụng rộng rãi để tạo ra các trang web tương tác. Nó là một trong ba công nghệ cốt lõi của web development, cùng với HTML và CSS.</p>
+<h3 id="js-là-gì">JS là gì?
+</h3><p>JS là viết tắt của JavaScript, được phát triển bởi Brendan Eich tại Netscape vào năm 1995. Ban đầu, nó được tạo ra để làm cho các trang web trở nên &ldquo;sống động&rdquo; hơn bằng cách thêm các tính năng tương tác người dùng.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-javascript" data-lang="javascript"><span class="line"><span class="cl"><span class="c1">// Ví dụ đơn giản về JavaScript
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">function</span> <span class="nx">sayHello</span><span class="p">()</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nx">alert</span><span class="p">(</span><span class="s2">&#34;Xin chào các bạn!&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="2-javascript-framework-là-gì">2. JavaScript Framework là gì?
+</h2><p>JavaScript Framework là các thư viện mã nguồn mở được xây dựng trên nền tảng JavaScript, giúp lập trình viên phát triển ứng dụng nhanh và hiệu quả hơn. Một số framework phổ biến:</p>
+<ul>
+<li><strong>React.js</strong>: Framework của Facebook</li>
+<li><strong>Vue.js</strong>: Framework độc lập, linh hoạt</li>
+<li><strong>Angular</strong>: Framework của Google</li>
+<li><strong>Node.js</strong>: Runtime environment cho phép chạy JavaScript ở phía server</li>
+</ul>
+<h2 id="3-ưu-điểm-và-nhược-điểm-của-javascript">3. Ưu điểm và nhược điểm của JavaScript
+</h2><h3 id="ưu-điểm-của-javascript-là-gì">Ưu điểm của JavaScript là gì?
+</h3><ol>
+<li>
+<p><strong>Dễ học và sử dụng</strong></p>
+<ul>
+<li>Cú pháp đơn giản</li>
+<li>Nhiều tài liệu học tập</li>
+<li>Cộng đồng lớn mạnh</li>
+</ul>
+</li>
+<li>
+<p><strong>Đa nền tảng</strong></p>
+<ul>
+<li>Chạy trên mọi trình duyệt</li>
+<li>Phát triển được cả frontend và backend</li>
+<li>Hỗ trợ đa nền tảng (web, mobile, desktop)</li>
+</ul>
+</li>
+<li>
+<p><strong>Hiệu suất cao</strong></p>
+<ul>
+<li>Xử lý nhanh phía client</li>
+<li>Giảm tải cho server</li>
+<li>Tương tác người dùng mượt mà</li>
+</ul>
+</li>
+</ol>
+<h3 id="nhược-điểm-của-javascript-là-gì">Nhược điểm của JavaScript là gì?
+</h3><ol>
+<li>
+<p><strong>Bảo mật</strong></p>
+<ul>
+<li>Code chạy phía client có thể bị xem</li>
+<li>Dễ bị tấn công XSS</li>
+<li>Cần thêm biện pháp bảo mật</li>
+</ul>
+</li>
+<li>
+<p><strong>Độ chính xác của số</strong></p>
+<ul>
+<li>Xử lý số thập phân không chính xác</li>
+<li>Cần thư viện bổ sung cho tính toán</li>
+</ul>
+</li>
+<li>
+<p><strong>Khác biệt giữa các trình duyệt</strong></p>
+<ul>
+<li>Một số tính năng có thể không hoạt động trên mọi trình duyệt</li>
+<li>Cần viết code tương thích</li>
+</ul>
+</li>
+</ol>
+<h2 id="4-cách-viết-chương-trình-javascript-đầu-tiên">4. Cách viết chương trình JavaScript đầu tiên
+</h2><h3 id="cặp-thẻ-mở-và-thẻ-đóng">Cặp thẻ mở và thẻ đóng
+</h3><p>JavaScript được đặt trong cặp thẻ <code>&lt;script&gt;</code>:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="c1">// Code JavaScript ở đây
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="p">&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="đặt-thẻ-script-ở-đâu">Đặt thẻ script ở đâu?
+</h3><p>Có 3 vị trí phổ biến:</p>
+<ol>
+<li>Trong thẻ <code>&lt;head&gt;</code></li>
+</ol>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">script</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;script.js&#34;</span><span class="p">&gt;&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">head</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><ol start="2">
+<li>Cuối thẻ <code>&lt;body&gt;</code> (Khuyến nghị)</li>
+</ol>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">body</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="c">&lt;!-- Nội dung HTML --&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">script</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;script.js&#34;</span><span class="p">&gt;&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><ol start="3">
+<li>Inline trong HTML</li>
+</ol>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">button</span> <span class="na">onclick</span><span class="o">=</span><span class="s">&#34;sayHello()&#34;</span><span class="p">&gt;</span>Click me!<span class="p">&lt;/</span><span class="nt">button</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="viết-chương-trình-hello-world">Viết chương trình Hello World!
+</h3><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="cp">&lt;!DOCTYPE html&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">html</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">title</span><span class="p">&gt;</span>My First JavaScript<span class="p">&lt;/</span><span class="nt">title</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">head</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">body</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">h1</span><span class="p">&gt;</span>Hello World Example<span class="p">&lt;/</span><span class="nt">h1</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s2">&#34;Hello World!&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="nb">document</span><span class="p">.</span><span class="nx">write</span><span class="p">(</span><span class="s2">&#34;Hello World!&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">        <span class="nx">alert</span><span class="p">(</span><span class="s2">&#34;Hello World!&#34;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="5-các-câu-hỏi-thường-gặp-khi-học-javascript">5. Các câu hỏi thường gặp khi học JavaScript
+</h2><h3 id="thẻ-script-là-gì">Thẻ script là gì?
+</h3><p>Thẻ <code>&lt;script&gt;</code> là một phần tử HTML dùng để nhúng hoặc tham chiếu đến code JavaScript. Nó có thể chứa code trực tiếp hoặc liên kết đến file JavaScript bên ngoài.</p>
+<h3 id="type--textjavascript-là-gì">Type = text/javascript là gì?
+</h3><p>Đây là thuộc tính xác định loại script, tuy nhiên trong HTML5 không cần thiết phải khai báo vì JavaScript là ngôn ngữ script mặc định.</p>
+<h3 id="javascript-có-làm-được-backend-không">JavaScript có làm được backend không?
+</h3><p><strong>Có!</strong> Với Node.js, JavaScript có thể:</p>
+<ul>
+<li>Xây dựng server</li>
+<li>Tương tác với database</li>
+<li>Xử lý file system</li>
+<li>Tạo API</li>
+<li>Và nhiều tính năng backend khác</li>
+</ul>
+<h3 id="có-nên-học-javascript-không">Có nên học JavaScript không?
+</h3><p><strong>Tuyệt đối nên học!</strong> Vì:</p>
+<ol>
+<li>Cơ hội việc làm rộng mở</li>
+<li>Cộng đồng lớn, nhiều tài liệu</li>
+<li>Có thể làm cả frontend và backend</li>
+<li>Công nghệ liên tục phát triển</li>
+<li>Mức lương hấp dẫn</li>
+</ol>
+<h2 id="tổng-kết">Tổng kết
+</h2><p>JavaScript là một ngôn ngữ lập trình không thể thiếu trong phát triển web hiện đại. Với sự phát triển của các framework và công nghệ mới, JavaScript ngày càng mở rộng khả năng ứng dụng của mình, từ web development đến mobile app và desktop application.</p>
+<p>Để bắt đầu với JavaScript, bạn chỉ cần:</p>
+<ol>
+<li>Một trình duyệt web</li>
+<li>Một text editor</li>
+<li>Kiến thức cơ bản về HTML</li>
+</ol>
+<p>Từ đó, bạn có thể dần dần mở rộng kiến thức và xây dựng các ứng dụng phức tạp hơn.</p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/javascript/">Javascript</a>
+        
+            <a href="/tags/programming/">Programming</a>
+        
+            <a href="/tags/web-development/">Web Development</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Bài viết liên quan</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/post/java-la-gi/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Java là gì? Tổng quan về ngôn ngữ lập trình Java</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2023 - 
+        
+        2025 Trần Phước Thịnh
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.31.0">Stack</a></b> thiết kế bởi <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.33e637ed762ce7bbfdfe0c48d8224235c98c5d2759cf4b2461e9f904dc5cf605.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>
