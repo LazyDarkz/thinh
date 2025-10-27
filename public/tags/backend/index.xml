@@ -13,7 +13,7 @@
         
         <guid>http://localhost:1313/post/java-la-gi/</guid>
         <description>&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;http://localhost:1313/post/java-la-gi/images/Java-Logo.png&#34;
-    alt=&#34;Logo Java&#34; width=&#34;236.8&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
+    alt=&#34;Logo Java&#34; width=&#34;auto&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
       &lt;h4&gt;Java - Ngôn ngữ lập trình phổ biến nhất thế giới&lt;/h4&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;

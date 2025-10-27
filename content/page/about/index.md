@@ -11,9 +11,14 @@ image: "/images/HUTECH.webp"
 
 ## Giới Thiệu
 
-Xin chào! Tôi là [Trần Phước Thịnh]. Đang học tập tại ĐH Công nghệ HUTECH.
+Xin chào! Tôi là [Trần Phước Thịnh].
 
-Một sinh viên đam mê lập trình và phát triển phần mềm.
+Ngày sinh: 15/06/2004
+
+SĐT: (84+) 0569420644
+
+
+Một sinh viên đam mê lập trình và phát triển phần mềm. Đang học tập tại ĐH Công nghệ HUTECH. Chuyên ngành Công nghệ phần mềm.
 
 Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập của mình về Java và JavaScript.
 

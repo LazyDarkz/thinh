@@ -6,7 +6,7 @@ tags: ["java", "programming", "backend"]
 categories: ["Programming"]
 ---
 
-{{< figure src="/images/Java-Logo.png" alt="Logo Java" width="236.8" class="center" loading="lazy" title="Java - Ngôn ngữ lập trình phổ biến nhất thế giới">}}
+{{< figure src="/images/Java-Logo.png" alt="Logo Java" width="auto" class="center" loading="lazy" title="Java - Ngôn ngữ lập trình phổ biến nhất thế giới">}}
 
 ## Java là gì?
 

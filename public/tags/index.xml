@@ -24,11 +24,43 @@
 </description>
         </item>
         <item>
+        <title>Javascript</title>
+        <link>http://localhost:1313/tags/javascript/</link>
+        <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/javascript/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Operators</title>
+        <link>http://localhost:1313/tags/operators/</link>
+        <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/operators/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Programming</title>
         <link>http://localhost:1313/tags/programming/</link>
         <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/programming/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Variables</title>
+        <link>http://localhost:1313/tags/variables/</link>
+        <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/variables/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Web Development</title>
+        <link>http://localhost:1313/tags/web-development/</link>
+        <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/web-development/</guid>
         <description></description>
         </item>
         <item>

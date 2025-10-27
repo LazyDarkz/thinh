@@ -9,6 +9,8 @@ image: "/img/featured/featured-image.webp"
 
 ## 1. JavaScript là gì?
 
+{{< figure src="/images/javascript-la-gi.jpg" alt="JavaScript Logo" width="auto" length="auto" class="center" loading="lazy" title="JavaScript - Ngôn ngữ lập trình phổ biến cho web development">}}
+
 JavaScript (JS) là một ngôn ngữ lập trình kịch bản (scripting language) được sử dụng rộng rãi để tạo ra các trang web tương tác. Nó là một trong ba công nghệ cốt lõi của web development, cùng với HTML và CSS.
 
 ### JS là gì?
@@ -152,9 +154,10 @@ Thẻ `<script>` là một phần tử HTML dùng để nhúng hoặc tham chi�
 
 JavaScript là một ngôn ngữ lập trình không thể thiếu trong phát triển web hiện đại. Với sự phát triển của các framework và công nghệ mới, JavaScript ngày càng mở rộng khả năng ứng dụng của mình, từ web development đến mobile app và desktop application.
 
-Để bắt đầu với JavaScript, bạn chỉ cần:
+Để bắt đầu với JavaScript, bạn cần:
 1. Một trình duyệt web
 2. Một text editor
 3. Kiến thức cơ bản về HTML
 
-Từ đó, bạn có thể dần dần mở rộng kiến thức và xây dựng các ứng dụng phức tạp hơn.
+**Tài liệu tham khảo:**
+- https://freetuts.net/
