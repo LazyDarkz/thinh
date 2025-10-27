@@ -17,7 +17,6 @@ Ngày sinh: 15/06/2004
 
 SĐT: (84+) 0569420644
 
-
 Một sinh viên đam mê lập trình và phát triển phần mềm. Đang học tập tại ĐH Công nghệ HUTECH. Chuyên ngành Công nghệ phần mềm.
 
 Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập của mình về Java và JavaScript.
@@ -30,31 +29,16 @@ Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập c�
 
 ### Chứng Chỉ Cisco Networking Academy đã đạt được
 
-### Chứng Chỉ Cisco Networking Academy đã đạt được
+{{< figure src="/images/QRJE1.jpeg" alt="Cisco Badge JE1" width="auto" class="center" loading="lazy" title="Chứng chỉ Cisco JE1">}}
 
-{{< figure src="/images/certifications/QRJE1.jpeg" alt="Cisco Badge JE1" width="auto" class="center" loading="lazy" title="Chứng chỉ Cisco JE1">}}
+{{< figure src="/images/QRJE2.jpeg" alt="Cisco Badge JE2" width="auto" class="center" loading="lazy" title="Chứng chỉ Cisco JE2">}}
 
-{{< figure src="/images/certifications/QRJE2.jpeg" alt="Cisco Badge JE2" width="auto" class="center" loading="lazy" title="Chứng chỉ Cisco JE2">}}
-
-{{< figure src="/images/certifications/QRNB.jpeg" alt="Cisco Badge NB" width="auto" class="center" loading="lazy" title="Chứng chỉ Cisco NB">}}
-
-<figure>
-  <div class="certification">
-    <img src="/images/certifications/QNB.png" alt="Cisco Networking Basics" loading="lazy" />
-    <figcaption class="center">Chứng chỉ Cisco Networking Basics</figcaption>
-  </div>
-
-  <div class="certification">
-    <img src="/images/certifications/QJE1.png" alt="Cisco JE1" loading="lazy" />
-    <figcaption class="center">Chứng chỉ Cisco JE1</figcaption>
-  </div>
-
-  <div class="certification">
-    <img src="/images/certifications/QJE2.png" alt="Cisco JE2" loading="lazy" />
-    <figcaption class="center">Chứng chỉ Cisco JE2</figcaption>
-  </div>
-</figure>
-
+{{< figure src="/images/QRNB.jpeg" alt="Cisco Badge NB" width="auto" class="center" loading="lazy" title="Chứng chỉ Cisco NB">}}
+<div class="certification-gallery">
+    {{<figure src="/images/QNB.png" alt="Cisco Networking Basics" loading="lazy">}}
+    {{<figure src="/images/QJE1.png" alt="Cisco JE1" loading="lazy">}}
+    {{<figure src="/images/QJE2.png" alt="Cisco JE2" loading="lazy">}}
+</div>
 
 ### Ngôn Ngữ Lập Trình
 

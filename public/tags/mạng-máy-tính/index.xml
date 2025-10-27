@@ -1,22 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mạng Máy Tính on Trần Phước Thịnh</title><link>https://lazydarkz.github.io/thinh/tags/m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh/</link><description>Recent content in Mạng Máy Tính on Trần Phước Thịnh</description><generator>Hugo -- gohugo.io</generator><language>vi</language><lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lazydarkz.github.io/thinh/tags/m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh/index.xml" rel="self" type="application/rss+xml"/><item><title>Mạng là gì? Tổng quan về các loại mạng máy tính</title><link>https://lazydarkz.github.io/thinh/post/mang-la-gi/</link><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><guid>https://lazydarkz.github.io/thinh/post/mang-la-gi/</guid><description>&lt;h2 id="mạng-là-gì"&gt;Mạng là gì?
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Mạng Máy Tính on Trần Phước Thịnh</title>
+        <link>//localhost:1313/tags/m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh/</link>
+        <description>Recent content in Mạng Máy Tính on Trần Phước Thịnh</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>vi</language>
+        <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Mạng là gì? Tổng quan về các loại mạng máy tính</title>
+        <link>//localhost:1313/post/mang-la-gi/</link>
+        <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/post/mang-la-gi/</guid>
+        <description>&lt;h2 id=&#34;mạng-là-gì&#34;&gt;Mạng là gì?
 &lt;/h2&gt;&lt;p&gt;Với mục đích phân tích và nghiên cứu quá trình giao tiếp, Mạng máy tính đã được tạo ra như một bước tiến mới trong lịch sử. Bởi nó liên kết toàn bộ các hệ thống máy tính khác nhau để trao đổi thông tin cần thiết.&lt;/p&gt;
 &lt;p&gt;Do đó, việc kết nối mạng chỉ thực hiện được khi có mạng riêng của nó. Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN. Người dùng cần chú ý cơ chế hoạt động của các mạng để lựa chọn phát triển chương trình mạng được tốt nhất.&lt;/p&gt;
-&lt;figure&gt;&lt;img src="https://lazydarkz.github.io/thinh/post/mang-la-gi/images/mang.webp" width="auto" height="auto" loading="lazy"&gt;&lt;figcaption&gt;
-&lt;h4&gt;Minh Hoạ Mạng&lt;/h4&gt;
-&lt;/figcaption&gt;
+&lt;figure&gt;&lt;img src=&#34;//localhost:1313/post/mang-la-gi/images/mang.webp&#34; width=&#34;auto&#34; height=&#34;auto&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;Minh Hoạ Mạng&lt;/h4&gt;
+    &lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;h2 id="có-4-loại-mạng-cơ-bản-là-lan-man-wan-và-pan"&gt;Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN
-&lt;/h2&gt;&lt;h3 id="mạng-lan-local-area-network"&gt;Mạng LAN (Local Area Network)
+
+&lt;h2 id=&#34;có-4-loại-mạng-cơ-bản-là-lan-man-wan-và-pan&#34;&gt;Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN
+&lt;/h2&gt;&lt;h3 id=&#34;mạng-lan-local-area-network&#34;&gt;Mạng LAN (Local Area Network)
 &lt;/h3&gt;&lt;p&gt;Mạng LAN là mạng cục bộ nên có đường truyền ngắn. Với giao thức TCP/IP, mạng LAN chủ yếu được sử dụng tại nơi diện tích nhỏ như: văn phòng, tòa nhà, trường học.&lt;/p&gt;
 &lt;p&gt;Tất cả máy tính kết nối mạng LAN đều được sử dụng để kết nối vào máy chủ sau đó chờ quyền truy cập để thực hiện lệnh in trên máy in.&lt;/p&gt;
-&lt;h3 id="mạng-man-metropolitan-area-network"&gt;Mạng MAN (Metropolitan Area Network)
+&lt;h3 id=&#34;mạng-man-metropolitan-area-network&#34;&gt;Mạng MAN (Metropolitan Area Network)
 &lt;/h3&gt;&lt;p&gt;Khác với mạng LAN, mạng đô thị MAN có phạm vị kết nối rộng hơn, hình thành nhờ sự kết nối nhiều mạng LAN với nhau.&lt;/p&gt;
 &lt;p&gt;Đây là mô hình rộng cung cấp dịch vụ giá trị gia tăng; trên một đường truyền tốc độ nhanh để kết nối và mở rộng triển khai các doanh nghiệp với nhau.&lt;/p&gt;
-&lt;h3 id="mạng-wan-wide-area-network"&gt;Mạng WAN (Wide Area Network)
+&lt;h3 id=&#34;mạng-wan-wide-area-network&#34;&gt;Mạng WAN (Wide Area Network)
 &lt;/h3&gt;&lt;p&gt;Mạng diện rộng WAN là sự kết hợp giữa mạng LAN và mạng MAN với việc sử dụng đường dây cáp quang hay thuê bao hoặc thông qua đường truyền vệ tinh.&lt;/p&gt;
 &lt;p&gt;Phạm vi hoạt động của mạng rộng lớn hơn, bao gồm cả một quốc gia, khu vực địa lý hay thậm chí ở toàn cầu.&lt;/p&gt;
-&lt;h3 id="mạng-pan-personal-area-network"&gt;Mạng PAN (Personal Area Network)
+&lt;h3 id=&#34;mạng-pan-personal-area-network&#34;&gt;Mạng PAN (Personal Area Network)
 &lt;/h3&gt;&lt;p&gt;Mạng PAN có khả năng phát tín hiệu kết nối trong một diện tích nhỏ để truyền dữ liệu thông qua mạng trực tuyến.&lt;/p&gt;
 &lt;p&gt;Cá nhân có thể sử dụng mạng PAN giữa các thiết bị với nhau như di động, máy tính để liên lạc thuận tiện hơn hoặc kết nối với các mạng cao cấp hơn.&lt;/p&gt;
-&lt;h2 id="tổng-kết"&gt;Tổng kết
-&lt;/h2&gt;&lt;p&gt;Mạng máy tính đóng vai trò quan trọng trong việc kết nối và trao đổi thông tin giữa các thiết bị. Việc hiểu rõ các loại mạng cơ bản (LAN, MAN, WAN, PAN) sẽ giúp bạn lựa chọn và triển khai giải pháp mạng phù hợp nhất cho nhu cầu của mình.&lt;/p&gt;</description></item></channel></rss>
+&lt;h2 id=&#34;tổng-kết&#34;&gt;Tổng kết
+&lt;/h2&gt;&lt;p&gt;Mạng máy tính đóng vai trò quan trọng trong việc kết nối và trao đổi thông tin giữa các thiết bị. Việc hiểu rõ các loại mạng cơ bản (LAN, MAN, WAN, PAN) sẽ giúp bạn lựa chọn và triển khai giải pháp mạng phù hợp nhất cho nhu cầu của mình.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
