@@ -14,7 +14,7 @@ defaultContentLanguage = 'vi'
 [params.article]
     [params.article.author]
         enabled = true
-        avatar = "/img/Stacktheme.webp"
+        avatar = "/img/avatar.png"
         name = "Trần Phước Thịnh"
 
 [params.sidebar]
@@ -24,7 +24,7 @@ defaultContentLanguage = 'vi'
 [params.sidebar.avatar]
     enabled = true
     local = false
-    src = "/img/Stacktheme.webp"
+    src = "/img/Thinhavt.jpg"
 
 [params.footer]
     since = 2023

@@ -1,4 +1,3 @@
-
 baseURL = 'https://lazydarkz.github.io/thinh/'
 theme = "hugo-theme-stack"
 title = "Trần Phước Thịnh"
@@ -15,6 +14,7 @@ defaultContentLanguage = 'vi'
 [params.article]
     [params.article.author]
         enabled = true
+        avatar = "/img/avatar.png"
         name = "Trần Phước Thịnh"
 
 [params.sidebar]
@@ -24,7 +24,7 @@ defaultContentLanguage = 'vi'
 [params.sidebar.avatar]
     enabled = true
     local = false
-    src = "/img/avatar.webp"
+    src = "/img/Thinhavt.jpg"
 
 [params.footer]
     since = 2023
@@ -51,7 +51,6 @@ defaultContentLanguage = 'vi'
     name = "Về Tôi"
     url = "/page/about/"
     weight = 30
-
 
 [markup]
     [markup.highlight]

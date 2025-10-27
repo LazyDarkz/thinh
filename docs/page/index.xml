@@ -12,8 +12,14 @@
         <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
         
         <guid>https://lazydarkz.github.io/thinh/page/about/</guid>
-        <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới Thiệu
-&lt;/h2&gt;&lt;p&gt;Xin chào! Tôi là [Trần Phước Thịnh].&lt;/p&gt;
+        <description>&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;https://lazydarkz.github.io/thinh/page/about/images/HUTECH.webp&#34;
+    alt=&#34;Logo HUTECH&#34; width=&#34;4000&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;HUTECH - Đại học Công nghệ TP.HCM&lt;/h4&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới Thiệu
+&lt;/h2&gt;&lt;p&gt;Xin chào! Tôi là [Trần Phước Thịnh]. Đang học tập tại ĐH Công nghệ HUTECH.&lt;/p&gt;
 &lt;p&gt;Một sinh viên đam mê lập trình và phát triển phần mềm.&lt;/p&gt;
 &lt;p&gt;Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập của mình về Java và JavaScript.&lt;/p&gt;
 &lt;h2 id=&#34;kỹ-năng&#34;&gt;Kỹ Năng
@@ -22,7 +28,7 @@
 &lt;li&gt;Phát triển ứng dụng web&lt;/li&gt;
 &lt;li&gt;Lập trình mạng&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;chứng-chỉ-cisco-networking-academy&#34;&gt;Chứng Chỉ Cisco Networking Academy
+&lt;h3 id=&#34;chứng-chỉ-cisco-networking-academy-đã-đạt-được&#34;&gt;Chứng Chỉ Cisco Networking Academy đã đạt được
 &lt;/h3&gt;&lt;figure&gt;&lt;img src=&#34;https://lazydarkz.github.io/thinh/page/about/images/JE1.png&#34;
     alt=&#34;Cisco Badge JE1&#34; width=&#34;200&#34; loading=&#34;lazy&#34;&gt;
 &lt;/figure&gt;
@@ -63,8 +69,8 @@
 &lt;h2 id=&#34;liên-hệ&#34;&gt;Liên Hệ
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Email: &lt;a class=&#34;link&#34; href=&#34;mailto:phuocthinh123456789100@gmail.com&#34; &gt;phuocthinh123456789100@gmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;GitHub: &lt;a class=&#34;link&#34; href=&#34;https://github.com/yourusername&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Your GitHub Profile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a class=&#34;link&#34; href=&#34;https://github.com/LazyDarkz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/LazyDarkz&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>

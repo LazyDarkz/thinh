@@ -6,7 +6,15 @@
         <description>Recent content in Categories on Trần Phước Thịnh</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>vi</language>
-        <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lazydarkz.github.io/thinh/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lazydarkz.github.io/thinh/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Programming</title>
+        <link>https://lazydarkz.github.io/thinh/categories/programming/</link>
+        <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://lazydarkz.github.io/thinh/categories/programming/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Java</title>
         <link>https://lazydarkz.github.io/thinh/categories/java/</link>
         <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>

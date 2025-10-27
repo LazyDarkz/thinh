@@ -2,14 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lazydarkz.github.io/thinh/tags/backend/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lazydarkz.github.io/thinh/post/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lazydarkz.github.io/thinh/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lazydarkz.github.io/thinh/categories/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/tags/java/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/post/java-la-gi/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/categories/programming/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/tags/programming/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/tags/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lazydarkz.github.io/thinh/tags/c%C6%A1-b%E1%BA%A3n/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
@@ -18,9 +36,6 @@
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lazydarkz.github.io/thinh/categories/java/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lazydarkz.github.io/thinh/tags/java/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lazydarkz.github.io/thinh/tags/l%E1%BA%ADp-tr%C3%ACnh/</loc>
@@ -33,9 +48,6 @@
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lazydarkz.github.io/thinh/page/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lazydarkz.github.io/thinh/tags/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lazydarkz.github.io/thinh/page/about/</loc>

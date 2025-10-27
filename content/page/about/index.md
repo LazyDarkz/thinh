@@ -4,11 +4,14 @@ description: "Trang giới thiệu cá nhân"
 date: "2023-10-25"
 aliases: ["about-me", "profile"]
 author: "Trần Phước Thịnh"
+image: "/images/HUTECH.webp"
 ---
+
+{{< figure src="/images/HUTECH.webp" alt="Logo HUTECH" width="4000" class="center" loading="lazy" title="HUTECH - Đại học Công nghệ TP.HCM">}}
 
 ## Giới Thiệu
 
-Xin chào! Tôi là [Trần Phước Thịnh].
+Xin chào! Tôi là [Trần Phước Thịnh]. Đang học tập tại ĐH Công nghệ HUTECH.
 
 Một sinh viên đam mê lập trình và phát triển phần mềm.
 
@@ -20,7 +23,7 @@ Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập c�
 - Phát triển ứng dụng web
 - Lập trình mạng
 
-### Chứng Chỉ Cisco Networking Academy
+### Chứng Chỉ Cisco Networking Academy đã đạt được
 
 {{< figure src="images/JE1.png" alt="Cisco Badge JE1" width="200" loading="lazy" >}}
 
@@ -57,4 +60,4 @@ Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập c�
 ## Liên Hệ
 
 - Email: [phuocthinh123456789100@gmail.com](mailto:phuocthinh123456789100@gmail.com)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- GitHub: [https://github.com/LazyDarkz](https://github.com/LazyDarkz)
