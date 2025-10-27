@@ -23,7 +23,7 @@ defaultContentLanguage = 'vi'
 [params.sidebar.avatar]
     enabled = true
     local = false
-    src = "https://lazydarkz.github.io/img/Thinhavt.jpg"
+    src = "https://lazydarkz.github.io/thinh/img/Thinhavt.jpg"
 
 [params.footer]
     since = 2023
