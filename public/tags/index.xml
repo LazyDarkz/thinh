@@ -2,137 +2,145 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Trần Phước Thịnh</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>//localhost:1313/tags/</link>
         <description>Recent content in Tags on Trần Phước Thịnh</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>vi</language>
-        <lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Blog</title>
-        <link>http://localhost:1313/tags/blog/</link>
+        <link>//localhost:1313/tags/blog/</link>
         <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/blog/</guid>
+        <guid>//localhost:1313/tags/blog/</guid>
         <description></description>
         </item>
         <item>
         <title>Giới Thiệu</title>
-        <link>http://localhost:1313/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/</link>
+        <link>//localhost:1313/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/</link>
         <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/</guid>
+        <guid>//localhost:1313/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/</guid>
         <description></description>
         </item>
         <item>
         <title>Javascript</title>
-        <link>http://localhost:1313/tags/javascript/</link>
+        <link>//localhost:1313/tags/javascript/</link>
         <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/javascript/</guid>
+        <guid>//localhost:1313/tags/javascript/</guid>
         <description></description>
         </item>
         <item>
         <title>Lập Trình</title>
-        <link>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+        <link>//localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
         <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
+        <guid>//localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
         <description></description>
         </item>
         <item>
         <title>Switch Case</title>
-        <link>http://localhost:1313/tags/switch-case/</link>
+        <link>//localhost:1313/tags/switch-case/</link>
         <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/switch-case/</guid>
+        <guid>//localhost:1313/tags/switch-case/</guid>
         <description></description>
         </item>
         <item>
         <title>Thinhblog</title>
-        <link>http://localhost:1313/tags/thinhblog/</link>
+        <link>//localhost:1313/tags/thinhblog/</link>
         <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/thinhblog/</guid>
+        <guid>//localhost:1313/tags/thinhblog/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>If Else</title>
+        <link>//localhost:1313/tags/if-else/</link>
+        <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/tags/if-else/</guid>
         <description></description>
         </item>
         <item>
         <title>Backend</title>
-        <link>http://localhost:1313/tags/backend/</link>
+        <link>//localhost:1313/tags/backend/</link>
         <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/backend/</guid>
+        <guid>//localhost:1313/tags/backend/</guid>
         <description></description>
         </item>
         <item>
         <title>For</title>
-        <link>http://localhost:1313/tags/for/</link>
+        <link>//localhost:1313/tags/for/</link>
         <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/for/</guid>
+        <guid>//localhost:1313/tags/for/</guid>
         <description></description>
         </item>
         <item>
         <title>Java</title>
-        <link>http://localhost:1313/tags/java/</link>
+        <link>//localhost:1313/tags/java/</link>
         <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/java/</guid>
+        <guid>//localhost:1313/tags/java/</guid>
         <description>&lt;p&gt;Đây là trang tổng hợp các bài viết liên quan đến ngôn ngữ lập trình Java, bao gồm cú pháp cơ bản, OOP, và các kỹ thuật lập trình nâng cao.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Loop</title>
-        <link>http://localhost:1313/tags/loop/</link>
+        <link>//localhost:1313/tags/loop/</link>
         <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/loop/</guid>
+        <guid>//localhost:1313/tags/loop/</guid>
         <description></description>
         </item>
         <item>
         <title>Operators</title>
-        <link>http://localhost:1313/tags/operators/</link>
+        <link>//localhost:1313/tags/operators/</link>
         <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/operators/</guid>
+        <guid>//localhost:1313/tags/operators/</guid>
         <description></description>
         </item>
         <item>
         <title>Programming</title>
-        <link>http://localhost:1313/tags/programming/</link>
+        <link>//localhost:1313/tags/programming/</link>
         <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/programming/</guid>
+        <guid>//localhost:1313/tags/programming/</guid>
         <description></description>
         </item>
         <item>
         <title>Variables</title>
-        <link>http://localhost:1313/tags/variables/</link>
+        <link>//localhost:1313/tags/variables/</link>
         <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/variables/</guid>
+        <guid>//localhost:1313/tags/variables/</guid>
         <description></description>
         </item>
         <item>
         <title>Web Development</title>
-        <link>http://localhost:1313/tags/web-development/</link>
+        <link>//localhost:1313/tags/web-development/</link>
         <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/web-development/</guid>
+        <guid>//localhost:1313/tags/web-development/</guid>
         <description></description>
         </item>
         <item>
         <title>Cơ Bản</title>
-        <link>http://localhost:1313/tags/c%C6%A1-b%E1%BA%A3n/</link>
+        <link>//localhost:1313/tags/c%C6%A1-b%E1%BA%A3n/</link>
         <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/c%C6%A1-b%E1%BA%A3n/</guid>
+        <guid>//localhost:1313/tags/c%C6%A1-b%E1%BA%A3n/</guid>
         <description></description>
         </item>
         <item>
         <title>Oop</title>
-        <link>http://localhost:1313/tags/oop/</link>
+        <link>//localhost:1313/tags/oop/</link>
         <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/oop/</guid>
+        <guid>//localhost:1313/tags/oop/</guid>
         <description>&lt;p&gt;Đây là trang tổng hợp các bài viết liên quan đến lập trình hướng đối tượng (OOP), bao gồm các khái niệm cơ bản, tính chất và ví dụ minh họa trong Java.&lt;/p&gt;
 </description>
         </item>

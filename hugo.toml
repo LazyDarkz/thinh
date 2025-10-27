@@ -9,7 +9,7 @@ defaultContentLanguage = 'vi'
     mainSections = ["post"]
     featuredImageField = "img"
     rssFullContent = true
-    favicon = "img/favicon.webp"
+    favicon = "/img/favicon.webp"
 
 [params.article]
     [params.article.author]
@@ -23,7 +23,7 @@ defaultContentLanguage = 'vi'
 [params.sidebar.avatar]
     enabled = true
     local = false
-    src = "/img/Thinhavt.jpg"
+    src = "https://lazydarkz.github.io/img/Thinhavt.jpg"
 
 [params.footer]
     since = 2023

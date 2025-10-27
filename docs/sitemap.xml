@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lazydarkz.github.io/thinh/post/</loc>
-    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lazydarkz.github.io/thinh/</loc>
-    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lazydarkz.github.io/thinh/post/loi-chao/</loc>
     <lastmod>2025-10-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://lazydarkz.github.io/thinh/post/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lazydarkz.github.io/thinh/tags/blog/</loc>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/</loc>
     <lastmod>2025-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lazydarkz.github.io/thinh/categories/</loc>
@@ -43,6 +43,12 @@
   </url><url>
     <loc>https://lazydarkz.github.io/thinh/tags/thinhblog/</loc>
     <lastmod>2025-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/tags/if-else/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lazydarkz.github.io/thinh/post/javascript-lenh-if-else/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lazydarkz.github.io/thinh/tags/backend/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>

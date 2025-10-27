@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Operators on Trần Phước Thịnh</title>
-        <link>http://localhost:1313/tags/operators/</link>
+        <link>//localhost:1313/tags/operators/</link>
         <description>Recent content in Operators on Trần Phước Thịnh</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>vi</language>
-        <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/operators/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/operators/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Các Toán Tử Trong JavaScript</title>
-        <link>http://localhost:1313/post/javascript-toan-tu/</link>
+        <link>//localhost:1313/post/javascript-toan-tu/</link>
         <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/javascript-toan-tu/</guid>
+        <guid>//localhost:1313/post/javascript-toan-tu/</guid>
         <description>&lt;h2 id=&#34;1-toán-tử-toán-học-trong-javascript&#34;&gt;1. Toán tử toán học trong JavaScript
 &lt;/h2&gt;&lt;p&gt;JavaScript hỗ trợ các toán tử toán học cơ bản để thực hiện các phép tính số học.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;

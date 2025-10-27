@@ -1,7 +1,7 @@
 ---
 title: "Lệnh if else trong Javascript"
 description: "Tìm hiểu cách sử dụng lệnh if, if else, kết hợp nhiều điều kiện và lồng nhau trong Javascript."
-date: "2025-10-28"
+date: "2024-01-15"
 tags: ["javascript", "if else", "lập trình"]
 categories: ["Programming"]
 ---
@@ -16,8 +16,11 @@ categories: ["Programming"]
 if (condition) {
   // Thực thi nếu điều kiện đúng
 }
+```
 
 **Ví dụ: Kiểm tra a và b**
+
+```javascript
 var a = 12;
 var b = 12;
 
@@ -36,7 +39,11 @@ if (condition) {
 } else {
   // Nếu sai
 }
-**Vi dụ:**
+```
+
+**Ví dụ:**
+
+```javascript
 var a = 12;
 var b = 10;
 
@@ -57,7 +64,11 @@ if (condition1) {
 } else {
   // Nếu không điều kiện nào đúng
 }
+```
+
 **Ví dụ:**
+
+```javascript
 var a = 12;
 
 if (a > 12) {
@@ -67,7 +78,11 @@ if (a > 12) {
 } else {
   alert('a = 12');
 }
+```
+
 **Hoặc dùng hai khối if riêng biệt:**
+
+```javascript
 var a = 12;
 
 if (a > 12) {
@@ -82,7 +97,9 @@ if (a < 12) {
 ```
 
 #### 4. Lệnh if else lồng nhau trong Javascript
+
 Có thể lồng các khối if bên trong nhau:
+
 ```javascript
 var a = 13;
 

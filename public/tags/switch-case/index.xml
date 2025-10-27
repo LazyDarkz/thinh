@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Switch Case on Trần Phước Thịnh</title>
-        <link>http://localhost:1313/tags/switch-case/</link>
+        <link>//localhost:1313/tags/switch-case/</link>
         <description>Recent content in Switch Case on Trần Phước Thịnh</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>vi</language>
-        <lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/switch-case/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/switch-case/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Lệnh switch case trong Javascript</title>
-        <link>http://localhost:1313/post/switch-case-trong-javascript/</link>
+        <link>//localhost:1313/post/switch-case-trong-javascript/</link>
         <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/switch-case-trong-javascript/</guid>
+        <guid>//localhost:1313/post/switch-case-trong-javascript/</guid>
         <description>&lt;h1 id=&#34;lệnh-switch-case-trong-javascript&#34;&gt;Lệnh switch case trong Javascript
 &lt;/h1&gt;&lt;p&gt;Lệnh &lt;code&gt;switch case&lt;/code&gt; là một cách khác để xử lý rẽ nhánh trong chương trình, tương tự như &lt;code&gt;if else&lt;/code&gt;. Tuy nhiên, nó hoạt động dựa trên so sánh bằng và thường được dùng khi có nhiều trường hợp cụ thể cần xử lý.&lt;/p&gt;
 &lt;h2 id=&#34;ví-dụ-lệnh-switch-case-trong-javascript&#34;&gt;Ví dụ lệnh switch case trong Javascript

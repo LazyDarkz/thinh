@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Loop on Trần Phước Thịnh</title>
-        <link>http://localhost:1313/tags/loop/</link>
+        <link>//localhost:1313/tags/loop/</link>
         <description>Recent content in Loop on Trần Phước Thịnh</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>vi</language>
-        <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/loop/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/loop/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Vòng Lặp For Trong JavaScript</title>
-        <link>http://localhost:1313/post/javascript-for-loop/</link>
+        <link>//localhost:1313/post/javascript-for-loop/</link>
         <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/javascript-for-loop/</guid>
+        <guid>//localhost:1313/post/javascript-for-loop/</guid>
         <description>&lt;h2 id=&#34;1-vòng-lặp-for-trong-javascript-là-gì&#34;&gt;1. Vòng lặp for trong JavaScript là gì?
 &lt;/h2&gt;&lt;p&gt;Vòng lặp for là một cấu trúc điều khiển trong JavaScript cho phép thực hiện một đoạn code nhiều lần với một số lần lặp xác định. Nó là một trong những vòng lặp phổ biến nhất trong lập trình.&lt;/p&gt;
 &lt;p&gt;Cấu trúc cơ bản của vòng lặp for:&lt;/p&gt;
