@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Software Engineering on Trần Phước Thịnh</title>
+        <link>https://lazydarkz.github.io/thinh/tags/software-engineering/</link>
+        <description>Recent content in Software Engineering on Trần Phước Thịnh</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>vi</language>
+        <lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lazydarkz.github.io/thinh/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Tự sự: Công nghệ phần mềm và hành trình phát triển bản thân</title>
+        <link>https://lazydarkz.github.io/thinh/post/tu-su-cong-nghe-phan-mem-va-hanh-trinh-phat-trien-ban-than/</link>
+        <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://lazydarkz.github.io/thinh/post/tu-su-cong-nghe-phan-mem-va-hanh-trinh-phat-trien-ban-than/</guid>
+        <description>&lt;h2 id=&#34;lời-mở-đầu&#34;&gt;Lời mở đầu
+&lt;/h2&gt;&lt;p&gt;Tôi là Trần Phước Thịnh, một sinh viên Công nghệ Phần mềm tại HUTECH. Tôi bắt đầu viết những dòng này như một lời nhắc cho chính mình về lý do đã chọn con đường công nghệ phần mềm, về những điều đã học và về chặng đường phía trước mà tôi muốn theo đuổi.&lt;/p&gt;
+&lt;h2 id=&#34;vì-sao-là-công-nghệ-phần-mềm&#34;&gt;Vì sao là công nghệ phần mềm?
+&lt;/h2&gt;&lt;p&gt;Tôi yêu việc biến ý tưởng thành sản phẩm có thể chạm vào cuộc sống của người dùng. Công nghệ phần mềm cho tôi cơ hội kết hợp tư duy hệ thống với khả năng giải quyết vấn đề — từ kiến trúc, bảo mật đến trải nghiệm người dùng. Mỗi dòng code là một bước nhỏ giúp tôi hiểu thế giới hoạt động như thế nào và làm sao để nó tốt hơn.&lt;/p&gt;
+&lt;h2 id=&#34;nền-tảng-kỹ-năng-của-tôi&#34;&gt;Nền tảng kỹ năng của tôi
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Lập trình hướng đối tượng và tư duy thiết kế&lt;/li&gt;
+&lt;li&gt;Phát triển ứng dụng web (Java, JavaScript, HTML/CSS)&lt;/li&gt;
+&lt;li&gt;Làm việc với các framework: Spring Boot, React.js, Node.js&lt;/li&gt;
+&lt;li&gt;Quy trình cá nhân: Git, VS Code, IntelliJ IDEA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Những kỹ năng này không đến trong một ngày. Chúng đến từ những đồ án nhỏ, từ việc đọc tài liệu, từ việc sửa đi sửa lại những lỗi tưởng chừng như vô tận và từ việc dám thử.&lt;/p&gt;
+&lt;h2 id=&#34;học-và-chứng-nhận&#34;&gt;Học và chứng nhận
+&lt;/h2&gt;&lt;p&gt;Tôi tin vào việc học có định hướng. Các chứng chỉ từ Cisco Networking Academy (JE1, JE2, NB) giúp tôi xây được nền tảng mạng và tư duy hệ thống vững chắc hơn. Dù hướng chuyên sâu của tôi là backend, hiểu mạng và bảo mật giúp tôi viết phần mềm có trách nhiệm và bền vững.&lt;/p&gt;
+&lt;h2 id=&#34;cách-tôi-tiếp-cận-một-vấn-đề-kỹ-thuật&#34;&gt;Cách tôi tiếp cận một vấn đề kỹ thuật
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Làm rõ mục tiêu và ràng buộc (hiệu năng, bảo mật, chi phí, trải nghiệm)&lt;/li&gt;
+&lt;li&gt;Phân rã bài toán thành các khối chức năng nhỏ, độc lập&lt;/li&gt;
+&lt;li&gt;Chọn công cụ phù hợp (không chạy theo xu hướng)&lt;/li&gt;
+&lt;li&gt;Viết thử nghiệm nhỏ, đo đạc và học từ phản hồi&lt;/li&gt;
+&lt;li&gt;Tối ưu, viết lại khi cần, giữ code rõ ràng và có thể bảo trì&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;mục-tiêu-nghề-nghiệp&#34;&gt;Mục tiêu nghề nghiệp
+&lt;/h2&gt;&lt;p&gt;Tôi muốn trở thành một lập trình viên có thể xây dựng các hệ thống web hiệu quả, bảo mật và dễ mở rộng. Tôi mong được làm việc trong môi trường sáng tạo, nơi việc học là thói quen hằng ngày và cải tiến là văn hóa cốt lõi.&lt;/p&gt;
+&lt;h2 id=&#34;giá-trị-cá-nhân&#34;&gt;Giá trị cá nhân
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Học hỏi không ngừng, chứng kiến sự thay đổi của bản thân&lt;/li&gt;
+&lt;li&gt;Tin tưởng vào vận may và gia đình — điểm tựa để đi xa&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;điều-tôi-đang-rèn-luyện-mỗi-ngày&#34;&gt;Điều tôi đang rèn luyện mỗi ngày
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Viết code rõ ràng, có chủ đích và dễ đọc&lt;/li&gt;
+&lt;li&gt;Ghi lại quyết định kỹ thuật và lý do phía sau&lt;/li&gt;
+&lt;li&gt;Chia sẻ kiến thức qua blog: biến những gì mình học thành điều có ích cho người khác&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;kết&#34;&gt;Kết
+&lt;/h2&gt;&lt;p&gt;Con đường công nghệ phần mềm dài và rộng. Tôi chọn đi chậm mà chắc: học cẩn thận, làm kỹ lưỡng, xây những sản phẩm nhỏ nhưng có ích. Nếu bạn cũng đang ở hành trình tương tự, rất vui nếu chúng ta có thể học cùng nhau.&lt;/p&gt;
+&lt;p&gt;— Thịnh&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
