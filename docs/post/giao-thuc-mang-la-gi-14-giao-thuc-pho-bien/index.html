@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html lang="vi" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Tìm hiểu về giao thức mạng và 14 giao thức mạng phổ biến nhất hiện đang được sử dụng trong hệ thống mạng máy tính">
+<title>Giao thức mạng là gì? 14 giao thức mạng phổ biến đang sử dụng hiện nay</title>
+
+<link rel='canonical' href='https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/'>
+
+<link rel="stylesheet" href="/thinh/scss/style.min.f9005b4d227e2a407add3c1d31ad5d64b7165a8e65c7354b6bb14ccd45ff077a.css"><meta property='og:title' content="Giao thức mạng là gì? 14 giao thức mạng phổ biến đang sử dụng hiện nay">
+<meta property='og:description' content="Tìm hiểu về giao thức mạng và 14 giao thức mạng phổ biến nhất hiện đang được sử dụng trong hệ thống mạng máy tính">
+<meta property='og:url' content='https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/'>
+<meta property='og:site_name' content='Trần Phước Thịnh'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='networking' /><meta property='article:tag' content='giao thức mạng' /><meta property='article:tag' content='mạng máy tính' /><meta property='article:tag' content='programming' /><meta property='article:published_time' content='2025-01-25T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2025-01-25T00:00:00&#43;00:00'/>
+<meta name="twitter:title" content="Giao thức mạng là gì? 14 giao thức mạng phổ biến đang sử dụng hiện nay">
+<meta name="twitter:description" content="Tìm hiểu về giao thức mạng và 14 giao thức mạng phổ biến nhất hiện đang được sử dụng trong hệ thống mạng máy tính">
+    <link rel="shortcut icon" href="/img/favicon.webp" />
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column compact"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Hiển thị Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/thinh/">
+                
+                    <img src="https://lazydarkz.github.io/thinh/img/Thinhavt.jpg" width="300" height="300" class="site-logo" loading="lazy" alt="Avatar">
+                
+                </a>
+                
+                    <span class="emoji">🎓</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/thinh">Trần Phước Thịnh</a></h1>
+            <h2 class="site-description">Blog chia sẻ kiến thức</h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/thinh/' >
+                
+                
+                
+                <span>Trang Chủ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/thinh/post/' >
+                
+                
+                
+                <span>Blog</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/thinh/page/about/' >
+                
+                
+                
+                <span>Về Tôi</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Chế độ nền tối</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/thinh/categories/programming/" >
+                Programming
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/">Giao thức mạng là gì? 14 giao thức mạng phổ biến đang sử dụng hiện nay</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            Tìm hiểu về giao thức mạng và 14 giao thức mạng phổ biến nhất hiện đang được sử dụng trong hệ thống mạng máy tính
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">thg 1 25, 2025</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    6 phút đọc
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <h2 id="giao-thức-mạng-là-gì">Giao thức mạng là gì?
+</h2><p>Giao thức mạng (Network Protocol) là một tập hợp các quy tắc và chuẩn được sử dụng để quy định cách thức trao đổi dữ liệu giữa các thiết bị trên mạng máy tính. Giao thức mạng đóng vai trò như một &ldquo;ngôn ngữ chung&rdquo; giúp các thiết bị có thể giao tiếp và hiểu được nhau.</p>
+<figure><img src="/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt.webp">
+</figure>
+
+<h3 id="đặc-điểm-của-giao-thức-mạng">Đặc điểm của giao thức mạng
+</h3><ul>
+<li><strong>Tính chuẩn hóa</strong>: Được định nghĩa bởi các tổ chức như IEEE, IETF</li>
+<li><strong>Tính độc lập</strong>: Hoạt động độc lập với phần cứng và phần mềm cụ thể</li>
+<li><strong>Tính phân lớp</strong>: Các giao thức được tổ chức thành các tầng (layers)</li>
+<li><strong>Tính mở rộng</strong>: Có thể mở rộng và cải tiến theo thời gian</li>
+</ul>
+<h2 id="14-giao-thức-mạng-phổ-biến-đang-được-sử-dụng">14 giao thức mạng phổ biến đang được sử dụng
+</h2><h3 id="1-tcpip-transmission-control-protocolinternet-protocol">1. <strong>TCP/IP (Transmission Control Protocol/Internet Protocol)</strong>
+</h3><p>TCP/IP là bộ giao thức cơ bản nhất của internet, bao gồm hai thành phần:</p>
+<ul>
+<li><strong>IP (Internet Protocol)</strong>: Định địa chỉ và định tuyến dữ liệu</li>
+<li><strong>TCP (Transmission Control Protocol)</strong>: Đảm bảo truyền dữ liệu đáng tin cậy</li>
+</ul>
+<p>Ưu điểm:</p>
+<ul>
+<li>Kết nối đáng tin cậy</li>
+<li>Kiểm tra lỗi tự động</li>
+<li>Đảm bảo thứ tự gói tin</li>
+</ul>
+<p><strong>Ứng dụng</strong>: Tất cả các ứng dụng internet hiện đại</p>
+<h3 id="2-httphttps-hypertext-transfer-protocol">2. <strong>HTTP/HTTPS (HyperText Transfer Protocol)</strong>
+</h3><p>HTTP là giao thức truyền tải siêu văn bản, được sử dụng để tải trang web.</p>
+<figure><img src="/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/https.webp">
+</figure>
+
+<p>HTTP:</p>
+<ul>
+<li>Port 80</li>
+<li>Không mã hóa</li>
+<li>Truyền dữ liệu dạng văn bản</li>
+</ul>
+<p>HTTPS (HTTP Secure):</p>
+<ul>
+<li>Port 443</li>
+<li>Được mã hóa bằng SSL/TLS</li>
+<li>Bảo mật cao hơn</li>
+</ul>
+<p><strong>Ứng dụng</strong>: Duyệt web, API REST</p>
+<h3 id="3-dns-domain-name-system">3. <strong>DNS (Domain Name System)</strong>
+</h3><p>DNS là hệ thống phân giải tên miền thành địa chỉ IP.</p>
+<figure><img src="/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/DNS.webp">
+</figure>
+
+<p>Chức năng:</p>
+<ul>
+<li>Chuyển đổi domain name thành IP address</li>
+<li>Phân phối tải</li>
+<li>Hỗ trợ cân bằng tải</li>
+</ul>
+<p><strong>Ứng dụng</strong>: Tất cả các hoạt động internet</p>
+<h3 id="4-ftp-file-transfer-protocol">4. <strong>FTP (File Transfer Protocol)</strong>
+</h3><p>FTP dùng để truyền tệp tin giữa máy chủ và máy khách.</p>
+<p>Đặc điểm:</p>
+<ul>
+<li>Port 21 (control), Port 20 (data)</li>
+<li>Hỗ trợ upload/download file</li>
+<li>Có chế độ passive và active</li>
+</ul>
+<p><strong>Ứng dụng</strong>: Upload website, chia sẻ file lớn</p>
+<h3 id="5-smtp-simple-mail-transfer-protocol">5. <strong>SMTP (Simple Mail Transfer Protocol)</strong>
+</h3><p>SMTP dùng để gửi email qua internet.</p>
+<p>Đặc điểm:</p>
+<ul>
+<li>Port 25, 587</li>
+<li>Gửi email giữa các máy chủ</li>
+<li>Không hỗ trợ nhận email</li>
+</ul>
+<p><strong>Ứng dụng</strong>: Gửi email</p>
+<h3 id="6-pop3-post-office-protocol-version-3">6. <strong>POP3 (Post Office Protocol version 3)</strong>
+</h3><p>POP3 dùng để nhận email từ máy chủ mail.</p>
+<p>Đặc điểm:</p>
+<ul>
+<li>Port 110, 995 (SSL)</li>
+<li>Tải email về máy local</li>
+<li>Xóa email trên server (tùy chọn)</li>
+</ul>
+<p><strong>Ứng dụng</strong>: Thu thập email từ máy chủ</p>
+<h3 id="7-imap-internet-message-access-protocol">7. <strong>IMAP (Internet Message Access Protocol)</strong>
+</h3><p>IMAP cho phép truy cập email trực tiếp từ máy chủ.</p>
+<p>Đặc điểm:</p>
+<ul>
+<li>Port 143, 993 (SSL)</li>
+<li>Đồng bộ email giữa nhiều thiết bị</li>
+<li>Giữ email trên server</li>
+</ul>
+<p><strong>Ứng dụng</strong>: Email trên nhiều thiết bị</p>
+<h3 id="8-ssh-secure-shell">8. <strong>SSH (Secure Shell)</strong>
+</h3><p>SSH cung cấp kết nối bảo mật từ xa đến máy chủ.</p>
+<p>Đặc điểm:</p>
+<ul>
+<li>Port 22</li>
+<li>Mã hóa toàn bộ kết nối</li>
+<li>An toàn hơn Telnet</li>
+</ul>
+<p><strong>Ứng dụng</strong>: Quản lý server từ xa, truyền file an toàn</p>
+<h3 id="9-tlsssl-transport-layer-securitysecure-sockets-layer">9. <strong>TLS/SSL (Transport Layer Security/Secure Sockets Layer)</strong>
+</h3><p>TLS/SSL cung cấp mã hóa cho giao tiếp mạng.</p>
+<p>Chức năng:</p>
+<ul>
+<li>Mã hóa dữ liệu</li>
+<li>Xác thực máy chủ</li>
+<li>Bảo vệ khỏi nghe trộm</li>
+</ul>
+<p><strong>Ứng dụng</strong>: HTTPS, VPN, email bảo mật</p>
+<h3 id="10-dhcp-dynamic-host-configuration-protocol">10. <strong>DHCP (Dynamic Host Configuration Protocol)</strong>
+</h3><p>DHCP tự động cấp phát địa chỉ IP cho các thiết bị trong mạng.</p>
+<p>Chức năng:</p>
+<ul>
+<li>Cấp phát IP động</li>
+<li>Cấu hình gateway, DNS</li>
+<li>Giảm lỗi cấu hình</li>
+</ul>
+<p><strong>Ứng dụng</strong>: Router, switch, mạng LAN</p>
+<h3 id="11-snmp-simple-network-management-protocol">11. <strong>SNMP (Simple Network Management Protocol)</strong>
+</h3><p>SNMP quản lý và giám sát thiết bị mạng.</p>
+<p>Chức năng:</p>
+<ul>
+<li>Thu thập thông tin thiết bị</li>
+<li>Giám sát hiệu năng mạng</li>
+<li>Cảnh báo sự cố</li>
+</ul>
+<p><strong>Ứng dụng</strong>: Quản lý mạng, giám sát thiết bị</p>
+<h3 id="12-udp-user-datagram-protocol">12. <strong>UDP (User Datagram Protocol)</strong>
+</h3><p>UDP là giao thức không kết nối, nhanh hơn TCP nhưng kém tin cậy hơn.</p>
+<p>Đặc điểm:</p>
+<ul>
+<li>Không có kết nối</li>
+<li>Nhanh, nhẹ</li>
+<li>Không đảm bảo thứ tự</li>
+</ul>
+<p><strong>Ứng dụng</strong>: Streaming video, VoIP, game online</p>
+<h3 id="13-icmp-internet-control-message-protocol">13. <strong>ICMP (Internet Control Message Protocol)</strong>
+</h3><p>ICMP dùng để gửi thông báo lỗi và kiểm tra kết nối.</p>
+<p>Chức năng:</p>
+<ul>
+<li>Kiểm tra reachability</li>
+<li>Báo lỗi mạng</li>
+<li>Điều chỉnh routing</li>
+</ul>
+<p><strong>Ứng dụng</strong>: Ping, Traceroute, xử lý lỗi mạng</p>
+<h3 id="14-arp-address-resolution-protocol">14. <strong>ARP (Address Resolution Protocol)</strong>
+</h3><p>ARP chuyển đổi địa chỉ IP sang địa chỉ MAC.</p>
+<p>Chức năng:</p>
+<ul>
+<li>Ánh xạ IP sang MAC</li>
+<li>Hỗ trợ routing</li>
+<li>Giảm broadcast</li>
+</ul>
+<p><strong>Ứng dụng</strong>: Tất cả hoạt động trong mạng LAN</p>
+<h2 id="so-sánh-các-giao-thức-mạng">So sánh các giao thức mạng
+</h2><h3 id="giao-thức-kết-nối-vs-không-kết-nối">Giao thức kết nối vs không kết nối
+</h3><div class="table-wrapper"><table>
+  <thead>
+      <tr>
+          <th>Giao thức</th>
+          <th>Loại</th>
+          <th>Ưu điểm</th>
+          <th>Nhược điểm</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>TCP</td>
+          <td>Kết nối</td>
+          <td>Đáng tin cậy, có kiểm tra lỗi</td>
+          <td>Chậm hơn, overhead cao</td>
+      </tr>
+      <tr>
+          <td>UDP</td>
+          <td>Không kết nối</td>
+          <td>Nhanh, nhẹ</td>
+          <td>Không đảm bảo delivery</td>
+      </tr>
+  </tbody>
+</table></div>
+<h3 id="giao-thức-bảo-mật-vs-không-bảo-mật">Giao thức bảo mật vs không bảo mật
+</h3><ul>
+<li><strong>Bảo mật</strong>: HTTPS, SSH, SFTP</li>
+<li><strong>Không bảo mật</strong>: HTTP, FTP, Telnet</li>
+</ul>
+<h2 id="tầm-quan-trọng-của-giao-thức-mạng">Tầm quan trọng của giao thức mạng
+</h2><h3 id="1-tính-tương-thích">1. Tính tương thích
+</h3><p>Giao thức mạng đảm bảo các thiết bị khác nhau có thể giao tiếp với nhau.</p>
+<h3 id="2-hiệu-quả-mạng">2. Hiệu quả mạng
+</h3><p>Mỗi giao thức được thiết kế cho mục đích cụ thể để tối ưu hiệu suất.</p>
+<h3 id="3-bảo-mật">3. Bảo mật
+</h3><p>Các giao thức bảo mật như HTTPS, SSH bảo vệ dữ liệu khỏi bị đánh cắp.</p>
+<h3 id="4-chuẩn-hóa">4. Chuẩn hóa
+</h3><p>Giao thức mạng tạo ra chuẩn chung giúp phát triển công nghệ dễ dàng hơn.</p>
+<h2 id="các-mô-hình-giao-thức-mạng">Các mô hình giao thức mạng
+</h2><h3 id="1-osi-model-7-tầng">1. OSI Model (7 tầng)
+</h3><ol>
+<li>Physical Layer</li>
+<li>Data Link Layer</li>
+<li>Network Layer</li>
+<li>Transport Layer</li>
+<li>Session Layer</li>
+<li>Presentation Layer</li>
+<li>Application Layer</li>
+</ol>
+<h3 id="2-tcpip-model-4-tầng">2. TCP/IP Model (4 tầng)
+</h3><ol>
+<li>Network Interface Layer</li>
+<li>Internet Layer</li>
+<li>Transport Layer</li>
+<li>Application Layer</li>
+</ol>
+<h2 id="ứng-dụng-thực-tế">Ứng dụng thực tế
+</h2><h3 id="giao-thức-cho-web-development">Giao thức cho Web Development
+</h3><ul>
+<li><strong>HTTP/HTTPS</strong>: Duyệt web</li>
+<li><strong>WebSocket</strong>: Real-time communication</li>
+<li><strong>REST API</strong>: API design</li>
+</ul>
+<h3 id="giao-thức-cho-email">Giao thức cho Email
+</h3><ul>
+<li><strong>SMTP</strong>: Gửi email</li>
+<li><strong>POP3/IMAP</strong>: Nhận email</li>
+<li><strong>SSL/TLS</strong>: Mã hóa email</li>
+</ul>
+<h3 id="giao-thức-cho-quản-trị-mạng">Giao thức cho Quản trị mạng
+</h3><ul>
+<li><strong>SSH</strong>: Remote administration</li>
+<li><strong>SNMP</strong>: Network monitoring</li>
+<li><strong>DHCP</strong>: IP management</li>
+</ul>
+<h2 id="các-câu-hỏi-thường-gặp">Các câu hỏi thường gặp
+</h2><h3 id="1-tại-sao-cần-nhiều-giao-thức">1. Tại sao cần nhiều giao thức?
+</h3><p>Mỗi giao thức được thiết kế cho mục đích cụ thể:</p>
+<ul>
+<li>TCP cho dữ liệu đáng tin cậy</li>
+<li>UDP cho tốc độ cao</li>
+<li>HTTP cho web browsing</li>
+</ul>
+<h3 id="2-giao-thức-nào-quan-trọng-nhất">2. Giao thức nào quan trọng nhất?
+</h3><p>TCP/IP là nền tảng của internet, nhưng tất cả giao thức đều quan trọng trong hệ sinh thái mạng.</p>
+<h3 id="3-làm-sao-để-chọn-giao-thức-phù-hợp">3. Làm sao để chọn giao thức phù hợp?
+</h3><p>Phụ thuộc vào yêu cầu:</p>
+<ul>
+<li>Cần đáng tin cậy → TCP</li>
+<li>Cần tốc độ → UDP</li>
+<li>Cần bảo mật → HTTPS, SSH</li>
+</ul>
+<h3 id="4-có-thể-tạo-giao-thức-riêng-không">4. Có thể tạo giao thức riêng không?
+</h3><p>Có, nhưng cần tuân theo chuẩn và đảm bảo tương thích với hệ thống hiện có.</p>
+<h2 id="tổng-kết">Tổng kết
+</h2><p>Giao thức mạng là nền tảng của mọi hoạt động truyền thông trên internet. Hiểu rõ 14 giao thức mạng phổ biến trên đây giúp bạn:</p>
+<ul>
+<li>Nắm được cách hoạt động của mạng máy tính</li>
+<li>Lựa chọn giao thức phù hợp cho dự án</li>
+<li>Xử lý các vấn đề mạng hiệu quả</li>
+<li>Phát triển ứng dụng mạng chuyên nghiệp</li>
+</ul>
+<p>Việc nắm vững các giao thức mạng là kỹ năng thiết yếu cho bất kỳ lập trình viên, kỹ sư mạng hay quản trị viên hệ thống nào trong thời đại kỹ thuật số hiện nay.</p>
+<hr>
+<p><strong>Tài liệu tham khảo:</strong></p>
+<ul>
+<li>RFC 791 - Internet Protocol</li>
+<li>RFC 793 - Transmission Control Protocol</li>
+<li>IEEE 802 standards</li>
+<li>W3C HTTP Specification</li>
+</ul>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/thinh/tags/networking/">Networking</a>
+        
+            <a href="/thinh/tags/giao-th%E1%BB%A9c-m%E1%BA%A1ng/">Giao Thức Mạng</a>
+        
+            <a href="/thinh/tags/m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh/">Mạng Máy Tính</a>
+        
+            <a href="/thinh/tags/programming/">Programming</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Bài viết liên quan</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/thinh/post/wifi-la-gi-nguyen-ly-hoat-dong/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">WiFi là gì? Tìm hiểu nguyên lý hoạt động của WiFi</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/thinh/post/javascript-bien/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Biến và Khai Báo Biến trong JavaScript</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/thinh/post/javascript-toan-tu/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Các Toán Tử Trong JavaScript</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/thinh/post/java-la-gi/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Java là gì? Tổng quan về ngôn ngữ lập trình Java</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/thinh/post/javascript-la-gi/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">JavaScript là gì? Tổng quan về ngôn ngữ lập trình JavaScript</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2023 - 
+        
+        2025 Trần Phước Thịnh
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.31.0">Stack</a></b> thiết kế bởi <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/thinh/ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>
