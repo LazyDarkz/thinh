@@ -5,8 +5,7 @@ date: "2023-10-27"
 tags: ["java", "programming", "backend"]
 categories: ["Programming"]
 ---
-
-{{< figure src="/images/Java-Logo.png" alt="Logo Java" width="auto" class="center" loading="lazy" title="Java - Ngôn ngữ lập trình phổ biến nhất thế giới">}}
+![Java](/images/Java-Logo.png)
 
 ## Java là gì?
 

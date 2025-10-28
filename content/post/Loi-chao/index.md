@@ -17,9 +17,9 @@ series: ["Giới thiệu về bản thân"]
 
 ## Hình ảnh sơ lược về trường - Đại học Công Nghệ Thông Tin - ĐHQG HCM
 
-{{< figure src="/images/hutech1.webp" alt="Đại học Công Nghệ Thông Tin - ĐHQG HCM" width="auto" height="auto" loading="lazy" title="Đại học Công Nghệ Thông Tin - ĐHQG HCM">}}
-{{< figure src="/images/hutech2.jpg" alt="Đại học Công Nghệ Thông Tin - ĐHQG HCM" width="auto" height="auto" loading="lazy" title="Đại học Công Nghệ Thông Tin - ĐHQG HCM">}}
-{{< figure src="/images/hutech3.jpg" alt="Đại học Công Nghệ Thông Tin - ĐHQG HCM" width="auto" height="auto" loading="lazy" title="Đại học Công Nghệ Thông Tin - ĐHQG HCM">}}
+![Hutech1](/images/hutech1.webp)
+![Hutech2](/images/hutech2.jpg)
+![Hutech3](/images/hutech3.jpg)
 
 ## Nội dung blog Thinhblog
 - Blog Thinhblog sẽ tập trung vào các chủ đề như lập trình web, phát triển ứng dụng, công nghệ mới và các kỹ năng mềm cần thiết cho lập trình viên. Tôi sẽ cố gắng cập nhật nội dung thường xuyên để mang đến cho bạn những bài viết chất lượng và hữu ích.

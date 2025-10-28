@@ -9,7 +9,7 @@ image: "/img/featured/featured-image.webp"
 
 ## 1. JavaScript là gì?
 
-{{< figure src="/images/javascript-la-gi.jpg" alt="JavaScript Logo" width="auto" length="auto" class="center" loading="lazy" title="JavaScript - Ngôn ngữ lập trình phổ biến cho web development">}}
+![Javascript](/images/javascript-la-gi.jpg)
 
 JavaScript (JS) là một ngôn ngữ lập trình kịch bản (scripting language) được sử dụng rộng rãi để tạo ra các trang web tương tác. Nó là một trong ba công nghệ cốt lõi của web development, cùng với HTML và CSS.
 

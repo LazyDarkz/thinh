@@ -12,7 +12,7 @@ Với mục đích phân tích và nghiên cứu quá trình giao tiếp, Mạng
 
 Do đó, việc kết nối mạng chỉ thực hiện được khi có mạng riêng của nó. Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN. Người dùng cần chú ý cơ chế hoạt động của các mạng để lựa chọn phát triển chương trình mạng được tốt nhất.
 
-{{< figure src="/images/mang.webp" width="auto" height="auto" loading="lazy" title="Minh Hoạ Mạng">}}
+![Minh Hoạ Mạng](/images/mang.webp)
 
 ## Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN
 

@@ -8,9 +8,9 @@ categories: ["Programming"]
 
 ## Để có thể phát Wifi bạn chỉ cần một phát wifi như router wifi, modem wifi,...
 
-{{<figure src = "/images/router.jpg">}}
+![Router Wifi](/images/router.jpg)
 
-{{<figure src = "/images/R.jpg">}}
+![Modem Wifi](/images/R.jpg)
 
 ## WiFi là gì?
 

@@ -48,6 +48,20 @@
 &lt;figure&gt;&lt;img src=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt.webp&#34;&gt;
 &lt;/figure&gt;
 
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt.webp&#34;
+	width=&#34;1000&#34;
+	height=&#34;332&#34;
+	srcset=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt_hu_1839f74e3d7874b8.webp 480w, //localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt_hu_bce2e42c58e3edca.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Ảnh test&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;301&#34;
+		data-flex-basis=&#34;722px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;h3 id=&#34;đặc-điểm-của-giao-thức-mạng&#34;&gt;Đặc điểm của giao thức mạng
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Tính chuẩn hóa&lt;/strong&gt;: Được định nghĩa bởi các tổ chức như IEEE, IETF&lt;/li&gt;

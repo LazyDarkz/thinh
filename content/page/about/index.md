@@ -7,7 +7,7 @@ author: "Trần Phước Thịnh"
 image: "/images/HUTECH.webp"
 ---
 
-{{< figure src="/images/HUTECH.webp" alt="Logo HUTECH" width="4000" class="center" loading="lazy" title="HUTECH - Đại học Công nghệ TP.HCM">}}
+![HUTECH - Đại Học Công nghệ TP.HCM](https://www.hutech.edu.vn/images/logo.png)
 
 ## Giới Thiệu
 
@@ -29,16 +29,13 @@ Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập c�
 
 ### Chứng Chỉ Cisco Networking Academy đã đạt được
 
-{{< figure src="/images/QRJE1.jpeg" alt="Cisco Badge JE1" width="auto" class="center" loading="lazy" title="Chứng chỉ Cisco JE1">}}
+![Chứng chỉ Cisco JE1](/images/QRJE1.jpeg)
+![Chứng chỉ Cisco JE2](/images/QRJE2.jpeg)
+![Chứng chỉ Cisco NB](/images/QRNB.jpeg)
 
-{{< figure src="/images/QRJE2.jpeg" alt="Cisco Badge JE2" width="auto" class="center" loading="lazy" title="Chứng chỉ Cisco JE2">}}
-
-{{< figure src="/images/QRNB.jpeg" alt="Cisco Badge NB" width="auto" class="center" loading="lazy" title="Chứng chỉ Cisco NB">}}
-<div class="certification-gallery">
-    {{<figure src="/images/QNB.png" alt="Cisco Networking Basics" loading="lazy">}}
-    {{<figure src="/images/QJE1.png" alt="Cisco JE1" loading="lazy">}}
-    {{<figure src="/images/QJE2.png" alt="Cisco JE2" loading="lazy">}}
-</div>
+![QRCode Cisco Networking BASICS](/images/QNB.png)
+![QRCode Cisco JE1](/images/QJE1.png)
+![QRCode Cisco JE2](/images/QJE2.png)
 
 ### Ngôn Ngữ Lập Trình
 

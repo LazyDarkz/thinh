@@ -5,7 +5,6 @@ date: "2023-10-27"
 tags: ["javascript", "programming", "loop", "for"]
 categories: ["Programming"]
 series: ["JavaScript Cơ Bản"]
-image: "/img/featured/featured-image.webp"
 ---
 
 ## 1. Vòng lặp for trong JavaScript là gì?

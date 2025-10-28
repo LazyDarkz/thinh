@@ -5,7 +5,6 @@ date: "2023-10-27"
 tags: ["javascript", "programming", "variables"]
 categories: ["Programming"]
 series: ["JavaScript Cơ Bản"]
-image: "/img/featured/featured-image.webp"
 ---
 
 ## 1. Các cách khai báo biến trong JavaScript

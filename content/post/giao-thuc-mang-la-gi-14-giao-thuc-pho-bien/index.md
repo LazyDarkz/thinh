@@ -10,7 +10,7 @@ categories: ["Programming"]
 
 Giao thức mạng (Network Protocol) là một tập hợp các quy tắc và chuẩn được sử dụng để quy định cách thức trao đổi dữ liệu giữa các thiết bị trên mạng máy tính. Giao thức mạng đóng vai trò như một "ngôn ngữ chung" giúp các thiết bị có thể giao tiếp và hiểu được nhau.
 
-{{<figure src = "/images/kngt.webp">}}
+![Ảnh Demo](/images/kngt.webp)
 
 ### Đặc điểm của giao thức mạng
 
@@ -40,7 +40,7 @@ TCP/IP là bộ giao thức cơ bản nhất của internet, bao gồm hai thàn
 
 HTTP là giao thức truyền tải siêu văn bản, được sử dụng để tải trang web.
 
-{{<figure src = "/images/https.webp">}}
+![HTTPS](/images/https.webp)
 
 HTTP:
 
@@ -60,7 +60,7 @@ HTTPS (HTTP Secure):
 
 DNS là hệ thống phân giải tên miền thành địa chỉ IP.
 
-{{<figure src = "/images/DNS.webp">}}
+![DNS](/images/DNS.webp)
 
 Chức năng:
 

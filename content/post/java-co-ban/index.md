@@ -4,7 +4,6 @@ description: "Tìm hiểu về ngôn ngữ lập trình Java và các khái ni�
 date: "2023-10-25"
 categories: ["Java"]
 tags: ["java", "lập trình", "cơ bản"]
-image: "/img/featured/featured-image.webp"
 ---
 
 ## Giới Thiệu

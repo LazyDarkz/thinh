@@ -25,24 +25,48 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;hình-ảnh-sơ-lược-về-trường---đại-học-công-nghệ-thông-tin---đhqg-hcm&#34;&gt;Hình ảnh sơ lược về trường - Đại học Công Nghệ Thông Tin - ĐHQG HCM
-&lt;/h2&gt;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/post/loi-chao/images/hutech1.webp&#34;
-    alt=&#34;Đại học Công Nghệ Thông Tin - ĐHQG HCM&#34; width=&#34;auto&#34; height=&#34;auto&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Đại học Công Nghệ Thông Tin - ĐHQG HCM&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img src=&#34;//localhost:1313/post/loi-chao/images/hutech2.jpg&#34;
-    alt=&#34;Đại học Công Nghệ Thông Tin - ĐHQG HCM&#34; width=&#34;auto&#34; height=&#34;auto&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Đại học Công Nghệ Thông Tin - ĐHQG HCM&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img src=&#34;//localhost:1313/post/loi-chao/images/hutech3.jpg&#34;
-    alt=&#34;Đại học Công Nghệ Thông Tin - ĐHQG HCM&#34; width=&#34;auto&#34; height=&#34;auto&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Đại học Công Nghệ Thông Tin - ĐHQG HCM&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/loi-chao/images/hutech1.webp&#34;
+	width=&#34;300&#34;
+	height=&#34;180&#34;
+	srcset=&#34;//localhost:1313/post/loi-chao/images/hutech1_hu_44fad5e501a31d36.webp 480w, //localhost:1313/post/loi-chao/images/hutech1_hu_15eb75eddea704af.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Hutech1&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;166&#34;
+		data-flex-basis=&#34;400px&#34;
+	
+&gt;
+&lt;img src=&#34;//localhost:1313/post/loi-chao/images/hutech2.jpg&#34;
+	width=&#34;620&#34;
+	height=&#34;413&#34;
+	srcset=&#34;//localhost:1313/post/loi-chao/images/hutech2_hu_2c0d72bc8508a6bc.jpg 480w, //localhost:1313/post/loi-chao/images/hutech2_hu_969229ab8f6d7e5f.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Hutech2&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;150&#34;
+		data-flex-basis=&#34;360px&#34;
+	
+&gt;
+&lt;img src=&#34;//localhost:1313/post/loi-chao/images/hutech3.jpg&#34;
+	width=&#34;1200&#34;
+	height=&#34;894&#34;
+	srcset=&#34;//localhost:1313/post/loi-chao/images/hutech3_hu_61b965b5965bf3d9.jpg 480w, //localhost:1313/post/loi-chao/images/hutech3_hu_227dab49428f5e85.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Hutech3&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;134&#34;
+		data-flex-basis=&#34;322px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;h2 id=&#34;nội-dung-blog-thinhblog&#34;&gt;Nội dung blog Thinhblog
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Blog Thinhblog sẽ tập trung vào các chủ đề như lập trình web, phát triển ứng dụng, công nghệ mới và các kỹ năng mềm cần thiết cho lập trình viên. Tôi sẽ cố gắng cập nhật nội dung thường xuyên để mang đến cho bạn những bài viết chất lượng và hữu ích.&lt;/li&gt;
@@ -223,11 +247,20 @@
         <description>&lt;h2 id=&#34;mạng-là-gì&#34;&gt;Mạng là gì?
 &lt;/h2&gt;&lt;p&gt;Với mục đích phân tích và nghiên cứu quá trình giao tiếp, Mạng máy tính đã được tạo ra như một bước tiến mới trong lịch sử. Bởi nó liên kết toàn bộ các hệ thống máy tính khác nhau để trao đổi thông tin cần thiết.&lt;/p&gt;
 &lt;p&gt;Do đó, việc kết nối mạng chỉ thực hiện được khi có mạng riêng của nó. Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN. Người dùng cần chú ý cơ chế hoạt động của các mạng để lựa chọn phát triển chương trình mạng được tốt nhất.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;//localhost:1313/post/mang-la-gi/images/mang.webp&#34; width=&#34;auto&#34; height=&#34;auto&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Minh Hoạ Mạng&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/mang-la-gi/images/mang.webp&#34;
+	width=&#34;280&#34;
+	height=&#34;180&#34;
+	srcset=&#34;//localhost:1313/post/mang-la-gi/images/mang_hu_2dbd6845fa95deca.webp 480w, //localhost:1313/post/mang-la-gi/images/mang_hu_db82812e16119649.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Minh Hoạ Mạng&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;155&#34;
+		data-flex-basis=&#34;373px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;h2 id=&#34;có-4-loại-mạng-cơ-bản-là-lan-man-wan-và-pan&#34;&gt;Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN
 &lt;/h2&gt;&lt;h3 id=&#34;mạng-lan-local-area-network&#34;&gt;Mạng LAN (Local Area Network)
 &lt;/h3&gt;&lt;p&gt;Mạng LAN là mạng cục bộ nên có đường truyền ngắn. Với giao thức TCP/IP, mạng LAN chủ yếu được sử dụng tại nơi diện tích nhỏ như: văn phòng, tòa nhà, trường học.&lt;/p&gt;
@@ -253,9 +286,20 @@
         <guid>//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/</guid>
         <description>&lt;h2 id=&#34;giao-thức-mạng-là-gì&#34;&gt;Giao thức mạng là gì?
 &lt;/h2&gt;&lt;p&gt;Giao thức mạng (Network Protocol) là một tập hợp các quy tắc và chuẩn được sử dụng để quy định cách thức trao đổi dữ liệu giữa các thiết bị trên mạng máy tính. Giao thức mạng đóng vai trò như một &amp;ldquo;ngôn ngữ chung&amp;rdquo; giúp các thiết bị có thể giao tiếp và hiểu được nhau.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt.webp&#34;&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt.webp&#34;
+	width=&#34;1000&#34;
+	height=&#34;332&#34;
+	srcset=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt_hu_1839f74e3d7874b8.webp 480w, //localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt_hu_bce2e42c58e3edca.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Ảnh Demo&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;301&#34;
+		data-flex-basis=&#34;722px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;h3 id=&#34;đặc-điểm-của-giao-thức-mạng&#34;&gt;Đặc điểm của giao thức mạng
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Tính chuẩn hóa&lt;/strong&gt;: Được định nghĩa bởi các tổ chức như IEEE, IETF&lt;/li&gt;
@@ -279,9 +323,20 @@
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Tất cả các ứng dụng internet hiện đại&lt;/p&gt;
 &lt;h3 id=&#34;2-httphttps-hypertext-transfer-protocol&#34;&gt;2. &lt;strong&gt;HTTP/HTTPS (HyperText Transfer Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;HTTP là giao thức truyền tải siêu văn bản, được sử dụng để tải trang web.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/https.webp&#34;&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/https.webp&#34;
+	width=&#34;1000&#34;
+	height=&#34;840&#34;
+	srcset=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/https_hu_93f2763879a76f02.webp 480w, //localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/https_hu_99b04dcc7a3b3980.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;HTTPS&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;119&#34;
+		data-flex-basis=&#34;285px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;p&gt;HTTP:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Port 80&lt;/li&gt;
@@ -297,9 +352,20 @@
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Duyệt web, API REST&lt;/p&gt;
 &lt;h3 id=&#34;3-dns-domain-name-system&#34;&gt;3. &lt;strong&gt;DNS (Domain Name System)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;DNS là hệ thống phân giải tên miền thành địa chỉ IP.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/DNS.webp&#34;&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/DNS.webp&#34;
+	width=&#34;1000&#34;
+	height=&#34;605&#34;
+	srcset=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/DNS_hu_963560dc9d56b39f.webp 480w, //localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/DNS_hu_8a198d3e6ca161cc.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;DNS&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;165&#34;
+		data-flex-basis=&#34;396px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;p&gt;Chức năng:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Chuyển đổi domain name thành IP address&lt;/li&gt;
@@ -528,9 +594,34 @@
         
         <guid>//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/</guid>
         <description>&lt;h2 id=&#34;để-có-thể-phát-wifi-bạn-chỉ-cần-một-phát-wifi-như-router-wifi-modem-wifi&#34;&gt;Để có thể phát Wifi bạn chỉ cần một phát wifi như router wifi, modem wifi,&amp;hellip;
-&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/router.jpg&#34;&gt;
-&lt;/figure&gt;
-
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/router.jpg&#34;
+	width=&#34;1500&#34;
+	height=&#34;1000&#34;
+	srcset=&#34;//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/router_hu_743a8be8c59c2629.jpg 480w, //localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/router_hu_8290b90da2da35dc.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Router Wifi&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;150&#34;
+		data-flex-basis=&#34;360px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/R.jpg&#34;
+	width=&#34;730&#34;
+	height=&#34;400&#34;
+	srcset=&#34;//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/R_hu_2de9ef6a245ca96f.jpg 480w, //localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/R_hu_11f0900c4ad65a60.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Modem Wifi&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;182&#34;
+		data-flex-basis=&#34;438px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;h2 id=&#34;wifi-là-gì&#34;&gt;WiFi là gì?
 &lt;/h2&gt;&lt;p&gt;WiFi (viết tắt của Wireless Fidelity) là công nghệ mạng không dây cho phép các thiết bị điện tử kết nối internet và giao tiếp với nhau mà không cần cáp mạng. WiFi sử dụng sóng vô tuyến để truyền tín hiệu dữ liệu giữa các thiết bị và điểm truy cập (Access Point).&lt;/p&gt;
 &lt;p&gt;WiFi là một phần của chuẩn IEEE 802.11, được sử dụng rộng rãi trong hộ gia đình, văn phòng, trường học và các không gian công cộng.&lt;/p&gt;
@@ -1851,12 +1942,20 @@
         <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
         
         <guid>//localhost:1313/post/java-la-gi/</guid>
-        <description>&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;//localhost:1313/post/java-la-gi/images/Java-Logo.png&#34;
-    alt=&#34;Logo Java&#34; width=&#34;auto&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Java - Ngôn ngữ lập trình phổ biến nhất thế giới&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
+        <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/java-la-gi/images/Java-Logo.png&#34;
+	width=&#34;3840&#34;
+	height=&#34;2160&#34;
+	srcset=&#34;//localhost:1313/post/java-la-gi/images/Java-Logo_hu_7532c3e60a0756ef.png 480w, //localhost:1313/post/java-la-gi/images/Java-Logo_hu_8339f460871d597c.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Java&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;h2 id=&#34;java-là-gì&#34;&gt;Java là gì?
 &lt;/h2&gt;&lt;p&gt;Java là một ngôn ngữ lập trình hướng đối tượng, độc lập nền tảng được phát triển bởi Sun Microsystems (nay là Oracle) vào năm 1995. Với phương châm &amp;ldquo;Write Once, Run Anywhere&amp;rdquo; (Viết một lần, chạy mọi nơi), Java đã trở thành một trong những ngôn ngữ lập trình phổ biến nhất thế giới.&lt;/p&gt;
 &lt;h2 id=&#34;cú-pháp-cơ-bản-của-java&#34;&gt;Cú pháp cơ bản của Java
@@ -2055,12 +2154,20 @@
         
         <guid>//localhost:1313/post/javascript-la-gi/</guid>
         <description>&lt;h2 id=&#34;1-javascript-là-gì&#34;&gt;1. JavaScript là gì?
-&lt;/h2&gt;&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;//localhost:1313/post/javascript-la-gi/images/javascript-la-gi.jpg&#34;
-    alt=&#34;JavaScript Logo&#34; width=&#34;auto&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;JavaScript - Ngôn ngữ lập trình phổ biến cho web development&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/javascript-la-gi/images/javascript-la-gi.jpg&#34;
+	width=&#34;1024&#34;
+	height=&#34;576&#34;
+	srcset=&#34;//localhost:1313/post/javascript-la-gi/images/javascript-la-gi_hu_dd1f615f0cdaf64a.jpg 480w, //localhost:1313/post/javascript-la-gi/images/javascript-la-gi_hu_aa0233a37a2c32e7.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Javascript&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;p&gt;JavaScript (JS) là một ngôn ngữ lập trình kịch bản (scripting language) được sử dụng rộng rãi để tạo ra các trang web tương tác. Nó là một trong ba công nghệ cốt lõi của web development, cùng với HTML và CSS.&lt;/p&gt;
 &lt;h3 id=&#34;js-là-gì&#34;&gt;JS là gì?
 &lt;/h3&gt;&lt;p&gt;JS là viết tắt của JavaScript, được phát triển bởi Brendan Eich tại Netscape vào năm 1995. Ban đầu, nó được tạo ra để làm cho các trang web trở nên &amp;ldquo;sống động&amp;rdquo; hơn bằng cách thêm các tính năng tương tác người dùng.&lt;/p&gt;
