@@ -11,8 +11,6 @@ image: "/images/HUTECH.webp"
 
 ## Giới Thiệu
 
-![Avatar](https://lazydarkz.github.io/thinh/images/Thinhavt.jpg)
-
 Xin chào! Tôi là [Trần Phước Thịnh].
 
 Ngày sinh: 15/06/2004
