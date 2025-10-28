@@ -13,12 +13,20 @@
         
         <guid>//localhost:1313/post/javascript-la-gi/</guid>
         <description>&lt;h2 id=&#34;1-javascript-là-gì&#34;&gt;1. JavaScript là gì?
-&lt;/h2&gt;&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;//localhost:1313/post/javascript-la-gi/images/javascript-la-gi.jpg&#34;
-    alt=&#34;JavaScript Logo&#34; width=&#34;auto&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;JavaScript - Ngôn ngữ lập trình phổ biến cho web development&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/javascript-la-gi/images/javascript-la-gi.jpg&#34;
+	width=&#34;1024&#34;
+	height=&#34;576&#34;
+	srcset=&#34;//localhost:1313/post/javascript-la-gi/images/javascript-la-gi_hu_dd1f615f0cdaf64a.jpg 480w, //localhost:1313/post/javascript-la-gi/images/javascript-la-gi_hu_aa0233a37a2c32e7.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Javascript&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;p&gt;JavaScript (JS) là một ngôn ngữ lập trình kịch bản (scripting language) được sử dụng rộng rãi để tạo ra các trang web tương tác. Nó là một trong ba công nghệ cốt lõi của web development, cùng với HTML và CSS.&lt;/p&gt;
 &lt;h3 id=&#34;js-là-gì&#34;&gt;JS là gì?
 &lt;/h3&gt;&lt;p&gt;JS là viết tắt của JavaScript, được phát triển bởi Brendan Eich tại Netscape vào năm 1995. Ban đầu, nó được tạo ra để làm cho các trang web trở nên &amp;ldquo;sống động&amp;rdquo; hơn bằng cách thêm các tính năng tương tác người dùng.&lt;/p&gt;

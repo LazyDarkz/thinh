@@ -25,24 +25,48 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;hình-ảnh-sơ-lược-về-trường---đại-học-công-nghệ-thông-tin---đhqg-hcm&#34;&gt;Hình ảnh sơ lược về trường - Đại học Công Nghệ Thông Tin - ĐHQG HCM
-&lt;/h2&gt;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/post/loi-chao/images/hutech1.webp&#34;
-    alt=&#34;Đại học Công Nghệ Thông Tin - ĐHQG HCM&#34; width=&#34;auto&#34; height=&#34;auto&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Đại học Công Nghệ Thông Tin - ĐHQG HCM&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img src=&#34;//localhost:1313/post/loi-chao/images/hutech2.jpg&#34;
-    alt=&#34;Đại học Công Nghệ Thông Tin - ĐHQG HCM&#34; width=&#34;auto&#34; height=&#34;auto&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Đại học Công Nghệ Thông Tin - ĐHQG HCM&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img src=&#34;//localhost:1313/post/loi-chao/images/hutech3.jpg&#34;
-    alt=&#34;Đại học Công Nghệ Thông Tin - ĐHQG HCM&#34; width=&#34;auto&#34; height=&#34;auto&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Đại học Công Nghệ Thông Tin - ĐHQG HCM&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/loi-chao/images/hutech1.webp&#34;
+	width=&#34;300&#34;
+	height=&#34;180&#34;
+	srcset=&#34;//localhost:1313/post/loi-chao/images/hutech1_hu_44fad5e501a31d36.webp 480w, //localhost:1313/post/loi-chao/images/hutech1_hu_15eb75eddea704af.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Hutech1&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;166&#34;
+		data-flex-basis=&#34;400px&#34;
+	
+&gt;
+&lt;img src=&#34;//localhost:1313/post/loi-chao/images/hutech2.jpg&#34;
+	width=&#34;620&#34;
+	height=&#34;413&#34;
+	srcset=&#34;//localhost:1313/post/loi-chao/images/hutech2_hu_2c0d72bc8508a6bc.jpg 480w, //localhost:1313/post/loi-chao/images/hutech2_hu_969229ab8f6d7e5f.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Hutech2&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;150&#34;
+		data-flex-basis=&#34;360px&#34;
+	
+&gt;
+&lt;img src=&#34;//localhost:1313/post/loi-chao/images/hutech3.jpg&#34;
+	width=&#34;1200&#34;
+	height=&#34;894&#34;
+	srcset=&#34;//localhost:1313/post/loi-chao/images/hutech3_hu_61b965b5965bf3d9.jpg 480w, //localhost:1313/post/loi-chao/images/hutech3_hu_227dab49428f5e85.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Hutech3&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;134&#34;
+		data-flex-basis=&#34;322px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;h2 id=&#34;nội-dung-blog-thinhblog&#34;&gt;Nội dung blog Thinhblog
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Blog Thinhblog sẽ tập trung vào các chủ đề như lập trình web, phát triển ứng dụng, công nghệ mới và các kỹ năng mềm cần thiết cho lập trình viên. Tôi sẽ cố gắng cập nhật nội dung thường xuyên để mang đến cho bạn những bài viết chất lượng và hữu ích.&lt;/li&gt;

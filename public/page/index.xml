@@ -12,12 +12,16 @@
         <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
         
         <guid>//localhost:1313/page/about/</guid>
-        <description>&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;//localhost:1313/page/about/images/HUTECH.webp&#34;
-    alt=&#34;Logo HUTECH&#34; width=&#34;4000&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;HUTECH - Đại học Công nghệ TP.HCM&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
+        <description>&lt;p&gt;&lt;img src=&#34;https://www.hutech.edu.vn/images/logo.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;HUTECH - Đại Học Công nghệ TP.HCM&#34;
+	
+	
+&gt;&lt;/p&gt;
 &lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới Thiệu
 &lt;/h2&gt;&lt;p&gt;Xin chào! Tôi là [Trần Phước Thịnh].&lt;/p&gt;
 &lt;p&gt;Ngày sinh: 15/06/2004&lt;/p&gt;
@@ -31,38 +35,90 @@
 &lt;li&gt;Lập trình mạng&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;chứng-chỉ-cisco-networking-academy-đã-đạt-được&#34;&gt;Chứng Chỉ Cisco Networking Academy đã đạt được
-&lt;/h3&gt;&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;//localhost:1313/page/about/images/QRJE1.jpeg&#34;
-    alt=&#34;Cisco Badge JE1&#34; width=&#34;auto&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Chứng chỉ Cisco JE1&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;//localhost:1313/page/about/images/QRJE2.jpeg&#34;
-    alt=&#34;Cisco Badge JE2&#34; width=&#34;auto&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Chứng chỉ Cisco JE2&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;//localhost:1313/page/about/images/QRNB.jpeg&#34;
-    alt=&#34;Cisco Badge NB&#34; width=&#34;auto&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Chứng chỉ Cisco NB&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;div class=&#34;certification-gallery&#34;&gt;
-    &lt;figure&gt;&lt;img src=&#34;//localhost:1313/page/about/images/QNB.PNG&#34;
-        alt=&#34;Cisco Networking Basics&#34; loading=&#34;lazy&#34;&gt;
-    &lt;/figure&gt;
-
-    &lt;figure&gt;&lt;img src=&#34;//localhost:1313/page/about/images/QJE1.PNG&#34;
-        alt=&#34;Cisco JE1&#34; loading=&#34;lazy&#34;&gt;
-    &lt;/figure&gt;
-
-    &lt;figure&gt;&lt;img src=&#34;//localhost:1313/page/about/images/QJE2.PNG&#34;
-        alt=&#34;Cisco JE2&#34; loading=&#34;lazy&#34;&gt;
-    &lt;/figure&gt;
-
-&lt;/div&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;//localhost:1313/page/about/images/QRJE1.jpeg&#34;
+	width=&#34;1029&#34;
+	height=&#34;788&#34;
+	srcset=&#34;//localhost:1313/page/about/images/QRJE1_hu_7a4bee0f3c09f243.jpeg 480w, //localhost:1313/page/about/images/QRJE1_hu_fba3847e3283b441.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Chứng chỉ Cisco JE1&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;130&#34;
+		data-flex-basis=&#34;313px&#34;
+	
+&gt;
+&lt;img src=&#34;//localhost:1313/page/about/images/QRJE2.jpeg&#34;
+	width=&#34;1030&#34;
+	height=&#34;788&#34;
+	srcset=&#34;//localhost:1313/page/about/images/QRJE2_hu_5d6612b2a8453a.jpeg 480w, //localhost:1313/page/about/images/QRJE2_hu_a426b64547675bf4.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Chứng chỉ Cisco JE2&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;130&#34;
+		data-flex-basis=&#34;313px&#34;
+	
+&gt;
+&lt;img src=&#34;//localhost:1313/page/about/images/QRNB.jpeg&#34;
+	width=&#34;1030&#34;
+	height=&#34;787&#34;
+	srcset=&#34;//localhost:1313/page/about/images/QRNB_hu_cbb1f64fa1dc3454.jpeg 480w, //localhost:1313/page/about/images/QRNB_hu_89fcb23819a08b5f.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Chứng chỉ Cisco NB&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;130&#34;
+		data-flex-basis=&#34;314px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/page/about/images/QNB.PNG&#34;
+	width=&#34;363&#34;
+	height=&#34;204&#34;
+	srcset=&#34;//localhost:1313/page/about/images/QNB_hu_e522b7f24b3fec9c.PNG 480w, //localhost:1313/page/about/images/QNB_hu_601e03d15a1df2f2.PNG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;QRCode Cisco Networking BASICS&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;427px&#34;
+	
+&gt;
+&lt;img src=&#34;//localhost:1313/page/about/images/QJE1.PNG&#34;
+	width=&#34;295&#34;
+	height=&#34;161&#34;
+	srcset=&#34;//localhost:1313/page/about/images/QJE1_hu_ebf3b4601d52d07e.PNG 480w, //localhost:1313/page/about/images/QJE1_hu_61a7ed39fd6e959a.PNG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;QRCode Cisco JE1&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;183&#34;
+		data-flex-basis=&#34;439px&#34;
+	
+&gt;
+&lt;img src=&#34;//localhost:1313/page/about/images/QJE2.PNG&#34;
+	width=&#34;376&#34;
+	height=&#34;206&#34;
+	srcset=&#34;//localhost:1313/page/about/images/QJE2_hu_9e60ac7a3030d745.PNG 480w, //localhost:1313/page/about/images/QJE2_hu_e03ee0f73ebc9d7e.PNG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;QRCode Cisco JE2&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;182&#34;
+		data-flex-basis=&#34;438px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;h3 id=&#34;ngôn-ngữ-lập-trình&#34;&gt;Ngôn Ngữ Lập Trình
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Java&lt;/li&gt;

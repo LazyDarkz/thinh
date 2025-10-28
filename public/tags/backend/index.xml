@@ -12,12 +12,20 @@
         <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
         
         <guid>//localhost:1313/post/java-la-gi/</guid>
-        <description>&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;//localhost:1313/post/java-la-gi/images/Java-Logo.png&#34;
-    alt=&#34;Logo Java&#34; width=&#34;auto&#34; loading=&#34;lazy&#34;&gt;&lt;figcaption&gt;
-      &lt;h4&gt;Java - Ngôn ngữ lập trình phổ biến nhất thế giới&lt;/h4&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
+        <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/java-la-gi/images/Java-Logo.png&#34;
+	width=&#34;3840&#34;
+	height=&#34;2160&#34;
+	srcset=&#34;//localhost:1313/post/java-la-gi/images/Java-Logo_hu_7532c3e60a0756ef.png 480w, //localhost:1313/post/java-la-gi/images/Java-Logo_hu_8339f460871d597c.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Java&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;h2 id=&#34;java-là-gì&#34;&gt;Java là gì?
 &lt;/h2&gt;&lt;p&gt;Java là một ngôn ngữ lập trình hướng đối tượng, độc lập nền tảng được phát triển bởi Sun Microsystems (nay là Oracle) vào năm 1995. Với phương châm &amp;ldquo;Write Once, Run Anywhere&amp;rdquo; (Viết một lần, chạy mọi nơi), Java đã trở thành một trong những ngôn ngữ lập trình phổ biến nhất thế giới.&lt;/p&gt;
 &lt;h2 id=&#34;cú-pháp-cơ-bản-của-java&#34;&gt;Cú pháp cơ bản của Java

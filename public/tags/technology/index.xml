@@ -13,12 +13,34 @@
         
         <guid>//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/</guid>
         <description>&lt;h2 id=&#34;để-có-thể-phát-wifi-bạn-chỉ-cần-một-phát-wifi-như-router-wifi-modem-wifi&#34;&gt;Để có thể phát Wifi bạn chỉ cần một phát wifi như router wifi, modem wifi,&amp;hellip;
-&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/router.jpg&#34;&gt;
-&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img src=&#34;//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/R.jpg&#34;&gt;
-&lt;/figure&gt;
-
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/router.jpg&#34;
+	width=&#34;1500&#34;
+	height=&#34;1000&#34;
+	srcset=&#34;//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/router_hu_743a8be8c59c2629.jpg 480w, //localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/router_hu_8290b90da2da35dc.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Router Wifi&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;150&#34;
+		data-flex-basis=&#34;360px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/R.jpg&#34;
+	width=&#34;730&#34;
+	height=&#34;400&#34;
+	srcset=&#34;//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/R_hu_2de9ef6a245ca96f.jpg 480w, //localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/R_hu_11f0900c4ad65a60.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Modem Wifi&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;182&#34;
+		data-flex-basis=&#34;438px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;h2 id=&#34;wifi-là-gì&#34;&gt;WiFi là gì?
 &lt;/h2&gt;&lt;p&gt;WiFi (viết tắt của Wireless Fidelity) là công nghệ mạng không dây cho phép các thiết bị điện tử kết nối internet và giao tiếp với nhau mà không cần cáp mạng. WiFi sử dụng sóng vô tuyến để truyền tín hiệu dữ liệu giữa các thiết bị và điểm truy cập (Access Point).&lt;/p&gt;
 &lt;p&gt;WiFi là một phần của chuẩn IEEE 802.11, được sử dụng rộng rãi trong hộ gia đình, văn phòng, trường học và các không gian công cộng.&lt;/p&gt;

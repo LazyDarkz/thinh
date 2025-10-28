@@ -11,6 +11,8 @@ image: "/images/HUTECH.webp"
 
 ## Giới Thiệu
 
+{{< figure src="/img/Thinhavt.jpg" alt="Trần Phước Thịnh" width="300" class="center" loading="lazy" title="Trần Phước Thịnh - Sinh viên ĐH Công nghệ HUTECH">}}
+
 Xin chào! Tôi là [Trần Phước Thịnh].
 
 Ngày sinh: 15/06/2004
@@ -32,10 +34,6 @@ Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập c�
 ![Chứng chỉ Cisco JE1](/images/QRJE1.jpeg)
 ![Chứng chỉ Cisco JE2](/images/QRJE2.jpeg)
 ![Chứng chỉ Cisco NB](/images/QRNB.jpeg)
-
-![QRCode Cisco Networking BASICS](/images/QNB.png)
-![QRCode Cisco JE1](/images/QJE1.png)
-![QRCode Cisco JE2](/images/QJE2.png)
 
 ### Ngôn Ngữ Lập Trình
 
