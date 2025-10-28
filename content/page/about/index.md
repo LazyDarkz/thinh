@@ -19,7 +19,7 @@ Ngày sinh: 15/06/2004
 
 SĐT: (84+) 0569420644
 
-Một sinh viên đam mê lập trình và phát triển phần mềm. Đang học tập tại ĐH Công nghệ HUTECH. Chuyên ngành Công nghệ phần mềm.
+Một sinh viên đam mê lập trình thiên về Back-end và phát triển phần mềm. Đang học tập tại ĐH Công nghệ HUTECH. Chuyên ngành Công nghệ phần mềm.
 
 Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập của mình về Java và JavaScript.
 
@@ -65,3 +65,17 @@ Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập c�
 
 - Email: [phuocthinh123456789100@gmail.com](mailto:phuocthinh123456789100@gmail.com)
 - GitHub: [https://github.com/LazyDarkz](https://github.com/LazyDarkz)
+
+## 🌟 Mục tiêu
+
+- Trở thành lập trình viên có nhiều kinh nghiệm, có thể xây dựng các hệ thống web hiệu quả, bảo mật và dễ mở rộng. Mong muốn được làm việc trong môi trường sáng tạo, học hỏi và phát triển kỹ năng liên tục.
+
+## - Thông điệp
+
+- "Học hỏi không ngừng, chứng kiến sự thay đổi của bản thân."
+- "Tin tưởng vào vận may và gia đình."
+
+## 📄 Tải CV
+
+<!-- markdownlint-disable-next-line MD033 -->
+<a href="/static/CVThinh/CVThinh.pdf" download>Tải CV (PDF)</a>
