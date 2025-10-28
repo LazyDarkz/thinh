@@ -11,7 +11,7 @@ image: "/images/HUTECH.webp"
 
 ## Giới Thiệu
 
-{{< figure src="/img/Thinhavt.jpg" alt="Trần Phước Thịnh" width="300" class="center" loading="lazy" title="Trần Phước Thịnh - Sinh viên ĐH Công nghệ HUTECH">}}
+![Avatar](/img/Thinhavt.jpg)
 
 Xin chào! Tôi là [Trần Phước Thịnh].
 
@@ -74,8 +74,3 @@ Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập c�
 
 - "Học hỏi không ngừng, chứng kiến sự thay đổi của bản thân."
 - "Tin tưởng vào vận may và gia đình."
-
-## 📄 Tải CV
-
-<!-- markdownlint-disable-next-line MD033 -->
-<a href="/static/CVThinh/CVThinh.pdf" download>Tải CV (PDF)</a>
