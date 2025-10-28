@@ -1,16 +1,460 @@
-<!doctype html><html lang=vi dir=ltr><head><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'><meta name=description content="Tìm hiểu về mạng máy tính và các loại mạng cơ bản: LAN, MAN, WAN và PAN"><title>Mạng là gì? Tổng quan về các loại mạng máy tính</title><link rel=canonical href=https://lazydarkz.github.io/thinh/post/mang-la-gi/><link rel=stylesheet href=/thinh/scss/style.min.f9005b4d227e2a407add3c1d31ad5d64b7165a8e65c7354b6bb14ccd45ff077a.css><meta property='og:title' content="Mạng là gì? Tổng quan về các loại mạng máy tính"><meta property='og:description' content="Tìm hiểu về mạng máy tính và các loại mạng cơ bản: LAN, MAN, WAN và PAN"><meta property='og:url' content='https://lazydarkz.github.io/thinh/post/mang-la-gi/'><meta property='og:site_name' content='Trần Phước Thịnh'><meta property='og:type' content='article'><meta property='article:section' content='Post'><meta property='article:tag' content='networking'><meta property='article:tag' content='mạng máy tính'><meta property='article:tag' content='programming'><meta property='article:published_time' content='2025-10-20T00:00:00+00:00'><meta property='article:modified_time' content='2025-10-20T00:00:00+00:00'><meta name=twitter:title content="Mạng là gì? Tổng quan về các loại mạng máy tính"><meta name=twitter:description content="Tìm hiểu về mạng máy tính và các loại mạng cơ bản: LAN, MAN, WAN và PAN"><link rel="shortcut icon" href=/img/favicon.webp></head><body class=article-page><script>(function(){const e="StackColorScheme";localStorage.getItem(e)||localStorage.setItem(e,"auto")})()</script><script>(function(){const t="StackColorScheme",e=localStorage.getItem(t),n=window.matchMedia("(prefers-color-scheme: dark)").matches===!0;e=="dark"||e==="auto"&&n?document.documentElement.dataset.scheme="dark":document.documentElement.dataset.scheme="light"})()</script><div class="container main-container flex on-phone--column compact"><aside class="sidebar left-sidebar sticky"><button class="hamburger hamburger--spin" type=button id=toggle-menu aria-label="Hiển thị Menu">
-<span class=hamburger-box><span class=hamburger-inner></span></span></button><header><figure class=site-avatar><a href=/thinh/><img src=https://lazydarkz.github.io/thinh/img/Thinhavt.jpg width=300 height=300 class=site-logo loading=lazy alt=Avatar>
-</a><span class=emoji>🎓</span></figure><div class=site-meta><h1 class=site-name><a href=/thinh>Trần Phước Thịnh</a></h1><h2 class=site-description>Blog chia sẻ kiến thức</h2></div></header><ol class=menu id=main-menu><li><a href=/thinh/><span>Trang Chủ</span></a></li><li><a href=/thinh/post/><span>Blog</span></a></li><li><a href=/thinh/page/about/><span>Về Tôi</span></a></li><li class=menu-bottom-section><ol class=menu><li id=dark-mode-toggle><svg class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><circle cx="8" cy="12" r="2"/><rect x="2" y="6" width="20" height="12" rx="6"/></svg>
-<svg class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><circle cx="16" cy="12" r="2"/><rect x="2" y="6" width="20" height="12" rx="6"/></svg>
-<span>Chế độ nền tối</span></li></ol></li></ol></aside><main class="main full-width"><article class=main-article><header class=article-header><div class=article-details><header class=article-category><a href=/thinh/categories/programming/>Programming</a></header><div class=article-title-wrapper><h2 class=article-title><a href=/thinh/post/mang-la-gi/>Mạng là gì? Tổng quan về các loại mạng máy tính</a></h2><h3 class=article-subtitle>Tìm hiểu về mạng máy tính và các loại mạng cơ bản: LAN, MAN, WAN và PAN</h3></div><footer class=article-time><div><svg class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><path d="M11.795 21H5a2 2 0 01-2-2V7a2 2 0 012-2h12a2 2 0 012 2v4"/><circle cx="18" cy="18" r="4"/><path d="M15 3v4"/><path d="M7 3v4"/><path d="M3 11h16"/><path d="M18 16.496V18l1 1"/></svg>
-<time class=article-time--published>thg 10 20, 2025</time></div><div><svg class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z"/><circle cx="12" cy="12" r="9"/><polyline points="12 7 12 12 15 15"/></svg>
-<time class=article-time--reading>3 phút đọc</time></div></footer></div></header><section class=article-content><h2 id=mạng-là-gì>Mạng là gì?</h2><p>Với mục đích phân tích và nghiên cứu quá trình giao tiếp, Mạng máy tính đã được tạo ra như một bước tiến mới trong lịch sử. Bởi nó liên kết toàn bộ các hệ thống máy tính khác nhau để trao đổi thông tin cần thiết.</p><p>Do đó, việc kết nối mạng chỉ thực hiện được khi có mạng riêng của nó. Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN. Người dùng cần chú ý cơ chế hoạt động của các mạng để lựa chọn phát triển chương trình mạng được tốt nhất.</p><p><img src=/thinh/post/mang-la-gi/images/mang.webp width=280 height=180 srcset="/thinh/post/mang-la-gi/images/mang_hu_2dbd6845fa95deca.webp 480w, /thinh/post/mang-la-gi/images/mang_hu_db82812e16119649.webp 1024w" loading=lazy alt="Minh Hoạ Mạng" class=gallery-image data-flex-grow=155 data-flex-basis=373px></p><h2 id=có-4-loại-mạng-cơ-bản-là-lan-man-wan-và-pan>Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN</h2><h3 id=mạng-lan-local-area-network>Mạng LAN (Local Area Network)</h3><p>Mạng LAN là mạng cục bộ nên có đường truyền ngắn. Với giao thức TCP/IP, mạng LAN chủ yếu được sử dụng tại nơi diện tích nhỏ như: văn phòng, tòa nhà, trường học.</p><p>Tất cả máy tính kết nối mạng LAN đều được sử dụng để kết nối vào máy chủ sau đó chờ quyền truy cập để thực hiện lệnh in trên máy in.</p><h3 id=mạng-man-metropolitan-area-network>Mạng MAN (Metropolitan Area Network)</h3><p>Khác với mạng LAN, mạng đô thị MAN có phạm vị kết nối rộng hơn, hình thành nhờ sự kết nối nhiều mạng LAN với nhau.</p><p>Đây là mô hình rộng cung cấp dịch vụ giá trị gia tăng; trên một đường truyền tốc độ nhanh để kết nối và mở rộng triển khai các doanh nghiệp với nhau.</p><h3 id=mạng-wan-wide-area-network>Mạng WAN (Wide Area Network)</h3><p>Mạng diện rộng WAN là sự kết hợp giữa mạng LAN và mạng MAN với việc sử dụng đường dây cáp quang hay thuê bao hoặc thông qua đường truyền vệ tinh.</p><p>Phạm vi hoạt động của mạng rộng lớn hơn, bao gồm cả một quốc gia, khu vực địa lý hay thậm chí ở toàn cầu.</p><h3 id=mạng-pan-personal-area-network>Mạng PAN (Personal Area Network)</h3><p>Mạng PAN có khả năng phát tín hiệu kết nối trong một diện tích nhỏ để truyền dữ liệu thông qua mạng trực tuyến.</p><p>Cá nhân có thể sử dụng mạng PAN giữa các thiết bị với nhau như di động, máy tính để liên lạc thuận tiện hơn hoặc kết nối với các mạng cao cấp hơn.</p><h2 id=tổng-kết>Tổng kết</h2><p>Mạng máy tính đóng vai trò quan trọng trong việc kết nối và trao đổi thông tin giữa các thiết bị. Việc hiểu rõ các loại mạng cơ bản (LAN, MAN, WAN, PAN) sẽ giúp bạn lựa chọn và triển khai giải pháp mạng phù hợp nhất cho nhu cầu của mình.</p></section><footer class=article-footer><section class=article-tags><a href=/thinh/tags/networking/>Networking</a>
-<a href=/thinh/tags/m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh/>Mạng Máy Tính</a>
-<a href=/thinh/tags/programming/>Programming</a></section></footer></article><aside class=related-content--wrapper><h2 class=section-title>Bài viết liên quan</h2><div class=related-content><div class="flex article-list--tile"><article><a href=/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/><div class=article-details><h2 class=article-title>Giao thức mạng là gì? 14 giao thức mạng phổ biến đang sử dụng hiện nay</h2></div></a></article><article><a href=/thinh/post/wifi-la-gi-nguyen-ly-hoat-dong/><div class=article-details><h2 class=article-title>WiFi là gì? Tìm hiểu nguyên lý hoạt động của WiFi</h2></div></a></article><article><a href=/thinh/post/javascript-bien/><div class=article-details><h2 class=article-title>Biến và Khai Báo Biến trong JavaScript</h2></div></a></article><article><a href=/thinh/post/javascript-toan-tu/><div class=article-details><h2 class=article-title>Các Toán Tử Trong JavaScript</h2></div></a></article><article><a href=/thinh/post/java-la-gi/><div class=article-details><h2 class=article-title>Java là gì? Tổng quan về ngôn ngữ lập trình Java</h2></div></a></article></div></div></aside><footer class=site-footer><section class=copyright>&copy;
-2023 -
-2025 Trần Phước Thịnh</section><section class=powerby>Built with <a href=https://gohugo.io/ target=_blank rel=noopener>Hugo</a><br>Theme <b><a href=https://github.com/CaiJimmy/hugo-theme-stack target=_blank rel=noopener data-version=3.31.0>Stack</a></b> thiết kế bởi <a href=https://jimmycai.com target=_blank rel=noopener>Jimmy</a></section></footer><div class=pswp tabindex=-1 role=dialog aria-hidden=true><div class=pswp__bg></div><div class=pswp__scroll-wrap><div class=pswp__container><div class=pswp__item></div><div class=pswp__item></div><div class=pswp__item></div></div><div class="pswp__ui pswp__ui--hidden"><div class=pswp__top-bar><div class=pswp__counter></div><button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-<button class="pswp__button pswp__button--share" title=Share></button>
-<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button><div class=pswp__preloader><div class=pswp__preloader__icn><div class=pswp__preloader__cut><div class=pswp__preloader__donut></div></div></div></div></div><div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap"><div class=pswp__share-tooltip></div></div><button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
-</button>
-<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button><div class=pswp__caption><div class=pswp__caption__center></div></div></div></div></div><script src=https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo=" crossorigin=anonymous defer></script><script src=https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU=" crossorigin=anonymous defer></script><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css crossorigin=anonymous><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css crossorigin=anonymous></main></div><script src=https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z+KMkF24hUW8WePSA9HM=" crossorigin=anonymous></script><script type=text/javascript src=/thinh/ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js defer></script><script>(function(){const e=document.createElement("link");e.href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap",e.type="text/css",e.rel="stylesheet",document.head.appendChild(e)})()</script></body></html>
+<!DOCTYPE html>
+<html lang="vi" dir="ltr">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Tìm hiểu về mạng máy tính và các loại mạng cơ bản: LAN, MAN, WAN và PAN">
+<title>Mạng là gì? Tổng quan về các loại mạng máy tính</title>
+
+<link rel='canonical' href='//localhost:1313/post/mang-la-gi/'>
+
+<link rel="stylesheet" href="/scss/style.min.f9005b4d227e2a407add3c1d31ad5d64b7165a8e65c7354b6bb14ccd45ff077a.css"><meta property='og:title' content="Mạng là gì? Tổng quan về các loại mạng máy tính">
+<meta property='og:description' content="Tìm hiểu về mạng máy tính và các loại mạng cơ bản: LAN, MAN, WAN và PAN">
+<meta property='og:url' content='//localhost:1313/post/mang-la-gi/'>
+<meta property='og:site_name' content='Trần Phước Thịnh'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='networking' /><meta property='article:tag' content='mạng máy tính' /><meta property='article:tag' content='programming' /><meta property='article:published_time' content='2025-10-20T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2025-10-20T00:00:00&#43;00:00'/>
+<meta name="twitter:title" content="Mạng là gì? Tổng quan về các loại mạng máy tính">
+<meta name="twitter:description" content="Tìm hiểu về mạng máy tính và các loại mạng cơ bản: LAN, MAN, WAN và PAN">
+    <link rel="shortcut icon" href="/img/favicon.webp" />
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column compact"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Hiển thị Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    <img src="/img/Thinhavt.jpg" width="300" height="300" class="site-logo" loading="lazy" alt="Avatar">
+                
+                </a>
+                
+                    <span class="emoji">🎓</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="//localhost:1313/">Trần Phước Thịnh</a></h1>
+            <h2 class="site-description">Blog chia sẻ kiến thức</h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                <span>Trang Chủ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/post/' >
+                
+                
+                
+                <span>Blog</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/about/' >
+                
+                
+                
+                <span>Về Tôi</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Chế độ nền tối</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/programming/" >
+                Programming
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/post/mang-la-gi/">Mạng là gì? Tổng quan về các loại mạng máy tính</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            Tìm hiểu về mạng máy tính và các loại mạng cơ bản: LAN, MAN, WAN và PAN
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">thg 10 20, 2025</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    3 phút đọc
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <h2 id="mạng-là-gì">Mạng là gì?
+</h2><p>Với mục đích phân tích và nghiên cứu quá trình giao tiếp, Mạng máy tính đã được tạo ra như một bước tiến mới trong lịch sử. Bởi nó liên kết toàn bộ các hệ thống máy tính khác nhau để trao đổi thông tin cần thiết.</p>
+<p>Do đó, việc kết nối mạng chỉ thực hiện được khi có mạng riêng của nó. Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN. Người dùng cần chú ý cơ chế hoạt động của các mạng để lựa chọn phát triển chương trình mạng được tốt nhất.</p>
+<p><img src="/post/mang-la-gi/images/mang.webp"
+	width="280"
+	height="180"
+	srcset="/post/mang-la-gi/images/mang_hu_2dbd6845fa95deca.webp 480w, /post/mang-la-gi/images/mang_hu_db82812e16119649.webp 1024w"
+	loading="lazy"
+	
+		alt="Minh Hoạ Mạng"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="155"
+		data-flex-basis="373px"
+	
+></p>
+<h2 id="có-4-loại-mạng-cơ-bản-là-lan-man-wan-và-pan">Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN
+</h2><h3 id="mạng-lan-local-area-network">Mạng LAN (Local Area Network)
+</h3><p>Mạng LAN là mạng cục bộ nên có đường truyền ngắn. Với giao thức TCP/IP, mạng LAN chủ yếu được sử dụng tại nơi diện tích nhỏ như: văn phòng, tòa nhà, trường học.</p>
+<p>Tất cả máy tính kết nối mạng LAN đều được sử dụng để kết nối vào máy chủ sau đó chờ quyền truy cập để thực hiện lệnh in trên máy in.</p>
+<h3 id="mạng-man-metropolitan-area-network">Mạng MAN (Metropolitan Area Network)
+</h3><p>Khác với mạng LAN, mạng đô thị MAN có phạm vị kết nối rộng hơn, hình thành nhờ sự kết nối nhiều mạng LAN với nhau.</p>
+<p>Đây là mô hình rộng cung cấp dịch vụ giá trị gia tăng; trên một đường truyền tốc độ nhanh để kết nối và mở rộng triển khai các doanh nghiệp với nhau.</p>
+<h3 id="mạng-wan-wide-area-network">Mạng WAN (Wide Area Network)
+</h3><p>Mạng diện rộng WAN là sự kết hợp giữa mạng LAN và mạng MAN với việc sử dụng đường dây cáp quang hay thuê bao hoặc thông qua đường truyền vệ tinh.</p>
+<p>Phạm vi hoạt động của mạng rộng lớn hơn, bao gồm cả một quốc gia, khu vực địa lý hay thậm chí ở toàn cầu.</p>
+<h3 id="mạng-pan-personal-area-network">Mạng PAN (Personal Area Network)
+</h3><p>Mạng PAN có khả năng phát tín hiệu kết nối trong một diện tích nhỏ để truyền dữ liệu thông qua mạng trực tuyến.</p>
+<p>Cá nhân có thể sử dụng mạng PAN giữa các thiết bị với nhau như di động, máy tính để liên lạc thuận tiện hơn hoặc kết nối với các mạng cao cấp hơn.</p>
+<h2 id="tổng-kết">Tổng kết
+</h2><p>Mạng máy tính đóng vai trò quan trọng trong việc kết nối và trao đổi thông tin giữa các thiết bị. Việc hiểu rõ các loại mạng cơ bản (LAN, MAN, WAN, PAN) sẽ giúp bạn lựa chọn và triển khai giải pháp mạng phù hợp nhất cho nhu cầu của mình.</p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/networking/">Networking</a>
+        
+            <a href="/tags/m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh/">Mạng Máy Tính</a>
+        
+            <a href="/tags/programming/">Programming</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Bài viết liên quan</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Giao thức mạng là gì? 14 giao thức mạng phổ biến đang sử dụng hiện nay</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/wifi-la-gi-nguyen-ly-hoat-dong/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">WiFi là gì? Tìm hiểu nguyên lý hoạt động của WiFi</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/javascript-bien/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Biến và Khai Báo Biến trong JavaScript</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/javascript-toan-tu/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Các Toán Tử Trong JavaScript</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/post/java-la-gi/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Java là gì? Tổng quan về ngôn ngữ lập trình Java</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2023 - 
+        
+        2025 Trần Phước Thịnh
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.31.0">Stack</a></b> thiết kế bởi <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.33e637ed762ce7bbfdfe0c48d8224235c98c5d2759cf4b2461e9f904dc5cf605.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

@@ -1,75 +1,115 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Networking on Trần Phước Thịnh</title><link>https://lazydarkz.github.io/thinh/tags/networking/</link><description>Recent content in Networking on Trần Phước Thịnh</description><generator>Hugo -- gohugo.io</generator><language>vi</language><lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lazydarkz.github.io/thinh/tags/networking/index.xml" rel="self" type="application/rss+xml"/><item><title>Lập trình mạng học ngôn ngữ gì? Hướng dẫn chọn ngôn ngữ phù hợp</title><link>https://lazydarkz.github.io/thinh/post/lap-trinh-mang-hoc-ngon-ngu-gi/</link><pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate><guid>https://lazydarkz.github.io/thinh/post/lap-trinh-mang-hoc-ngon-ngu-gi/</guid><description>&lt;h2 id="lập-trình-mạng-học-ngôn-ngữ-gì"&gt;Lập trình mạng học ngôn ngữ gì?
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Networking on Trần Phước Thịnh</title>
+        <link>//localhost:1313/tags/networking/</link>
+        <description>Recent content in Networking on Trần Phước Thịnh</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>vi</language>
+        <lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/networking/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Lập trình mạng học ngôn ngữ gì? Hướng dẫn chọn ngôn ngữ phù hợp</title>
+        <link>//localhost:1313/post/lap-trinh-mang-hoc-ngon-ngu-gi/</link>
+        <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/post/lap-trinh-mang-hoc-ngon-ngu-gi/</guid>
+        <description>&lt;h2 id=&#34;lập-trình-mạng-học-ngôn-ngữ-gì&#34;&gt;Lập trình mạng học ngôn ngữ gì?
 &lt;/h2&gt;&lt;p&gt;Thành phần không thể thiếu của lập trình hay lập trình mạng chính là ngôn ngữ lập trình. Ngôn ngữ lập trình mạng là yếu tố quyết định then chốt xem chương trình mạng đang hoạt động ra sao. Tùy theo mục đích sử dụng mà sẽ tạo ngôn ngữ lập trình mạng tương ứng.&lt;/p&gt;
-&lt;h2 id="các-ngôn-ngữ-lập-trình-mạng-phổ-biến"&gt;Các ngôn ngữ lập trình mạng phổ biến
+&lt;h2 id=&#34;các-ngôn-ngữ-lập-trình-mạng-phổ-biến&#34;&gt;Các ngôn ngữ lập trình mạng phổ biến
 &lt;/h2&gt;&lt;p&gt;Vậy thì học lập trình mạng chúng ta sẽ sử dụng ngôn ngữ nào? Có nhiều loại ngôn ngữ để lập trình mạng khác nhau, tuy nhiên tất cả đều vẫn có ưu nhược điểm riêng. Nhưng tóm gọn vẫn là hỗ trợ thư viện API với các cấp độ và mức phụ thuộc.&lt;/p&gt;
 &lt;p&gt;Các ngôn ngữ lập trình mạng phổ biến hiện nay được sử dụng nhiều nhất là:&lt;/p&gt;
-&lt;h3 id="1-cc"&gt;1. &lt;strong&gt;C/C++&lt;/strong&gt;
+&lt;h3 id=&#34;1-cc&#34;&gt;1. &lt;strong&gt;C/C++&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;C/C++ là một trong những ngôn ngữ cơ bản và mạnh mẽ cho lập trình mạng. C++ cung cấp khả năng kiểm soát chi tiết về hệ thống và hiệu năng cao.&lt;/p&gt;
-&lt;h3 id="2-java"&gt;2. &lt;strong&gt;Java&lt;/strong&gt;
+&lt;h3 id=&#34;2-java&#34;&gt;2. &lt;strong&gt;Java&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;Java được sử dụng rộng rãi trong lập trình mạng nhờ tính tương thích và hỗ trợ đa nền tảng mạnh mẽ.&lt;/p&gt;
-&lt;h3 id="3-net"&gt;3. &lt;strong&gt;.NET&lt;/strong&gt;
+&lt;h3 id=&#34;3-net&#34;&gt;3. &lt;strong&gt;.NET&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;.NET là framework của Microsoft cung cấp thư viện phong phú cho lập trình mạng trên nền tảng Windows.&lt;/p&gt;
-&lt;h3 id="4-delphi"&gt;4. &lt;strong&gt;Delphi&lt;/strong&gt;
+&lt;h3 id=&#34;4-delphi&#34;&gt;4. &lt;strong&gt;Delphi&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;Delphi là ngôn ngữ lập trình visual, phù hợp cho phát triển ứng dụng desktop có kết nối mạng.&lt;/p&gt;
-&lt;h3 id="5-javascript"&gt;5. &lt;strong&gt;JavaScript&lt;/strong&gt;
+&lt;h3 id=&#34;5-javascript&#34;&gt;5. &lt;strong&gt;JavaScript&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;JavaScript đang ngày càng phổ biến, đặc biệt với Node.js cho phép lập trình mạng phía server.&lt;/p&gt;
-&lt;h2 id="xu-hướng-lập-trình-mạng-hiện-tại"&gt;Xu hướng lập trình mạng hiện tại
+&lt;h2 id=&#34;xu-hướng-lập-trình-mạng-hiện-tại&#34;&gt;Xu hướng lập trình mạng hiện tại
 &lt;/h2&gt;&lt;p&gt;Trước đây Java hay .NET lại được sử dụng khá rộng rãi do sự tiện ích của nó khi xây dựng một ứng dụng mạng mang lại. Hiện nay, xu hướng ngôn ngữ lập trình đã có những thay đổi, đặc biệt là làn sóng xu lập trình Fullstack với lập trình mạng từ nền Javascript nhận được sự quan tâm nhiều hơn.&lt;/p&gt;
-&lt;h2 id="kiến-thức-cơ-bản-về-lập-trình-mạng"&gt;Kiến thức cơ bản về lập trình mạng
+&lt;h2 id=&#34;kiến-thức-cơ-bản-về-lập-trình-mạng&#34;&gt;Kiến thức cơ bản về lập trình mạng
 &lt;/h2&gt;&lt;p&gt;Ngoài những hiểu biết về mạng và lập trình mạng cũng như ngôn ngữ lập trình. Hiện nay khi học lập trình, các nhà lập trình thường sử dụng ngôn ngữ lập trình NET. Ngôn ngữ lập trình của NET là tập hợp các lớp dùng để lập trình online thuộc không gian System.net và System.net Socket. Các lớp này hỗ trợ tất cả mọi thứ từ lập trình đến tạo địa chỉ TCP/IP.&lt;/p&gt;
-&lt;h3 id="mạng-cục-bộ-lan"&gt;Mạng cục bộ LAN
+&lt;h3 id=&#34;mạng-cục-bộ-lan&#34;&gt;Mạng cục bộ LAN
 &lt;/h3&gt;&lt;p&gt;Mạng cục bộ LAN được các nhà lập trình tương lai xây dựng và phát triển các máy tính để kết nối tại các khu vực nhỏ như hộ gia đình hay toà nhà.&lt;/p&gt;
-&lt;h3 id="dịch-vụ-web-html-và-http"&gt;Dịch vụ web HTML và HTTP
+&lt;h3 id=&#34;dịch-vụ-web-html-và-http&#34;&gt;Dịch vụ web HTML và HTTP
 &lt;/h3&gt;&lt;p&gt;Ngoài ra lập trình mạng còn có dịch vụ web HTML, được thông qua từ HTTP. Hai không gian này đều có nền tảng hay networking cấp cao. Không chỉ vậy, lập trình mạng cũng cần tới nền Socket khi đây là giao diện trực tuyến, thông qua đó lập trình điều khiển 2 máy với nhau, gửi nhận dữ liệu giữa 2 máy.&lt;/p&gt;
-&lt;h2 id="tổng-kết"&gt;Tổng kết
-&lt;/h2&gt;&lt;p&gt;Việc chọn ngôn ngữ lập trình mạng phù hợp phụ thuộc vào mục đích và yêu cầu của dự án. Các ngôn ngữ như C/C++, Java, .NET, JavaScript đều có những ưu điểm riêng. Tuy nhiên, xu hướng hiện tại đang nghiêng về JavaScript với Node.js cho phép lập trình fullstack hiệu quả. Quan trọng là phải hiểu rõ các khái niệm cơ bản về mạng, TCP/IP, Socket và HTTP để có thể phát triển các ứng dụng mạng thành công.&lt;/p&gt;</description></item><item><title>Mạng là gì? Tổng quan về các loại mạng máy tính</title><link>https://lazydarkz.github.io/thinh/post/mang-la-gi/</link><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><guid>https://lazydarkz.github.io/thinh/post/mang-la-gi/</guid><description>&lt;h2 id="mạng-là-gì"&gt;Mạng là gì?
+&lt;h2 id=&#34;tổng-kết&#34;&gt;Tổng kết
+&lt;/h2&gt;&lt;p&gt;Việc chọn ngôn ngữ lập trình mạng phù hợp phụ thuộc vào mục đích và yêu cầu của dự án. Các ngôn ngữ như C/C++, Java, .NET, JavaScript đều có những ưu điểm riêng. Tuy nhiên, xu hướng hiện tại đang nghiêng về JavaScript với Node.js cho phép lập trình fullstack hiệu quả. Quan trọng là phải hiểu rõ các khái niệm cơ bản về mạng, TCP/IP, Socket và HTTP để có thể phát triển các ứng dụng mạng thành công.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Mạng là gì? Tổng quan về các loại mạng máy tính</title>
+        <link>//localhost:1313/post/mang-la-gi/</link>
+        <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/post/mang-la-gi/</guid>
+        <description>&lt;h2 id=&#34;mạng-là-gì&#34;&gt;Mạng là gì?
 &lt;/h2&gt;&lt;p&gt;Với mục đích phân tích và nghiên cứu quá trình giao tiếp, Mạng máy tính đã được tạo ra như một bước tiến mới trong lịch sử. Bởi nó liên kết toàn bộ các hệ thống máy tính khác nhau để trao đổi thông tin cần thiết.&lt;/p&gt;
 &lt;p&gt;Do đó, việc kết nối mạng chỉ thực hiện được khi có mạng riêng của nó. Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN. Người dùng cần chú ý cơ chế hoạt động của các mạng để lựa chọn phát triển chương trình mạng được tốt nhất.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://lazydarkz.github.io/thinh/post/mang-la-gi/images/mang.webp"
-width="280"
-height="180"
-srcset="https://lazydarkz.github.io/thinh/post/mang-la-gi/images/mang_hu_2dbd6845fa95deca.webp 480w, https://lazydarkz.github.io/thinh/post/mang-la-gi/images/mang_hu_db82812e16119649.webp 1024w"
-loading="lazy"
-alt="Minh Hoạ Mạng"
-class="gallery-image"
-data-flex-grow="155"
-data-flex-basis="373px"
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/mang-la-gi/images/mang.webp&#34;
+	width=&#34;280&#34;
+	height=&#34;180&#34;
+	srcset=&#34;//localhost:1313/post/mang-la-gi/images/mang_hu_2dbd6845fa95deca.webp 480w, //localhost:1313/post/mang-la-gi/images/mang_hu_db82812e16119649.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Minh Hoạ Mạng&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;155&#34;
+		data-flex-basis=&#34;373px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;h2 id="có-4-loại-mạng-cơ-bản-là-lan-man-wan-và-pan"&gt;Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN
-&lt;/h2&gt;&lt;h3 id="mạng-lan-local-area-network"&gt;Mạng LAN (Local Area Network)
+&lt;h2 id=&#34;có-4-loại-mạng-cơ-bản-là-lan-man-wan-và-pan&#34;&gt;Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN
+&lt;/h2&gt;&lt;h3 id=&#34;mạng-lan-local-area-network&#34;&gt;Mạng LAN (Local Area Network)
 &lt;/h3&gt;&lt;p&gt;Mạng LAN là mạng cục bộ nên có đường truyền ngắn. Với giao thức TCP/IP, mạng LAN chủ yếu được sử dụng tại nơi diện tích nhỏ như: văn phòng, tòa nhà, trường học.&lt;/p&gt;
 &lt;p&gt;Tất cả máy tính kết nối mạng LAN đều được sử dụng để kết nối vào máy chủ sau đó chờ quyền truy cập để thực hiện lệnh in trên máy in.&lt;/p&gt;
-&lt;h3 id="mạng-man-metropolitan-area-network"&gt;Mạng MAN (Metropolitan Area Network)
+&lt;h3 id=&#34;mạng-man-metropolitan-area-network&#34;&gt;Mạng MAN (Metropolitan Area Network)
 &lt;/h3&gt;&lt;p&gt;Khác với mạng LAN, mạng đô thị MAN có phạm vị kết nối rộng hơn, hình thành nhờ sự kết nối nhiều mạng LAN với nhau.&lt;/p&gt;
 &lt;p&gt;Đây là mô hình rộng cung cấp dịch vụ giá trị gia tăng; trên một đường truyền tốc độ nhanh để kết nối và mở rộng triển khai các doanh nghiệp với nhau.&lt;/p&gt;
-&lt;h3 id="mạng-wan-wide-area-network"&gt;Mạng WAN (Wide Area Network)
+&lt;h3 id=&#34;mạng-wan-wide-area-network&#34;&gt;Mạng WAN (Wide Area Network)
 &lt;/h3&gt;&lt;p&gt;Mạng diện rộng WAN là sự kết hợp giữa mạng LAN và mạng MAN với việc sử dụng đường dây cáp quang hay thuê bao hoặc thông qua đường truyền vệ tinh.&lt;/p&gt;
 &lt;p&gt;Phạm vi hoạt động của mạng rộng lớn hơn, bao gồm cả một quốc gia, khu vực địa lý hay thậm chí ở toàn cầu.&lt;/p&gt;
-&lt;h3 id="mạng-pan-personal-area-network"&gt;Mạng PAN (Personal Area Network)
+&lt;h3 id=&#34;mạng-pan-personal-area-network&#34;&gt;Mạng PAN (Personal Area Network)
 &lt;/h3&gt;&lt;p&gt;Mạng PAN có khả năng phát tín hiệu kết nối trong một diện tích nhỏ để truyền dữ liệu thông qua mạng trực tuyến.&lt;/p&gt;
 &lt;p&gt;Cá nhân có thể sử dụng mạng PAN giữa các thiết bị với nhau như di động, máy tính để liên lạc thuận tiện hơn hoặc kết nối với các mạng cao cấp hơn.&lt;/p&gt;
-&lt;h2 id="tổng-kết"&gt;Tổng kết
-&lt;/h2&gt;&lt;p&gt;Mạng máy tính đóng vai trò quan trọng trong việc kết nối và trao đổi thông tin giữa các thiết bị. Việc hiểu rõ các loại mạng cơ bản (LAN, MAN, WAN, PAN) sẽ giúp bạn lựa chọn và triển khai giải pháp mạng phù hợp nhất cho nhu cầu của mình.&lt;/p&gt;</description></item><item><title>Giao thức mạng là gì? 14 giao thức mạng phổ biến đang sử dụng hiện nay</title><link>https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/</link><pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate><guid>https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/</guid><description>&lt;h2 id="giao-thức-mạng-là-gì"&gt;Giao thức mạng là gì?
+&lt;h2 id=&#34;tổng-kết&#34;&gt;Tổng kết
+&lt;/h2&gt;&lt;p&gt;Mạng máy tính đóng vai trò quan trọng trong việc kết nối và trao đổi thông tin giữa các thiết bị. Việc hiểu rõ các loại mạng cơ bản (LAN, MAN, WAN, PAN) sẽ giúp bạn lựa chọn và triển khai giải pháp mạng phù hợp nhất cho nhu cầu của mình.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Giao thức mạng là gì? 14 giao thức mạng phổ biến đang sử dụng hiện nay</title>
+        <link>//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/</link>
+        <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/</guid>
+        <description>&lt;h2 id=&#34;giao-thức-mạng-là-gì&#34;&gt;Giao thức mạng là gì?
 &lt;/h2&gt;&lt;p&gt;Giao thức mạng (Network Protocol) là một tập hợp các quy tắc và chuẩn được sử dụng để quy định cách thức trao đổi dữ liệu giữa các thiết bị trên mạng máy tính. Giao thức mạng đóng vai trò như một &amp;ldquo;ngôn ngữ chung&amp;rdquo; giúp các thiết bị có thể giao tiếp và hiểu được nhau.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt.webp"
-width="1000"
-height="332"
-srcset="https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt_hu_1839f74e3d7874b8.webp 480w, https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt_hu_bce2e42c58e3edca.webp 1024w"
-loading="lazy"
-alt="Ảnh Demo"
-class="gallery-image"
-data-flex-grow="301"
-data-flex-basis="722px"
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt.webp&#34;
+	width=&#34;1000&#34;
+	height=&#34;332&#34;
+	srcset=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt_hu_1839f74e3d7874b8.webp 480w, //localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt_hu_bce2e42c58e3edca.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Ảnh Demo&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;301&#34;
+		data-flex-basis=&#34;722px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;h3 id="đặc-điểm-của-giao-thức-mạng"&gt;Đặc điểm của giao thức mạng
+&lt;h3 id=&#34;đặc-điểm-của-giao-thức-mạng&#34;&gt;Đặc điểm của giao thức mạng
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Tính chuẩn hóa&lt;/strong&gt;: Được định nghĩa bởi các tổ chức như IEEE, IETF&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tính độc lập&lt;/strong&gt;: Hoạt động độc lập với phần cứng và phần mềm cụ thể&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tính phân lớp&lt;/strong&gt;: Các giao thức được tổ chức thành các tầng (layers)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tính mở rộng&lt;/strong&gt;: Có thể mở rộng và cải tiến theo thời gian&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="14-giao-thức-mạng-phổ-biến-đang-được-sử-dụng"&gt;14 giao thức mạng phổ biến đang được sử dụng
-&lt;/h2&gt;&lt;h3 id="1-tcpip-transmission-control-protocolinternet-protocol"&gt;1. &lt;strong&gt;TCP/IP (Transmission Control Protocol/Internet Protocol)&lt;/strong&gt;
+&lt;h2 id=&#34;14-giao-thức-mạng-phổ-biến-đang-được-sử-dụng&#34;&gt;14 giao thức mạng phổ biến đang được sử dụng
+&lt;/h2&gt;&lt;h3 id=&#34;1-tcpip-transmission-control-protocolinternet-protocol&#34;&gt;1. &lt;strong&gt;TCP/IP (Transmission Control Protocol/Internet Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;TCP/IP là bộ giao thức cơ bản nhất của internet, bao gồm hai thành phần:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;IP (Internet Protocol)&lt;/strong&gt;: Định địa chỉ và định tuyến dữ liệu&lt;/li&gt;
@@ -82,17 +122,21 @@ data-flex-basis="722px"
 &lt;li&gt;Đảm bảo thứ tự gói tin&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Tất cả các ứng dụng internet hiện đại&lt;/p&gt;
-&lt;h3 id="2-httphttps-hypertext-transfer-protocol"&gt;2. &lt;strong&gt;HTTP/HTTPS (HyperText Transfer Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;2-httphttps-hypertext-transfer-protocol&#34;&gt;2. &lt;strong&gt;HTTP/HTTPS (HyperText Transfer Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;HTTP là giao thức truyền tải siêu văn bản, được sử dụng để tải trang web.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/https.webp"
-width="1000"
-height="840"
-srcset="https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/https_hu_93f2763879a76f02.webp 480w, https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/https_hu_99b04dcc7a3b3980.webp 1024w"
-loading="lazy"
-alt="HTTPS"
-class="gallery-image"
-data-flex-grow="119"
-data-flex-basis="285px"
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/https.webp&#34;
+	width=&#34;1000&#34;
+	height=&#34;840&#34;
+	srcset=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/https_hu_93f2763879a76f02.webp 480w, //localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/https_hu_99b04dcc7a3b3980.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;HTTPS&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;119&#34;
+		data-flex-basis=&#34;285px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;HTTP:&lt;/p&gt;
 &lt;ul&gt;
@@ -107,17 +151,21 @@ data-flex-basis="285px"
 &lt;li&gt;Bảo mật cao hơn&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Duyệt web, API REST&lt;/p&gt;
-&lt;h3 id="3-dns-domain-name-system"&gt;3. &lt;strong&gt;DNS (Domain Name System)&lt;/strong&gt;
+&lt;h3 id=&#34;3-dns-domain-name-system&#34;&gt;3. &lt;strong&gt;DNS (Domain Name System)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;DNS là hệ thống phân giải tên miền thành địa chỉ IP.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/DNS.webp"
-width="1000"
-height="605"
-srcset="https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/DNS_hu_963560dc9d56b39f.webp 480w, https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/DNS_hu_8a198d3e6ca161cc.webp 1024w"
-loading="lazy"
-alt="DNS"
-class="gallery-image"
-data-flex-grow="165"
-data-flex-basis="396px"
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/DNS.webp&#34;
+	width=&#34;1000&#34;
+	height=&#34;605&#34;
+	srcset=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/DNS_hu_963560dc9d56b39f.webp 480w, //localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/DNS_hu_8a198d3e6ca161cc.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;DNS&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;165&#34;
+		data-flex-basis=&#34;396px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;Chức năng:&lt;/p&gt;
 &lt;ul&gt;
@@ -126,7 +174,7 @@ data-flex-basis="396px"
 &lt;li&gt;Hỗ trợ cân bằng tải&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Tất cả các hoạt động internet&lt;/p&gt;
-&lt;h3 id="4-ftp-file-transfer-protocol"&gt;4. &lt;strong&gt;FTP (File Transfer Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;4-ftp-file-transfer-protocol&#34;&gt;4. &lt;strong&gt;FTP (File Transfer Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;FTP dùng để truyền tệp tin giữa máy chủ và máy khách.&lt;/p&gt;
 &lt;p&gt;Đặc điểm:&lt;/p&gt;
 &lt;ul&gt;
@@ -135,7 +183,7 @@ data-flex-basis="396px"
 &lt;li&gt;Có chế độ passive và active&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Upload website, chia sẻ file lớn&lt;/p&gt;
-&lt;h3 id="5-smtp-simple-mail-transfer-protocol"&gt;5. &lt;strong&gt;SMTP (Simple Mail Transfer Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;5-smtp-simple-mail-transfer-protocol&#34;&gt;5. &lt;strong&gt;SMTP (Simple Mail Transfer Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;SMTP dùng để gửi email qua internet.&lt;/p&gt;
 &lt;p&gt;Đặc điểm:&lt;/p&gt;
 &lt;ul&gt;
@@ -144,7 +192,7 @@ data-flex-basis="396px"
 &lt;li&gt;Không hỗ trợ nhận email&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Gửi email&lt;/p&gt;
-&lt;h3 id="6-pop3-post-office-protocol-version-3"&gt;6. &lt;strong&gt;POP3 (Post Office Protocol version 3)&lt;/strong&gt;
+&lt;h3 id=&#34;6-pop3-post-office-protocol-version-3&#34;&gt;6. &lt;strong&gt;POP3 (Post Office Protocol version 3)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;POP3 dùng để nhận email từ máy chủ mail.&lt;/p&gt;
 &lt;p&gt;Đặc điểm:&lt;/p&gt;
 &lt;ul&gt;
@@ -153,7 +201,7 @@ data-flex-basis="396px"
 &lt;li&gt;Xóa email trên server (tùy chọn)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Thu thập email từ máy chủ&lt;/p&gt;
-&lt;h3 id="7-imap-internet-message-access-protocol"&gt;7. &lt;strong&gt;IMAP (Internet Message Access Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;7-imap-internet-message-access-protocol&#34;&gt;7. &lt;strong&gt;IMAP (Internet Message Access Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;IMAP cho phép truy cập email trực tiếp từ máy chủ.&lt;/p&gt;
 &lt;p&gt;Đặc điểm:&lt;/p&gt;
 &lt;ul&gt;
@@ -162,7 +210,7 @@ data-flex-basis="396px"
 &lt;li&gt;Giữ email trên server&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Email trên nhiều thiết bị&lt;/p&gt;
-&lt;h3 id="8-ssh-secure-shell"&gt;8. &lt;strong&gt;SSH (Secure Shell)&lt;/strong&gt;
+&lt;h3 id=&#34;8-ssh-secure-shell&#34;&gt;8. &lt;strong&gt;SSH (Secure Shell)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;SSH cung cấp kết nối bảo mật từ xa đến máy chủ.&lt;/p&gt;
 &lt;p&gt;Đặc điểm:&lt;/p&gt;
 &lt;ul&gt;
@@ -171,7 +219,7 @@ data-flex-basis="396px"
 &lt;li&gt;An toàn hơn Telnet&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Quản lý server từ xa, truyền file an toàn&lt;/p&gt;
-&lt;h3 id="9-tlsssl-transport-layer-securitysecure-sockets-layer"&gt;9. &lt;strong&gt;TLS/SSL (Transport Layer Security/Secure Sockets Layer)&lt;/strong&gt;
+&lt;h3 id=&#34;9-tlsssl-transport-layer-securitysecure-sockets-layer&#34;&gt;9. &lt;strong&gt;TLS/SSL (Transport Layer Security/Secure Sockets Layer)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;TLS/SSL cung cấp mã hóa cho giao tiếp mạng.&lt;/p&gt;
 &lt;p&gt;Chức năng:&lt;/p&gt;
 &lt;ul&gt;
@@ -180,7 +228,7 @@ data-flex-basis="396px"
 &lt;li&gt;Bảo vệ khỏi nghe trộm&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: HTTPS, VPN, email bảo mật&lt;/p&gt;
-&lt;h3 id="10-dhcp-dynamic-host-configuration-protocol"&gt;10. &lt;strong&gt;DHCP (Dynamic Host Configuration Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;10-dhcp-dynamic-host-configuration-protocol&#34;&gt;10. &lt;strong&gt;DHCP (Dynamic Host Configuration Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;DHCP tự động cấp phát địa chỉ IP cho các thiết bị trong mạng.&lt;/p&gt;
 &lt;p&gt;Chức năng:&lt;/p&gt;
 &lt;ul&gt;
@@ -189,7 +237,7 @@ data-flex-basis="396px"
 &lt;li&gt;Giảm lỗi cấu hình&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Router, switch, mạng LAN&lt;/p&gt;
-&lt;h3 id="11-snmp-simple-network-management-protocol"&gt;11. &lt;strong&gt;SNMP (Simple Network Management Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;11-snmp-simple-network-management-protocol&#34;&gt;11. &lt;strong&gt;SNMP (Simple Network Management Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;SNMP quản lý và giám sát thiết bị mạng.&lt;/p&gt;
 &lt;p&gt;Chức năng:&lt;/p&gt;
 &lt;ul&gt;
@@ -198,7 +246,7 @@ data-flex-basis="396px"
 &lt;li&gt;Cảnh báo sự cố&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Quản lý mạng, giám sát thiết bị&lt;/p&gt;
-&lt;h3 id="12-udp-user-datagram-protocol"&gt;12. &lt;strong&gt;UDP (User Datagram Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;12-udp-user-datagram-protocol&#34;&gt;12. &lt;strong&gt;UDP (User Datagram Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;UDP là giao thức không kết nối, nhanh hơn TCP nhưng kém tin cậy hơn.&lt;/p&gt;
 &lt;p&gt;Đặc điểm:&lt;/p&gt;
 &lt;ul&gt;
@@ -207,7 +255,7 @@ data-flex-basis="396px"
 &lt;li&gt;Không đảm bảo thứ tự&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Streaming video, VoIP, game online&lt;/p&gt;
-&lt;h3 id="13-icmp-internet-control-message-protocol"&gt;13. &lt;strong&gt;ICMP (Internet Control Message Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;13-icmp-internet-control-message-protocol&#34;&gt;13. &lt;strong&gt;ICMP (Internet Control Message Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;ICMP dùng để gửi thông báo lỗi và kiểm tra kết nối.&lt;/p&gt;
 &lt;p&gt;Chức năng:&lt;/p&gt;
 &lt;ul&gt;
@@ -216,7 +264,7 @@ data-flex-basis="396px"
 &lt;li&gt;Điều chỉnh routing&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Ping, Traceroute, xử lý lỗi mạng&lt;/p&gt;
-&lt;h3 id="14-arp-address-resolution-protocol"&gt;14. &lt;strong&gt;ARP (Address Resolution Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;14-arp-address-resolution-protocol&#34;&gt;14. &lt;strong&gt;ARP (Address Resolution Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;ARP chuyển đổi địa chỉ IP sang địa chỉ MAC.&lt;/p&gt;
 &lt;p&gt;Chức năng:&lt;/p&gt;
 &lt;ul&gt;
@@ -225,48 +273,48 @@ data-flex-basis="396px"
 &lt;li&gt;Giảm broadcast&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Tất cả hoạt động trong mạng LAN&lt;/p&gt;
-&lt;h2 id="so-sánh-các-giao-thức-mạng"&gt;So sánh các giao thức mạng
-&lt;/h2&gt;&lt;h3 id="giao-thức-kết-nối-vs-không-kết-nối"&gt;Giao thức kết nối vs không kết nối
+&lt;h2 id=&#34;so-sánh-các-giao-thức-mạng&#34;&gt;So sánh các giao thức mạng
+&lt;/h2&gt;&lt;h3 id=&#34;giao-thức-kết-nối-vs-không-kết-nối&#34;&gt;Giao thức kết nối vs không kết nối
 &lt;/h3&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Giao thức&lt;/th&gt;
-&lt;th&gt;Loại&lt;/th&gt;
-&lt;th&gt;Ưu điểm&lt;/th&gt;
-&lt;th&gt;Nhược điểm&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;TCP&lt;/td&gt;
-&lt;td&gt;Kết nối&lt;/td&gt;
-&lt;td&gt;Đáng tin cậy, có kiểm tra lỗi&lt;/td&gt;
-&lt;td&gt;Chậm hơn, overhead cao&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;UDP&lt;/td&gt;
-&lt;td&gt;Không kết nối&lt;/td&gt;
-&lt;td&gt;Nhanh, nhẹ&lt;/td&gt;
-&lt;td&gt;Không đảm bảo delivery&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Giao thức&lt;/th&gt;
+          &lt;th&gt;Loại&lt;/th&gt;
+          &lt;th&gt;Ưu điểm&lt;/th&gt;
+          &lt;th&gt;Nhược điểm&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;TCP&lt;/td&gt;
+          &lt;td&gt;Kết nối&lt;/td&gt;
+          &lt;td&gt;Đáng tin cậy, có kiểm tra lỗi&lt;/td&gt;
+          &lt;td&gt;Chậm hơn, overhead cao&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;UDP&lt;/td&gt;
+          &lt;td&gt;Không kết nối&lt;/td&gt;
+          &lt;td&gt;Nhanh, nhẹ&lt;/td&gt;
+          &lt;td&gt;Không đảm bảo delivery&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h3 id="giao-thức-bảo-mật-vs-không-bảo-mật"&gt;Giao thức bảo mật vs không bảo mật
+&lt;h3 id=&#34;giao-thức-bảo-mật-vs-không-bảo-mật&#34;&gt;Giao thức bảo mật vs không bảo mật
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Bảo mật&lt;/strong&gt;: HTTPS, SSH, SFTP&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Không bảo mật&lt;/strong&gt;: HTTP, FTP, Telnet&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="tầm-quan-trọng-của-giao-thức-mạng"&gt;Tầm quan trọng của giao thức mạng
-&lt;/h2&gt;&lt;h3 id="1-tính-tương-thích"&gt;1. Tính tương thích
+&lt;h2 id=&#34;tầm-quan-trọng-của-giao-thức-mạng&#34;&gt;Tầm quan trọng của giao thức mạng
+&lt;/h2&gt;&lt;h3 id=&#34;1-tính-tương-thích&#34;&gt;1. Tính tương thích
 &lt;/h3&gt;&lt;p&gt;Giao thức mạng đảm bảo các thiết bị khác nhau có thể giao tiếp với nhau.&lt;/p&gt;
-&lt;h3 id="2-hiệu-quả-mạng"&gt;2. Hiệu quả mạng
+&lt;h3 id=&#34;2-hiệu-quả-mạng&#34;&gt;2. Hiệu quả mạng
 &lt;/h3&gt;&lt;p&gt;Mỗi giao thức được thiết kế cho mục đích cụ thể để tối ưu hiệu suất.&lt;/p&gt;
-&lt;h3 id="3-bảo-mật"&gt;3. Bảo mật
+&lt;h3 id=&#34;3-bảo-mật&#34;&gt;3. Bảo mật
 &lt;/h3&gt;&lt;p&gt;Các giao thức bảo mật như HTTPS, SSH bảo vệ dữ liệu khỏi bị đánh cắp.&lt;/p&gt;
-&lt;h3 id="4-chuẩn-hóa"&gt;4. Chuẩn hóa
+&lt;h3 id=&#34;4-chuẩn-hóa&#34;&gt;4. Chuẩn hóa
 &lt;/h3&gt;&lt;p&gt;Giao thức mạng tạo ra chuẩn chung giúp phát triển công nghệ dễ dàng hơn.&lt;/p&gt;
-&lt;h2 id="các-mô-hình-giao-thức-mạng"&gt;Các mô hình giao thức mạng
-&lt;/h2&gt;&lt;h3 id="1-osi-model-7-tầng"&gt;1. OSI Model (7 tầng)
+&lt;h2 id=&#34;các-mô-hình-giao-thức-mạng&#34;&gt;Các mô hình giao thức mạng
+&lt;/h2&gt;&lt;h3 id=&#34;1-osi-model-7-tầng&#34;&gt;1. OSI Model (7 tầng)
 &lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Physical Layer&lt;/li&gt;
 &lt;li&gt;Data Link Layer&lt;/li&gt;
@@ -276,52 +324,52 @@ data-flex-basis="396px"
 &lt;li&gt;Presentation Layer&lt;/li&gt;
 &lt;li&gt;Application Layer&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="2-tcpip-model-4-tầng"&gt;2. TCP/IP Model (4 tầng)
+&lt;h3 id=&#34;2-tcpip-model-4-tầng&#34;&gt;2. TCP/IP Model (4 tầng)
 &lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Network Interface Layer&lt;/li&gt;
 &lt;li&gt;Internet Layer&lt;/li&gt;
 &lt;li&gt;Transport Layer&lt;/li&gt;
 &lt;li&gt;Application Layer&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id="ứng-dụng-thực-tế"&gt;Ứng dụng thực tế
-&lt;/h2&gt;&lt;h3 id="giao-thức-cho-web-development"&gt;Giao thức cho Web Development
+&lt;h2 id=&#34;ứng-dụng-thực-tế&#34;&gt;Ứng dụng thực tế
+&lt;/h2&gt;&lt;h3 id=&#34;giao-thức-cho-web-development&#34;&gt;Giao thức cho Web Development
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;HTTP/HTTPS&lt;/strong&gt;: Duyệt web&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;WebSocket&lt;/strong&gt;: Real-time communication&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;REST API&lt;/strong&gt;: API design&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="giao-thức-cho-email"&gt;Giao thức cho Email
+&lt;h3 id=&#34;giao-thức-cho-email&#34;&gt;Giao thức cho Email
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;SMTP&lt;/strong&gt;: Gửi email&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;POP3/IMAP&lt;/strong&gt;: Nhận email&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SSL/TLS&lt;/strong&gt;: Mã hóa email&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="giao-thức-cho-quản-trị-mạng"&gt;Giao thức cho Quản trị mạng
+&lt;h3 id=&#34;giao-thức-cho-quản-trị-mạng&#34;&gt;Giao thức cho Quản trị mạng
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;SSH&lt;/strong&gt;: Remote administration&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SNMP&lt;/strong&gt;: Network monitoring&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;DHCP&lt;/strong&gt;: IP management&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="các-câu-hỏi-thường-gặp"&gt;Các câu hỏi thường gặp
-&lt;/h2&gt;&lt;h3 id="1-tại-sao-cần-nhiều-giao-thức"&gt;1. Tại sao cần nhiều giao thức?
+&lt;h2 id=&#34;các-câu-hỏi-thường-gặp&#34;&gt;Các câu hỏi thường gặp
+&lt;/h2&gt;&lt;h3 id=&#34;1-tại-sao-cần-nhiều-giao-thức&#34;&gt;1. Tại sao cần nhiều giao thức?
 &lt;/h3&gt;&lt;p&gt;Mỗi giao thức được thiết kế cho mục đích cụ thể:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;TCP cho dữ liệu đáng tin cậy&lt;/li&gt;
 &lt;li&gt;UDP cho tốc độ cao&lt;/li&gt;
 &lt;li&gt;HTTP cho web browsing&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="2-giao-thức-nào-quan-trọng-nhất"&gt;2. Giao thức nào quan trọng nhất?
+&lt;h3 id=&#34;2-giao-thức-nào-quan-trọng-nhất&#34;&gt;2. Giao thức nào quan trọng nhất?
 &lt;/h3&gt;&lt;p&gt;TCP/IP là nền tảng của internet, nhưng tất cả giao thức đều quan trọng trong hệ sinh thái mạng.&lt;/p&gt;
-&lt;h3 id="3-làm-sao-để-chọn-giao-thức-phù-hợp"&gt;3. Làm sao để chọn giao thức phù hợp?
+&lt;h3 id=&#34;3-làm-sao-để-chọn-giao-thức-phù-hợp&#34;&gt;3. Làm sao để chọn giao thức phù hợp?
 &lt;/h3&gt;&lt;p&gt;Phụ thuộc vào yêu cầu:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Cần đáng tin cậy → TCP&lt;/li&gt;
 &lt;li&gt;Cần tốc độ → UDP&lt;/li&gt;
 &lt;li&gt;Cần bảo mật → HTTPS, SSH&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="4-có-thể-tạo-giao-thức-riêng-không"&gt;4. Có thể tạo giao thức riêng không?
+&lt;h3 id=&#34;4-có-thể-tạo-giao-thức-riêng-không&#34;&gt;4. Có thể tạo giao thức riêng không?
 &lt;/h3&gt;&lt;p&gt;Có, nhưng cần tuân theo chuẩn và đảm bảo tương thích với hệ thống hiện có.&lt;/p&gt;
-&lt;h2 id="tổng-kết"&gt;Tổng kết
+&lt;h2 id=&#34;tổng-kết&#34;&gt;Tổng kết
 &lt;/h2&gt;&lt;p&gt;Giao thức mạng là nền tảng của mọi hoạt động truyền thông trên internet. Hiểu rõ 14 giao thức mạng phổ biến trên đây giúp bạn:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Nắm được cách hoạt động của mạng máy tính&lt;/li&gt;
@@ -337,62 +385,79 @@ data-flex-basis="396px"
 &lt;li&gt;RFC 793 - Transmission Control Protocol&lt;/li&gt;
 &lt;li&gt;IEEE 802 standards&lt;/li&gt;
 &lt;li&gt;W3C HTTP Specification&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>WiFi là gì? Tìm hiểu nguyên lý hoạt động của WiFi</title><link>https://lazydarkz.github.io/thinh/post/wifi-la-gi-nguyen-ly-hoat-dong/</link><pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate><guid>https://lazydarkz.github.io/thinh/post/wifi-la-gi-nguyen-ly-hoat-dong/</guid><description>&lt;h2 id="để-có-thể-phát-wifi-bạn-chỉ-cần-một-phát-wifi-như-router-wifi-modem-wifi"&gt;Để có thể phát Wifi bạn chỉ cần một phát wifi như router wifi, modem wifi,&amp;hellip;
-&lt;/h2&gt;&lt;p&gt;&lt;img src="https://lazydarkz.github.io/thinh/post/wifi-la-gi-nguyen-ly-hoat-dong/images/router.jpg"
-width="1500"
-height="1000"
-srcset="https://lazydarkz.github.io/thinh/post/wifi-la-gi-nguyen-ly-hoat-dong/images/router_hu_743a8be8c59c2629.jpg 480w, https://lazydarkz.github.io/thinh/post/wifi-la-gi-nguyen-ly-hoat-dong/images/router_hu_8290b90da2da35dc.jpg 1024w"
-loading="lazy"
-alt="Router Wifi"
-class="gallery-image"
-data-flex-grow="150"
-data-flex-basis="360px"
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>WiFi là gì? Tìm hiểu nguyên lý hoạt động của WiFi</title>
+        <link>//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/</link>
+        <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/</guid>
+        <description>&lt;h2 id=&#34;để-có-thể-phát-wifi-bạn-chỉ-cần-một-phát-wifi-như-router-wifi-modem-wifi&#34;&gt;Để có thể phát Wifi bạn chỉ cần một phát wifi như router wifi, modem wifi,&amp;hellip;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/router.jpg&#34;
+	width=&#34;1500&#34;
+	height=&#34;1000&#34;
+	srcset=&#34;//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/router_hu_743a8be8c59c2629.jpg 480w, //localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/router_hu_8290b90da2da35dc.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Router Wifi&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;150&#34;
+		data-flex-basis=&#34;360px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://lazydarkz.github.io/thinh/post/wifi-la-gi-nguyen-ly-hoat-dong/images/R.jpg"
-width="730"
-height="400"
-srcset="https://lazydarkz.github.io/thinh/post/wifi-la-gi-nguyen-ly-hoat-dong/images/R_hu_2de9ef6a245ca96f.jpg 480w, https://lazydarkz.github.io/thinh/post/wifi-la-gi-nguyen-ly-hoat-dong/images/R_hu_11f0900c4ad65a60.jpg 1024w"
-loading="lazy"
-alt="Modem Wifi"
-class="gallery-image"
-data-flex-grow="182"
-data-flex-basis="438px"
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/R.jpg&#34;
+	width=&#34;730&#34;
+	height=&#34;400&#34;
+	srcset=&#34;//localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/R_hu_2de9ef6a245ca96f.jpg 480w, //localhost:1313/post/wifi-la-gi-nguyen-ly-hoat-dong/images/R_hu_11f0900c4ad65a60.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Modem Wifi&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;182&#34;
+		data-flex-basis=&#34;438px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;h2 id="wifi-là-gì"&gt;WiFi là gì?
+&lt;h2 id=&#34;wifi-là-gì&#34;&gt;WiFi là gì?
 &lt;/h2&gt;&lt;p&gt;WiFi (viết tắt của Wireless Fidelity) là công nghệ mạng không dây cho phép các thiết bị điện tử kết nối internet và giao tiếp với nhau mà không cần cáp mạng. WiFi sử dụng sóng vô tuyến để truyền tín hiệu dữ liệu giữa các thiết bị và điểm truy cập (Access Point).&lt;/p&gt;
 &lt;p&gt;WiFi là một phần của chuẩn IEEE 802.11, được sử dụng rộng rãi trong hộ gia đình, văn phòng, trường học và các không gian công cộng.&lt;/p&gt;
-&lt;h3 id="tên-gọi-wifi"&gt;Tên gọi WiFi
+&lt;h3 id=&#34;tên-gọi-wifi&#34;&gt;Tên gọi WiFi
 &lt;/h3&gt;&lt;p&gt;Mặc dù Wi-Fi là viết tắt của &amp;ldquo;Wireless Fidelity&amp;rdquo;, thực tế đây chỉ là một cái tên thương mại do Wi-Fi Alliance đặt ra để dễ nhớ và dễ phát âm. Tên kỹ thuật đúng của nó là IEEE 802.11.&lt;/p&gt;
-&lt;h2 id="các-chuẩn-wifi-phổ-biến"&gt;Các chuẩn WiFi phổ biến
-&lt;/h2&gt;&lt;h3 id="wifi-4-ieee-80211n"&gt;WiFi 4 (IEEE 802.11n)
+&lt;h2 id=&#34;các-chuẩn-wifi-phổ-biến&#34;&gt;Các chuẩn WiFi phổ biến
+&lt;/h2&gt;&lt;h3 id=&#34;wifi-4-ieee-80211n&#34;&gt;WiFi 4 (IEEE 802.11n)
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Tốc độ lý thuyết: 600 Mbps&lt;/li&gt;
 &lt;li&gt;Băng tần: 2.4 GHz và 5 GHz&lt;/li&gt;
 &lt;li&gt;Phát hành: 2009&lt;/li&gt;
 &lt;li&gt;Đặc điểm: Hỗ trợ MIMO (Multiple Input Multiple Output)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="wifi-5-ieee-80211ac"&gt;WiFi 5 (IEEE 802.11ac)
+&lt;h3 id=&#34;wifi-5-ieee-80211ac&#34;&gt;WiFi 5 (IEEE 802.11ac)
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Tốc độ lý thuyết: 6.77 Gbps&lt;/li&gt;
 &lt;li&gt;Băng tần: 5 GHz chính&lt;/li&gt;
 &lt;li&gt;Phát hành: 2013&lt;/li&gt;
 &lt;li&gt;Đặc điểm: Tăng đáng kể tốc độ so với WiFi 4&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="wifi-6-ieee-80211ax"&gt;WiFi 6 (IEEE 802.11ax)
+&lt;h3 id=&#34;wifi-6-ieee-80211ax&#34;&gt;WiFi 6 (IEEE 802.11ax)
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Tốc độ lý thuyết: 9.6 Gbps&lt;/li&gt;
 &lt;li&gt;Băng tần: 2.4 GHz và 5 GHz&lt;/li&gt;
 &lt;li&gt;Phát hành: 2019&lt;/li&gt;
 &lt;li&gt;Đặc điểm: Cải thiện hiệu suất trong môi trường nhiều thiết bị&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="wifi-6e-ieee-80211ax-mở-rộng"&gt;WiFi 6E (IEEE 802.11ax mở rộng)
+&lt;h3 id=&#34;wifi-6e-ieee-80211ax-mở-rộng&#34;&gt;WiFi 6E (IEEE 802.11ax mở rộng)
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Băng tần bổ sung: 6 GHz&lt;/li&gt;
 &lt;li&gt;Phát hành: 2020&lt;/li&gt;
 &lt;li&gt;Đặc điểm: Tăng đáng kể băng thông&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="nguyên-lý-hoạt-động-của-wifi"&gt;Nguyên lý hoạt động của WiFi
-&lt;/h2&gt;&lt;h3 id="1-cơ-chế-truyền-tín-hiệu"&gt;1. Cơ chế truyền tín hiệu
+&lt;h2 id=&#34;nguyên-lý-hoạt-động-của-wifi&#34;&gt;Nguyên lý hoạt động của WiFi
+&lt;/h2&gt;&lt;h3 id=&#34;1-cơ-chế-truyền-tín-hiệu&#34;&gt;1. Cơ chế truyền tín hiệu
 &lt;/h3&gt;&lt;p&gt;WiFi hoạt động dựa trên việc truyền dữ liệu bằng sóng vô tuyến điện từ (sóng radio). Quá trình này diễn ra như sau:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Modulation&lt;/strong&gt;: Dữ liệu số được chuyển đổi thành tín hiệu radio&lt;/li&gt;
@@ -401,51 +466,51 @@ data-flex-basis="438px"
 &lt;li&gt;&lt;strong&gt;Reception&lt;/strong&gt;: Thiết bị nhận bắt sóng và giải mã tín hiệu&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Demodulation&lt;/strong&gt;: Chuyển đổi tín hiệu radio trở lại dữ liệu số&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="2-mô-hình-client-server"&gt;2. Mô hình Client-Server
+&lt;h3 id=&#34;2-mô-hình-client-server&#34;&gt;2. Mô hình Client-Server
 &lt;/h3&gt;&lt;p&gt;Trong mạng WiFi, mô hình hoạt động chủ yếu là Client-Server:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Access Point (AP)&lt;/strong&gt;: Thiết bị phát sóng WiFi, đóng vai trò như server&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Client devices&lt;/strong&gt;: Điện thoại, laptop, tablet&amp;hellip; là các thiết bị client&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Router&lt;/strong&gt;: Thiết bị định tuyến, thường tích hợp Access Point&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="3-quy-trình-kết-nối-wifi"&gt;3. Quy trình kết nối WiFi
-&lt;/h3&gt;&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
-&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
-&lt;/span&gt;&lt;span class="lnt"&gt; 2
-&lt;/span&gt;&lt;span class="lnt"&gt; 3
-&lt;/span&gt;&lt;span class="lnt"&gt; 4
-&lt;/span&gt;&lt;span class="lnt"&gt; 5
-&lt;/span&gt;&lt;span class="lnt"&gt; 6
-&lt;/span&gt;&lt;span class="lnt"&gt; 7
-&lt;/span&gt;&lt;span class="lnt"&gt; 8
-&lt;/span&gt;&lt;span class="lnt"&gt; 9
-&lt;/span&gt;&lt;span class="lnt"&gt;10
-&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;h3 id=&#34;3-quy-trình-kết-nối-wifi&#34;&gt;3. Quy trình kết nối WiFi
+&lt;/h3&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class="lntd"&gt;
-&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;1. Thiết bị phát hiện mạng WiFi (Scanning)
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; ↓
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;2. Gửi yêu cầu kết nối (Authentication Request)
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; ↓
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;3. Xác thực (Authentication Response)
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; ↓
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;4. Yêu cầu kết nối (Association Request)
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; ↓
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;5. Xác nhận kết nối (Association Response)
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; ↓
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;6. Kết nối thành công, nhận IP (DHCP)
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. Thiết bị phát hiện mạng WiFi (Scanning)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   ↓
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2. Gửi yêu cầu kết nối (Authentication Request)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   ↓
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;3. Xác thực (Authentication Response)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   ↓
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;4. Yêu cầu kết nối (Association Request)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   ↓
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;5. Xác nhận kết nối (Association Response)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   ↓
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;6. Kết nối thành công, nhận IP (DHCP)
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h3 id="4-giao-thức-csmaca"&gt;4. Giao thức CSMA/CA
+&lt;/div&gt;&lt;h3 id=&#34;4-giao-thức-csmaca&#34;&gt;4. Giao thức CSMA/CA
 &lt;/h3&gt;&lt;p&gt;WiFi sử dụng giao thức &lt;strong&gt;Carrier Sense Multiple Access with Collision Avoidance&lt;/strong&gt; để tránh xung đột khi nhiều thiết bị truyền dữ liệu cùng lúc:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Carrier Sense&lt;/strong&gt;: Kiểm tra kênh trước khi phát&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Collision Avoidance&lt;/strong&gt;: Tránh va chạm bằng RTS/CTS&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Random Backoff&lt;/strong&gt;: Chờ ngẫu nhiên trước khi truyền lại&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="băng-tần-wifi"&gt;Băng tần WiFi
-&lt;/h2&gt;&lt;h3 id="băng-tần-24-ghz"&gt;Băng tần 2.4 GHz
+&lt;h2 id=&#34;băng-tần-wifi&#34;&gt;Băng tần WiFi
+&lt;/h2&gt;&lt;h3 id=&#34;băng-tần-24-ghz&#34;&gt;Băng tần 2.4 GHz
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ưu điểm:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Phạm vi phủ sóng xa hơn&lt;/li&gt;
@@ -463,7 +528,7 @@ data-flex-basis="438px"
 &lt;li&gt;Kênh 1, 6, 11 (không chồng chéo)&lt;/li&gt;
 &lt;li&gt;Băng thông: 20 MHz hoặc 40 MHz&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="băng-tần-5-ghz"&gt;Băng tần 5 GHz
+&lt;h3 id=&#34;băng-tần-5-ghz&#34;&gt;Băng tần 5 GHz
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ưu điểm:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Tốc độ cao hơn&lt;/li&gt;
@@ -481,64 +546,64 @@ data-flex-basis="438px"
 &lt;li&gt;Nhiều kênh không chồng chéo (24 kênh)&lt;/li&gt;
 &lt;li&gt;Băng thông: 20 MHz, 40 MHz, 80 MHz, 160 MHz&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="băng-tần-6-ghz-wifi-6e"&gt;Băng tần 6 GHz (WiFi 6E)
+&lt;h3 id=&#34;băng-tần-6-ghz-wifi-6e&#34;&gt;Băng tần 6 GHz (WiFi 6E)
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Băng thông rộng hơn&lt;/li&gt;
 &lt;li&gt;Ít nhiễu hơn&lt;/li&gt;
 &lt;li&gt;Tốc độ cao hơn&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="các-chuẩn-bảo-mật-wifi"&gt;Các chuẩn bảo mật WiFi
-&lt;/h2&gt;&lt;h3 id="wep-wired-equivalent-privacy"&gt;WEP (Wired Equivalent Privacy)
+&lt;h2 id=&#34;các-chuẩn-bảo-mật-wifi&#34;&gt;Các chuẩn bảo mật WiFi
+&lt;/h2&gt;&lt;h3 id=&#34;wep-wired-equivalent-privacy&#34;&gt;WEP (Wired Equivalent Privacy)
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Khởi đầu của bảo mật WiFi&lt;/li&gt;
 &lt;li&gt;Mức bảo mật thấp, dễ bị crack&lt;/li&gt;
 &lt;li&gt;Không nên sử dụng nữa&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="wpa-wifi-protected-access"&gt;WPA (WiFi Protected Access)
+&lt;h3 id=&#34;wpa-wifi-protected-access&#34;&gt;WPA (WiFi Protected Access)
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Cải tiến từ WEP&lt;/li&gt;
 &lt;li&gt;Sử dụng TKIP&lt;/li&gt;
 &lt;li&gt;Mức bảo mật tốt hơn WEP&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="wpa2-wifi-protected-access-2"&gt;WPA2 (WiFi Protected Access 2)
+&lt;h3 id=&#34;wpa2-wifi-protected-access-2&#34;&gt;WPA2 (WiFi Protected Access 2)
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Chuẩn phổ biến hiện nay&lt;/li&gt;
 &lt;li&gt;Sử dụng AES encryption&lt;/li&gt;
 &lt;li&gt;Mức bảo mật cao&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="wpa3-wifi-protected-access-3"&gt;WPA3 (WiFi Protected Access 3)
+&lt;h3 id=&#34;wpa3-wifi-protected-access-3&#34;&gt;WPA3 (WiFi Protected Access 3)
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Chuẩn mới nhất (2018)&lt;/li&gt;
 &lt;li&gt;Mã hóa mạnh hơn&lt;/li&gt;
 &lt;li&gt;Bảo vệ tốt hơn khỏi brute-force attacks&lt;/li&gt;
 &lt;li&gt;Tự động mã hóa dữ liệu cá nhân&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="các-thành-phần-của-hệ-thống-wifi"&gt;Các thành phần của hệ thống WiFi
-&lt;/h2&gt;&lt;h3 id="1-access-point-điểm-truy-cập"&gt;1. Access Point (Điểm truy cập)
+&lt;h2 id=&#34;các-thành-phần-của-hệ-thống-wifi&#34;&gt;Các thành phần của hệ thống WiFi
+&lt;/h2&gt;&lt;h3 id=&#34;1-access-point-điểm-truy-cập&#34;&gt;1. Access Point (Điểm truy cập)
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Thiết bị phát sóng WiFi&lt;/li&gt;
 &lt;li&gt;Kết nối với mạng có dây&lt;/li&gt;
 &lt;li&gt;Hỗ trợ nhiều thiết bị đồng thời&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="2-router-bộ-định-tuyến"&gt;2. Router (Bộ định tuyến)
+&lt;h3 id=&#34;2-router-bộ-định-tuyến&#34;&gt;2. Router (Bộ định tuyến)
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Kết nối internet&lt;/li&gt;
 &lt;li&gt;Phân phát địa chỉ IP&lt;/li&gt;
 &lt;li&gt;Tích hợp Access Point&lt;/li&gt;
 &lt;li&gt;Tường lửa cơ bản&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="3-wireless-adapter-bộ-thu-phát-wifi"&gt;3. Wireless Adapter (Bộ thu phát WiFi)
+&lt;h3 id=&#34;3-wireless-adapter-bộ-thu-phát-wifi&#34;&gt;3. Wireless Adapter (Bộ thu phát WiFi)
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Card WiFi trong laptop, điện thoại&lt;/li&gt;
 &lt;li&gt;Thu và phát sóng WiFi&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="4-repeaterextender"&gt;4. Repeater/Extender
+&lt;h3 id=&#34;4-repeaterextender&#34;&gt;4. Repeater/Extender
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Mở rộng vùng phủ sóng&lt;/li&gt;
 &lt;li&gt;Nhận và phát lại tín hiệu&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="tốc-độ-wifi"&gt;Tốc độ WiFi
-&lt;/h2&gt;&lt;h3 id="tốc-độ-lý-thuyết-vs-thực-tế"&gt;Tốc độ lý thuyết vs thực tế
+&lt;h2 id=&#34;tốc-độ-wifi&#34;&gt;Tốc độ WiFi
+&lt;/h2&gt;&lt;h3 id=&#34;tốc-độ-lý-thuyết-vs-thực-tế&#34;&gt;Tốc độ lý thuyết vs thực tế
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Tốc độ lý thuyết&lt;/strong&gt;: Tốc độ tối đa trên lý thuyết&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tốc độ thực tế&lt;/strong&gt;: Thường bằng 50-70% tốc độ lý thuyết&lt;/li&gt;
@@ -549,7 +614,7 @@ data-flex-basis="438px"
 &lt;li&gt;WiFi 802.11ac: Lý thuyết 1.3 Gbps, thực tế 200-400 Mbps&lt;/li&gt;
 &lt;li&gt;WiFi 802.11ax: Lý thuyết 1.2-10 Gbps, thực tế 500-900 Mbps&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="các-yếu-tố-ảnh-hưởng-tốc-độ"&gt;Các yếu tố ảnh hưởng tốc độ
+&lt;h3 id=&#34;các-yếu-tố-ảnh-hưởng-tốc-độ&#34;&gt;Các yếu tố ảnh hưởng tốc độ
 &lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Khoảng cách từ Router&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Vật cản&lt;/strong&gt; (tường, cửa&amp;hellip;)&lt;/li&gt;
@@ -557,8 +622,8 @@ data-flex-basis="438px"
 &lt;li&gt;&lt;strong&gt;Số lượng thiết bị kết nối&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tiêu chuẩn WiFi được hỗ trợ&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id="ưu-và-nhược-điểm-của-wifi"&gt;Ưu và nhược điểm của WiFi
-&lt;/h2&gt;&lt;h3 id="ưu-điểm"&gt;Ưu điểm
+&lt;h2 id=&#34;ưu-và-nhược-điểm-của-wifi&#34;&gt;Ưu và nhược điểm của WiFi
+&lt;/h2&gt;&lt;h3 id=&#34;ưu-điểm&#34;&gt;Ưu điểm
 &lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Tiện lợi&lt;/strong&gt;: Không cần dây cáp&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Linh hoạt&lt;/strong&gt;: Dễ di chuyển thiết bị&lt;/li&gt;
@@ -566,7 +631,7 @@ data-flex-basis="438px"
 &lt;li&gt;&lt;strong&gt;Hỗ trợ nhiều thiết bị&lt;/strong&gt;: Kết nối nhiều thiết bị cùng lúc&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Hiện đại&lt;/strong&gt;: Luôn được cập nhật công nghệ mới&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="nhược-điểm"&gt;Nhược điểm
+&lt;h3 id=&#34;nhược-điểm&#34;&gt;Nhược điểm
 &lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Bảo mật&lt;/strong&gt;: Dễ bị tấn công nếu không bảo mật tốt&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tốc độ&lt;/strong&gt;: Chậm hơn mạng có dây&lt;/li&gt;
@@ -574,76 +639,76 @@ data-flex-basis="438px"
 &lt;li&gt;&lt;strong&gt;Khoảng cách&lt;/strong&gt;: Phạm vi phủ sóng có giới hạn&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tính tương thích&lt;/strong&gt;: Một số thiết bị cũ không hỗ trợ&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id="ứng-dụng-của-wifi"&gt;Ứng dụng của WiFi
-&lt;/h2&gt;&lt;h3 id="1-mạng-gia-đình"&gt;1. Mạng gia đình
+&lt;h2 id=&#34;ứng-dụng-của-wifi&#34;&gt;Ứng dụng của WiFi
+&lt;/h2&gt;&lt;h3 id=&#34;1-mạng-gia-đình&#34;&gt;1. Mạng gia đình
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Kết nối internet cho mọi thiết bị&lt;/li&gt;
 &lt;li&gt;Chia sẻ file, máy in&lt;/li&gt;
 &lt;li&gt;Smart home devices&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="2-mạng-doanh-nghiệp"&gt;2. Mạng doanh nghiệp
+&lt;h3 id=&#34;2-mạng-doanh-nghiệp&#34;&gt;2. Mạng doanh nghiệp
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Mạng văn phòng&lt;/li&gt;
 &lt;li&gt;Hội nghị trực tuyến&lt;/li&gt;
 &lt;li&gt;Backup dữ liệu&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="3-không-gian-công-cộng"&gt;3. Không gian công cộng
+&lt;h3 id=&#34;3-không-gian-công-cộng&#34;&gt;3. Không gian công cộng
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;WiFi công cộng&lt;/li&gt;
 &lt;li&gt;Sân bay, nhà ga&lt;/li&gt;
 &lt;li&gt;Quán cafe, khách sạn&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="4-iot-và-smart-devices"&gt;4. IoT và Smart Devices
+&lt;h3 id=&#34;4-iot-và-smart-devices&#34;&gt;4. IoT và Smart Devices
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Camera an ninh&lt;/li&gt;
 &lt;li&gt;Điều khiển thiết bị thông minh&lt;/li&gt;
 &lt;li&gt;Sensor networks&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="cách-cải-thiện-hiệu-suất-wifi"&gt;Cách cải thiện hiệu suất WiFi
-&lt;/h2&gt;&lt;h3 id="1-vị-trí-đặt-router"&gt;1. Vị trí đặt Router
+&lt;h2 id=&#34;cách-cải-thiện-hiệu-suất-wifi&#34;&gt;Cách cải thiện hiệu suất WiFi
+&lt;/h2&gt;&lt;h3 id=&#34;1-vị-trí-đặt-router&#34;&gt;1. Vị trí đặt Router
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Đặt ở vị trí trung tâm&lt;/li&gt;
 &lt;li&gt;Cao hơn mặt đất&lt;/li&gt;
 &lt;li&gt;Tránh vật cản kim loại&lt;/li&gt;
 &lt;li&gt;Tránh xa lò vi sóng, Bluetooth&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="2-chọn-kênh-phù-hợp"&gt;2. Chọn kênh phù hợp
+&lt;h3 id=&#34;2-chọn-kênh-phù-hợp&#34;&gt;2. Chọn kênh phù hợp
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Sử dụng công cụ phân tích WiFi&lt;/li&gt;
 &lt;li&gt;Chọn kênh ít bị nhiễu&lt;/li&gt;
 &lt;li&gt;Kênh 2.4GHz: 1, 6, 11&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="3-cập-nhật-firmware"&gt;3. Cập nhật firmware
+&lt;h3 id=&#34;3-cập-nhật-firmware&#34;&gt;3. Cập nhật firmware
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Luôn cập nhật firmware mới nhất&lt;/li&gt;
 &lt;li&gt;Sửa lỗi bảo mật&lt;/li&gt;
 &lt;li&gt;Cải thiện hiệu suất&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="4-sử-dụng-wifi-extender"&gt;4. Sử dụng WiFi Extender
+&lt;h3 id=&#34;4-sử-dụng-wifi-extender&#34;&gt;4. Sử dụng WiFi Extender
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Mở rộng vùng phủ sóng&lt;/li&gt;
 &lt;li&gt;Mạng mesh WiFi&lt;/li&gt;
 &lt;li&gt;Tăng số điểm truy cập&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="5-nâng-cấp-thiết-bị"&gt;5. Nâng cấp thiết bị
+&lt;h3 id=&#34;5-nâng-cấp-thiết-bị&#34;&gt;5. Nâng cấp thiết bị
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Router WiFi 6&lt;/li&gt;
 &lt;li&gt;Antenna tốt hơn&lt;/li&gt;
 &lt;li&gt;Thẻ WiFi mới hơn&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="các-câu-hỏi-thường-gặp"&gt;Các câu hỏi thường gặp
-&lt;/h2&gt;&lt;h3 id="1-wifi-và-mạng-internet-khác-nhau-như-thế-nào"&gt;1. WiFi và mạng internet khác nhau như thế nào?
+&lt;h2 id=&#34;các-câu-hỏi-thường-gặp&#34;&gt;Các câu hỏi thường gặp
+&lt;/h2&gt;&lt;h3 id=&#34;1-wifi-và-mạng-internet-khác-nhau-như-thế-nào&#34;&gt;1. WiFi và mạng internet khác nhau như thế nào?
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Internet&lt;/strong&gt;: Mạng toàn cầu kết nối các mạng máy tính&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;WiFi&lt;/strong&gt;: Công nghệ kết nối không dây, cho phép truy cập internet&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="2-wifi-có-hại-cho-sức-khỏe-không"&gt;2. WiFi có hại cho sức khỏe không?
+&lt;h3 id=&#34;2-wifi-có-hại-cho-sức-khỏe-không&#34;&gt;2. WiFi có hại cho sức khỏe không?
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Mức phát xạ của WiFi rất thấp&lt;/li&gt;
 &lt;li&gt;Thấp hơn nhiều so với tiêu chuẩn an toàn&lt;/li&gt;
 &lt;li&gt;Chưa có bằng chứng khoa học về tác hại&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="3-tại-sao-wifi-chậm"&gt;3. Tại sao WiFi chậm?
+&lt;h3 id=&#34;3-tại-sao-wifi-chậm&#34;&gt;3. Tại sao WiFi chậm?
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Quá nhiều thiết bị kết nối&lt;/li&gt;
 &lt;li&gt;Khoảng cách xa Router&lt;/li&gt;
@@ -651,7 +716,7 @@ data-flex-basis="438px"
 &lt;li&gt;Can nhiễu từ thiết bị khác&lt;/li&gt;
 &lt;li&gt;Router cũ, không hỗ trợ chuẩn mới&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="4-nên-dùng-wifi-24ghz-hay-5ghz"&gt;4. Nên dùng WiFi 2.4GHz hay 5GHz?
+&lt;h3 id=&#34;4-nên-dùng-wifi-24ghz-hay-5ghz&#34;&gt;4. Nên dùng WiFi 2.4GHz hay 5GHz?
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;2.4GHz khi:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Khoảng cách xa Router&lt;/li&gt;
@@ -664,7 +729,7 @@ data-flex-basis="438px"
 &lt;li&gt;Ít thiết bị can nhiễu&lt;/li&gt;
 &lt;li&gt;Video streaming, gaming&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="5-wifi-có-thể-truyền-được-bao-xa"&gt;5. WiFi có thể truyền được bao xa?
+&lt;h3 id=&#34;5-wifi-có-thể-truyền-được-bao-xa&#34;&gt;5. WiFi có thể truyền được bao xa?
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Trong nhà&lt;/strong&gt;: 20-50 mét&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Ngoài trời&lt;/strong&gt;: 100-200 mét&lt;/li&gt;
@@ -677,22 +742,22 @@ data-flex-basis="438px"
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="công-nghệ-wifi-tương-lai"&gt;Công nghệ WiFi tương lai
-&lt;/h2&gt;&lt;h3 id="wifi-7-ieee-80211be"&gt;WiFi 7 (IEEE 802.11be)
+&lt;h2 id=&#34;công-nghệ-wifi-tương-lai&#34;&gt;Công nghệ WiFi tương lai
+&lt;/h2&gt;&lt;h3 id=&#34;wifi-7-ieee-80211be&#34;&gt;WiFi 7 (IEEE 802.11be)
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Tốc độ lên đến 46 Gbps&lt;/li&gt;
 &lt;li&gt;Hỗ trợ băng tần mới&lt;/li&gt;
 &lt;li&gt;Latency thấp hơn&lt;/li&gt;
 &lt;li&gt;Dự kiến 2024-2025&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="wifi-sensing"&gt;WiFi Sensing
+&lt;h3 id=&#34;wifi-sensing&#34;&gt;WiFi Sensing
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Sử dụng WiFi để cảm biến&lt;/li&gt;
 &lt;li&gt;Phát hiện chuyển động&lt;/li&gt;
 &lt;li&gt;Quản lý năng lượng&lt;/li&gt;
 &lt;li&gt;IoT applications&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="tổng-kết"&gt;Tổng kết
+&lt;h2 id=&#34;tổng-kết&#34;&gt;Tổng kết
 &lt;/h2&gt;&lt;p&gt;WiFi đã trở thành công nghệ không thể thiếu trong cuộc sống hiện đại. Hiểu rõ nguyên lý hoạt động, các chuẩn WiFi và cách tối ưu hiệu suất sẽ giúp bạn:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Tận dụng tối đa tốc độ WiFi&lt;/li&gt;
@@ -708,4 +773,9 @@ data-flex-basis="438px"
 &lt;li&gt;WiFi Alliance&lt;/li&gt;
 &lt;li&gt;Wi-Fi Protected Access (WPA) documentation&lt;/li&gt;
 &lt;li&gt;FCC regulations for WiFi&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

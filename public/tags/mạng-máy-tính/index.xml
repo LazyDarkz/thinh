@@ -1,51 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mạng Máy Tính on Trần Phước Thịnh</title><link>https://lazydarkz.github.io/thinh/tags/m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh/</link><description>Recent content in Mạng Máy Tính on Trần Phước Thịnh</description><generator>Hugo -- gohugo.io</generator><language>vi</language><lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lazydarkz.github.io/thinh/tags/m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh/index.xml" rel="self" type="application/rss+xml"/><item><title>Mạng là gì? Tổng quan về các loại mạng máy tính</title><link>https://lazydarkz.github.io/thinh/post/mang-la-gi/</link><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><guid>https://lazydarkz.github.io/thinh/post/mang-la-gi/</guid><description>&lt;h2 id="mạng-là-gì"&gt;Mạng là gì?
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Mạng Máy Tính on Trần Phước Thịnh</title>
+        <link>//localhost:1313/tags/m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh/</link>
+        <description>Recent content in Mạng Máy Tính on Trần Phước Thịnh</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>vi</language>
+        <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Mạng là gì? Tổng quan về các loại mạng máy tính</title>
+        <link>//localhost:1313/post/mang-la-gi/</link>
+        <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/post/mang-la-gi/</guid>
+        <description>&lt;h2 id=&#34;mạng-là-gì&#34;&gt;Mạng là gì?
 &lt;/h2&gt;&lt;p&gt;Với mục đích phân tích và nghiên cứu quá trình giao tiếp, Mạng máy tính đã được tạo ra như một bước tiến mới trong lịch sử. Bởi nó liên kết toàn bộ các hệ thống máy tính khác nhau để trao đổi thông tin cần thiết.&lt;/p&gt;
 &lt;p&gt;Do đó, việc kết nối mạng chỉ thực hiện được khi có mạng riêng của nó. Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN. Người dùng cần chú ý cơ chế hoạt động của các mạng để lựa chọn phát triển chương trình mạng được tốt nhất.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://lazydarkz.github.io/thinh/post/mang-la-gi/images/mang.webp"
-width="280"
-height="180"
-srcset="https://lazydarkz.github.io/thinh/post/mang-la-gi/images/mang_hu_2dbd6845fa95deca.webp 480w, https://lazydarkz.github.io/thinh/post/mang-la-gi/images/mang_hu_db82812e16119649.webp 1024w"
-loading="lazy"
-alt="Minh Hoạ Mạng"
-class="gallery-image"
-data-flex-grow="155"
-data-flex-basis="373px"
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/mang-la-gi/images/mang.webp&#34;
+	width=&#34;280&#34;
+	height=&#34;180&#34;
+	srcset=&#34;//localhost:1313/post/mang-la-gi/images/mang_hu_2dbd6845fa95deca.webp 480w, //localhost:1313/post/mang-la-gi/images/mang_hu_db82812e16119649.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Minh Hoạ Mạng&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;155&#34;
+		data-flex-basis=&#34;373px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;h2 id="có-4-loại-mạng-cơ-bản-là-lan-man-wan-và-pan"&gt;Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN
-&lt;/h2&gt;&lt;h3 id="mạng-lan-local-area-network"&gt;Mạng LAN (Local Area Network)
+&lt;h2 id=&#34;có-4-loại-mạng-cơ-bản-là-lan-man-wan-và-pan&#34;&gt;Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN
+&lt;/h2&gt;&lt;h3 id=&#34;mạng-lan-local-area-network&#34;&gt;Mạng LAN (Local Area Network)
 &lt;/h3&gt;&lt;p&gt;Mạng LAN là mạng cục bộ nên có đường truyền ngắn. Với giao thức TCP/IP, mạng LAN chủ yếu được sử dụng tại nơi diện tích nhỏ như: văn phòng, tòa nhà, trường học.&lt;/p&gt;
 &lt;p&gt;Tất cả máy tính kết nối mạng LAN đều được sử dụng để kết nối vào máy chủ sau đó chờ quyền truy cập để thực hiện lệnh in trên máy in.&lt;/p&gt;
-&lt;h3 id="mạng-man-metropolitan-area-network"&gt;Mạng MAN (Metropolitan Area Network)
+&lt;h3 id=&#34;mạng-man-metropolitan-area-network&#34;&gt;Mạng MAN (Metropolitan Area Network)
 &lt;/h3&gt;&lt;p&gt;Khác với mạng LAN, mạng đô thị MAN có phạm vị kết nối rộng hơn, hình thành nhờ sự kết nối nhiều mạng LAN với nhau.&lt;/p&gt;
 &lt;p&gt;Đây là mô hình rộng cung cấp dịch vụ giá trị gia tăng; trên một đường truyền tốc độ nhanh để kết nối và mở rộng triển khai các doanh nghiệp với nhau.&lt;/p&gt;
-&lt;h3 id="mạng-wan-wide-area-network"&gt;Mạng WAN (Wide Area Network)
+&lt;h3 id=&#34;mạng-wan-wide-area-network&#34;&gt;Mạng WAN (Wide Area Network)
 &lt;/h3&gt;&lt;p&gt;Mạng diện rộng WAN là sự kết hợp giữa mạng LAN và mạng MAN với việc sử dụng đường dây cáp quang hay thuê bao hoặc thông qua đường truyền vệ tinh.&lt;/p&gt;
 &lt;p&gt;Phạm vi hoạt động của mạng rộng lớn hơn, bao gồm cả một quốc gia, khu vực địa lý hay thậm chí ở toàn cầu.&lt;/p&gt;
-&lt;h3 id="mạng-pan-personal-area-network"&gt;Mạng PAN (Personal Area Network)
+&lt;h3 id=&#34;mạng-pan-personal-area-network&#34;&gt;Mạng PAN (Personal Area Network)
 &lt;/h3&gt;&lt;p&gt;Mạng PAN có khả năng phát tín hiệu kết nối trong một diện tích nhỏ để truyền dữ liệu thông qua mạng trực tuyến.&lt;/p&gt;
 &lt;p&gt;Cá nhân có thể sử dụng mạng PAN giữa các thiết bị với nhau như di động, máy tính để liên lạc thuận tiện hơn hoặc kết nối với các mạng cao cấp hơn.&lt;/p&gt;
-&lt;h2 id="tổng-kết"&gt;Tổng kết
-&lt;/h2&gt;&lt;p&gt;Mạng máy tính đóng vai trò quan trọng trong việc kết nối và trao đổi thông tin giữa các thiết bị. Việc hiểu rõ các loại mạng cơ bản (LAN, MAN, WAN, PAN) sẽ giúp bạn lựa chọn và triển khai giải pháp mạng phù hợp nhất cho nhu cầu của mình.&lt;/p&gt;</description></item><item><title>Giao thức mạng là gì? 14 giao thức mạng phổ biến đang sử dụng hiện nay</title><link>https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/</link><pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate><guid>https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/</guid><description>&lt;h2 id="giao-thức-mạng-là-gì"&gt;Giao thức mạng là gì?
+&lt;h2 id=&#34;tổng-kết&#34;&gt;Tổng kết
+&lt;/h2&gt;&lt;p&gt;Mạng máy tính đóng vai trò quan trọng trong việc kết nối và trao đổi thông tin giữa các thiết bị. Việc hiểu rõ các loại mạng cơ bản (LAN, MAN, WAN, PAN) sẽ giúp bạn lựa chọn và triển khai giải pháp mạng phù hợp nhất cho nhu cầu của mình.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Giao thức mạng là gì? 14 giao thức mạng phổ biến đang sử dụng hiện nay</title>
+        <link>//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/</link>
+        <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/</guid>
+        <description>&lt;h2 id=&#34;giao-thức-mạng-là-gì&#34;&gt;Giao thức mạng là gì?
 &lt;/h2&gt;&lt;p&gt;Giao thức mạng (Network Protocol) là một tập hợp các quy tắc và chuẩn được sử dụng để quy định cách thức trao đổi dữ liệu giữa các thiết bị trên mạng máy tính. Giao thức mạng đóng vai trò như một &amp;ldquo;ngôn ngữ chung&amp;rdquo; giúp các thiết bị có thể giao tiếp và hiểu được nhau.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt.webp"
-width="1000"
-height="332"
-srcset="https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt_hu_1839f74e3d7874b8.webp 480w, https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt_hu_bce2e42c58e3edca.webp 1024w"
-loading="lazy"
-alt="Ảnh Demo"
-class="gallery-image"
-data-flex-grow="301"
-data-flex-basis="722px"
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt.webp&#34;
+	width=&#34;1000&#34;
+	height=&#34;332&#34;
+	srcset=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt_hu_1839f74e3d7874b8.webp 480w, //localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/kngt_hu_bce2e42c58e3edca.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Ảnh Demo&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;301&#34;
+		data-flex-basis=&#34;722px&#34;
+	
 &gt;&lt;/p&gt;
-&lt;h3 id="đặc-điểm-của-giao-thức-mạng"&gt;Đặc điểm của giao thức mạng
+&lt;h3 id=&#34;đặc-điểm-của-giao-thức-mạng&#34;&gt;Đặc điểm của giao thức mạng
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Tính chuẩn hóa&lt;/strong&gt;: Được định nghĩa bởi các tổ chức như IEEE, IETF&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tính độc lập&lt;/strong&gt;: Hoạt động độc lập với phần cứng và phần mềm cụ thể&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tính phân lớp&lt;/strong&gt;: Các giao thức được tổ chức thành các tầng (layers)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tính mở rộng&lt;/strong&gt;: Có thể mở rộng và cải tiến theo thời gian&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="14-giao-thức-mạng-phổ-biến-đang-được-sử-dụng"&gt;14 giao thức mạng phổ biến đang được sử dụng
-&lt;/h2&gt;&lt;h3 id="1-tcpip-transmission-control-protocolinternet-protocol"&gt;1. &lt;strong&gt;TCP/IP (Transmission Control Protocol/Internet Protocol)&lt;/strong&gt;
+&lt;h2 id=&#34;14-giao-thức-mạng-phổ-biến-đang-được-sử-dụng&#34;&gt;14 giao thức mạng phổ biến đang được sử dụng
+&lt;/h2&gt;&lt;h3 id=&#34;1-tcpip-transmission-control-protocolinternet-protocol&#34;&gt;1. &lt;strong&gt;TCP/IP (Transmission Control Protocol/Internet Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;TCP/IP là bộ giao thức cơ bản nhất của internet, bao gồm hai thành phần:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;IP (Internet Protocol)&lt;/strong&gt;: Định địa chỉ và định tuyến dữ liệu&lt;/li&gt;
@@ -58,17 +89,21 @@ data-flex-basis="722px"
 &lt;li&gt;Đảm bảo thứ tự gói tin&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Tất cả các ứng dụng internet hiện đại&lt;/p&gt;
-&lt;h3 id="2-httphttps-hypertext-transfer-protocol"&gt;2. &lt;strong&gt;HTTP/HTTPS (HyperText Transfer Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;2-httphttps-hypertext-transfer-protocol&#34;&gt;2. &lt;strong&gt;HTTP/HTTPS (HyperText Transfer Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;HTTP là giao thức truyền tải siêu văn bản, được sử dụng để tải trang web.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/https.webp"
-width="1000"
-height="840"
-srcset="https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/https_hu_93f2763879a76f02.webp 480w, https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/https_hu_99b04dcc7a3b3980.webp 1024w"
-loading="lazy"
-alt="HTTPS"
-class="gallery-image"
-data-flex-grow="119"
-data-flex-basis="285px"
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/https.webp&#34;
+	width=&#34;1000&#34;
+	height=&#34;840&#34;
+	srcset=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/https_hu_93f2763879a76f02.webp 480w, //localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/https_hu_99b04dcc7a3b3980.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;HTTPS&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;119&#34;
+		data-flex-basis=&#34;285px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;HTTP:&lt;/p&gt;
 &lt;ul&gt;
@@ -83,17 +118,21 @@ data-flex-basis="285px"
 &lt;li&gt;Bảo mật cao hơn&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Duyệt web, API REST&lt;/p&gt;
-&lt;h3 id="3-dns-domain-name-system"&gt;3. &lt;strong&gt;DNS (Domain Name System)&lt;/strong&gt;
+&lt;h3 id=&#34;3-dns-domain-name-system&#34;&gt;3. &lt;strong&gt;DNS (Domain Name System)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;DNS là hệ thống phân giải tên miền thành địa chỉ IP.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/DNS.webp"
-width="1000"
-height="605"
-srcset="https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/DNS_hu_963560dc9d56b39f.webp 480w, https://lazydarkz.github.io/thinh/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/DNS_hu_8a198d3e6ca161cc.webp 1024w"
-loading="lazy"
-alt="DNS"
-class="gallery-image"
-data-flex-grow="165"
-data-flex-basis="396px"
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/DNS.webp&#34;
+	width=&#34;1000&#34;
+	height=&#34;605&#34;
+	srcset=&#34;//localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/DNS_hu_963560dc9d56b39f.webp 480w, //localhost:1313/post/giao-thuc-mang-la-gi-14-giao-thuc-pho-bien/images/DNS_hu_8a198d3e6ca161cc.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;DNS&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;165&#34;
+		data-flex-basis=&#34;396px&#34;
+	
 &gt;&lt;/p&gt;
 &lt;p&gt;Chức năng:&lt;/p&gt;
 &lt;ul&gt;
@@ -102,7 +141,7 @@ data-flex-basis="396px"
 &lt;li&gt;Hỗ trợ cân bằng tải&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Tất cả các hoạt động internet&lt;/p&gt;
-&lt;h3 id="4-ftp-file-transfer-protocol"&gt;4. &lt;strong&gt;FTP (File Transfer Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;4-ftp-file-transfer-protocol&#34;&gt;4. &lt;strong&gt;FTP (File Transfer Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;FTP dùng để truyền tệp tin giữa máy chủ và máy khách.&lt;/p&gt;
 &lt;p&gt;Đặc điểm:&lt;/p&gt;
 &lt;ul&gt;
@@ -111,7 +150,7 @@ data-flex-basis="396px"
 &lt;li&gt;Có chế độ passive và active&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Upload website, chia sẻ file lớn&lt;/p&gt;
-&lt;h3 id="5-smtp-simple-mail-transfer-protocol"&gt;5. &lt;strong&gt;SMTP (Simple Mail Transfer Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;5-smtp-simple-mail-transfer-protocol&#34;&gt;5. &lt;strong&gt;SMTP (Simple Mail Transfer Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;SMTP dùng để gửi email qua internet.&lt;/p&gt;
 &lt;p&gt;Đặc điểm:&lt;/p&gt;
 &lt;ul&gt;
@@ -120,7 +159,7 @@ data-flex-basis="396px"
 &lt;li&gt;Không hỗ trợ nhận email&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Gửi email&lt;/p&gt;
-&lt;h3 id="6-pop3-post-office-protocol-version-3"&gt;6. &lt;strong&gt;POP3 (Post Office Protocol version 3)&lt;/strong&gt;
+&lt;h3 id=&#34;6-pop3-post-office-protocol-version-3&#34;&gt;6. &lt;strong&gt;POP3 (Post Office Protocol version 3)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;POP3 dùng để nhận email từ máy chủ mail.&lt;/p&gt;
 &lt;p&gt;Đặc điểm:&lt;/p&gt;
 &lt;ul&gt;
@@ -129,7 +168,7 @@ data-flex-basis="396px"
 &lt;li&gt;Xóa email trên server (tùy chọn)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Thu thập email từ máy chủ&lt;/p&gt;
-&lt;h3 id="7-imap-internet-message-access-protocol"&gt;7. &lt;strong&gt;IMAP (Internet Message Access Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;7-imap-internet-message-access-protocol&#34;&gt;7. &lt;strong&gt;IMAP (Internet Message Access Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;IMAP cho phép truy cập email trực tiếp từ máy chủ.&lt;/p&gt;
 &lt;p&gt;Đặc điểm:&lt;/p&gt;
 &lt;ul&gt;
@@ -138,7 +177,7 @@ data-flex-basis="396px"
 &lt;li&gt;Giữ email trên server&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Email trên nhiều thiết bị&lt;/p&gt;
-&lt;h3 id="8-ssh-secure-shell"&gt;8. &lt;strong&gt;SSH (Secure Shell)&lt;/strong&gt;
+&lt;h3 id=&#34;8-ssh-secure-shell&#34;&gt;8. &lt;strong&gt;SSH (Secure Shell)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;SSH cung cấp kết nối bảo mật từ xa đến máy chủ.&lt;/p&gt;
 &lt;p&gt;Đặc điểm:&lt;/p&gt;
 &lt;ul&gt;
@@ -147,7 +186,7 @@ data-flex-basis="396px"
 &lt;li&gt;An toàn hơn Telnet&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Quản lý server từ xa, truyền file an toàn&lt;/p&gt;
-&lt;h3 id="9-tlsssl-transport-layer-securitysecure-sockets-layer"&gt;9. &lt;strong&gt;TLS/SSL (Transport Layer Security/Secure Sockets Layer)&lt;/strong&gt;
+&lt;h3 id=&#34;9-tlsssl-transport-layer-securitysecure-sockets-layer&#34;&gt;9. &lt;strong&gt;TLS/SSL (Transport Layer Security/Secure Sockets Layer)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;TLS/SSL cung cấp mã hóa cho giao tiếp mạng.&lt;/p&gt;
 &lt;p&gt;Chức năng:&lt;/p&gt;
 &lt;ul&gt;
@@ -156,7 +195,7 @@ data-flex-basis="396px"
 &lt;li&gt;Bảo vệ khỏi nghe trộm&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: HTTPS, VPN, email bảo mật&lt;/p&gt;
-&lt;h3 id="10-dhcp-dynamic-host-configuration-protocol"&gt;10. &lt;strong&gt;DHCP (Dynamic Host Configuration Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;10-dhcp-dynamic-host-configuration-protocol&#34;&gt;10. &lt;strong&gt;DHCP (Dynamic Host Configuration Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;DHCP tự động cấp phát địa chỉ IP cho các thiết bị trong mạng.&lt;/p&gt;
 &lt;p&gt;Chức năng:&lt;/p&gt;
 &lt;ul&gt;
@@ -165,7 +204,7 @@ data-flex-basis="396px"
 &lt;li&gt;Giảm lỗi cấu hình&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Router, switch, mạng LAN&lt;/p&gt;
-&lt;h3 id="11-snmp-simple-network-management-protocol"&gt;11. &lt;strong&gt;SNMP (Simple Network Management Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;11-snmp-simple-network-management-protocol&#34;&gt;11. &lt;strong&gt;SNMP (Simple Network Management Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;SNMP quản lý và giám sát thiết bị mạng.&lt;/p&gt;
 &lt;p&gt;Chức năng:&lt;/p&gt;
 &lt;ul&gt;
@@ -174,7 +213,7 @@ data-flex-basis="396px"
 &lt;li&gt;Cảnh báo sự cố&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Quản lý mạng, giám sát thiết bị&lt;/p&gt;
-&lt;h3 id="12-udp-user-datagram-protocol"&gt;12. &lt;strong&gt;UDP (User Datagram Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;12-udp-user-datagram-protocol&#34;&gt;12. &lt;strong&gt;UDP (User Datagram Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;UDP là giao thức không kết nối, nhanh hơn TCP nhưng kém tin cậy hơn.&lt;/p&gt;
 &lt;p&gt;Đặc điểm:&lt;/p&gt;
 &lt;ul&gt;
@@ -183,7 +222,7 @@ data-flex-basis="396px"
 &lt;li&gt;Không đảm bảo thứ tự&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Streaming video, VoIP, game online&lt;/p&gt;
-&lt;h3 id="13-icmp-internet-control-message-protocol"&gt;13. &lt;strong&gt;ICMP (Internet Control Message Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;13-icmp-internet-control-message-protocol&#34;&gt;13. &lt;strong&gt;ICMP (Internet Control Message Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;ICMP dùng để gửi thông báo lỗi và kiểm tra kết nối.&lt;/p&gt;
 &lt;p&gt;Chức năng:&lt;/p&gt;
 &lt;ul&gt;
@@ -192,7 +231,7 @@ data-flex-basis="396px"
 &lt;li&gt;Điều chỉnh routing&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Ping, Traceroute, xử lý lỗi mạng&lt;/p&gt;
-&lt;h3 id="14-arp-address-resolution-protocol"&gt;14. &lt;strong&gt;ARP (Address Resolution Protocol)&lt;/strong&gt;
+&lt;h3 id=&#34;14-arp-address-resolution-protocol&#34;&gt;14. &lt;strong&gt;ARP (Address Resolution Protocol)&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;ARP chuyển đổi địa chỉ IP sang địa chỉ MAC.&lt;/p&gt;
 &lt;p&gt;Chức năng:&lt;/p&gt;
 &lt;ul&gt;
@@ -201,48 +240,48 @@ data-flex-basis="396px"
 &lt;li&gt;Giảm broadcast&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Ứng dụng&lt;/strong&gt;: Tất cả hoạt động trong mạng LAN&lt;/p&gt;
-&lt;h2 id="so-sánh-các-giao-thức-mạng"&gt;So sánh các giao thức mạng
-&lt;/h2&gt;&lt;h3 id="giao-thức-kết-nối-vs-không-kết-nối"&gt;Giao thức kết nối vs không kết nối
+&lt;h2 id=&#34;so-sánh-các-giao-thức-mạng&#34;&gt;So sánh các giao thức mạng
+&lt;/h2&gt;&lt;h3 id=&#34;giao-thức-kết-nối-vs-không-kết-nối&#34;&gt;Giao thức kết nối vs không kết nối
 &lt;/h3&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Giao thức&lt;/th&gt;
-&lt;th&gt;Loại&lt;/th&gt;
-&lt;th&gt;Ưu điểm&lt;/th&gt;
-&lt;th&gt;Nhược điểm&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;TCP&lt;/td&gt;
-&lt;td&gt;Kết nối&lt;/td&gt;
-&lt;td&gt;Đáng tin cậy, có kiểm tra lỗi&lt;/td&gt;
-&lt;td&gt;Chậm hơn, overhead cao&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;UDP&lt;/td&gt;
-&lt;td&gt;Không kết nối&lt;/td&gt;
-&lt;td&gt;Nhanh, nhẹ&lt;/td&gt;
-&lt;td&gt;Không đảm bảo delivery&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Giao thức&lt;/th&gt;
+          &lt;th&gt;Loại&lt;/th&gt;
+          &lt;th&gt;Ưu điểm&lt;/th&gt;
+          &lt;th&gt;Nhược điểm&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;TCP&lt;/td&gt;
+          &lt;td&gt;Kết nối&lt;/td&gt;
+          &lt;td&gt;Đáng tin cậy, có kiểm tra lỗi&lt;/td&gt;
+          &lt;td&gt;Chậm hơn, overhead cao&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;UDP&lt;/td&gt;
+          &lt;td&gt;Không kết nối&lt;/td&gt;
+          &lt;td&gt;Nhanh, nhẹ&lt;/td&gt;
+          &lt;td&gt;Không đảm bảo delivery&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h3 id="giao-thức-bảo-mật-vs-không-bảo-mật"&gt;Giao thức bảo mật vs không bảo mật
+&lt;h3 id=&#34;giao-thức-bảo-mật-vs-không-bảo-mật&#34;&gt;Giao thức bảo mật vs không bảo mật
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Bảo mật&lt;/strong&gt;: HTTPS, SSH, SFTP&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Không bảo mật&lt;/strong&gt;: HTTP, FTP, Telnet&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="tầm-quan-trọng-của-giao-thức-mạng"&gt;Tầm quan trọng của giao thức mạng
-&lt;/h2&gt;&lt;h3 id="1-tính-tương-thích"&gt;1. Tính tương thích
+&lt;h2 id=&#34;tầm-quan-trọng-của-giao-thức-mạng&#34;&gt;Tầm quan trọng của giao thức mạng
+&lt;/h2&gt;&lt;h3 id=&#34;1-tính-tương-thích&#34;&gt;1. Tính tương thích
 &lt;/h3&gt;&lt;p&gt;Giao thức mạng đảm bảo các thiết bị khác nhau có thể giao tiếp với nhau.&lt;/p&gt;
-&lt;h3 id="2-hiệu-quả-mạng"&gt;2. Hiệu quả mạng
+&lt;h3 id=&#34;2-hiệu-quả-mạng&#34;&gt;2. Hiệu quả mạng
 &lt;/h3&gt;&lt;p&gt;Mỗi giao thức được thiết kế cho mục đích cụ thể để tối ưu hiệu suất.&lt;/p&gt;
-&lt;h3 id="3-bảo-mật"&gt;3. Bảo mật
+&lt;h3 id=&#34;3-bảo-mật&#34;&gt;3. Bảo mật
 &lt;/h3&gt;&lt;p&gt;Các giao thức bảo mật như HTTPS, SSH bảo vệ dữ liệu khỏi bị đánh cắp.&lt;/p&gt;
-&lt;h3 id="4-chuẩn-hóa"&gt;4. Chuẩn hóa
+&lt;h3 id=&#34;4-chuẩn-hóa&#34;&gt;4. Chuẩn hóa
 &lt;/h3&gt;&lt;p&gt;Giao thức mạng tạo ra chuẩn chung giúp phát triển công nghệ dễ dàng hơn.&lt;/p&gt;
-&lt;h2 id="các-mô-hình-giao-thức-mạng"&gt;Các mô hình giao thức mạng
-&lt;/h2&gt;&lt;h3 id="1-osi-model-7-tầng"&gt;1. OSI Model (7 tầng)
+&lt;h2 id=&#34;các-mô-hình-giao-thức-mạng&#34;&gt;Các mô hình giao thức mạng
+&lt;/h2&gt;&lt;h3 id=&#34;1-osi-model-7-tầng&#34;&gt;1. OSI Model (7 tầng)
 &lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Physical Layer&lt;/li&gt;
 &lt;li&gt;Data Link Layer&lt;/li&gt;
@@ -252,52 +291,52 @@ data-flex-basis="396px"
 &lt;li&gt;Presentation Layer&lt;/li&gt;
 &lt;li&gt;Application Layer&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="2-tcpip-model-4-tầng"&gt;2. TCP/IP Model (4 tầng)
+&lt;h3 id=&#34;2-tcpip-model-4-tầng&#34;&gt;2. TCP/IP Model (4 tầng)
 &lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Network Interface Layer&lt;/li&gt;
 &lt;li&gt;Internet Layer&lt;/li&gt;
 &lt;li&gt;Transport Layer&lt;/li&gt;
 &lt;li&gt;Application Layer&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id="ứng-dụng-thực-tế"&gt;Ứng dụng thực tế
-&lt;/h2&gt;&lt;h3 id="giao-thức-cho-web-development"&gt;Giao thức cho Web Development
+&lt;h2 id=&#34;ứng-dụng-thực-tế&#34;&gt;Ứng dụng thực tế
+&lt;/h2&gt;&lt;h3 id=&#34;giao-thức-cho-web-development&#34;&gt;Giao thức cho Web Development
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;HTTP/HTTPS&lt;/strong&gt;: Duyệt web&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;WebSocket&lt;/strong&gt;: Real-time communication&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;REST API&lt;/strong&gt;: API design&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="giao-thức-cho-email"&gt;Giao thức cho Email
+&lt;h3 id=&#34;giao-thức-cho-email&#34;&gt;Giao thức cho Email
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;SMTP&lt;/strong&gt;: Gửi email&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;POP3/IMAP&lt;/strong&gt;: Nhận email&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SSL/TLS&lt;/strong&gt;: Mã hóa email&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="giao-thức-cho-quản-trị-mạng"&gt;Giao thức cho Quản trị mạng
+&lt;h3 id=&#34;giao-thức-cho-quản-trị-mạng&#34;&gt;Giao thức cho Quản trị mạng
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;SSH&lt;/strong&gt;: Remote administration&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SNMP&lt;/strong&gt;: Network monitoring&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;DHCP&lt;/strong&gt;: IP management&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="các-câu-hỏi-thường-gặp"&gt;Các câu hỏi thường gặp
-&lt;/h2&gt;&lt;h3 id="1-tại-sao-cần-nhiều-giao-thức"&gt;1. Tại sao cần nhiều giao thức?
+&lt;h2 id=&#34;các-câu-hỏi-thường-gặp&#34;&gt;Các câu hỏi thường gặp
+&lt;/h2&gt;&lt;h3 id=&#34;1-tại-sao-cần-nhiều-giao-thức&#34;&gt;1. Tại sao cần nhiều giao thức?
 &lt;/h3&gt;&lt;p&gt;Mỗi giao thức được thiết kế cho mục đích cụ thể:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;TCP cho dữ liệu đáng tin cậy&lt;/li&gt;
 &lt;li&gt;UDP cho tốc độ cao&lt;/li&gt;
 &lt;li&gt;HTTP cho web browsing&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="2-giao-thức-nào-quan-trọng-nhất"&gt;2. Giao thức nào quan trọng nhất?
+&lt;h3 id=&#34;2-giao-thức-nào-quan-trọng-nhất&#34;&gt;2. Giao thức nào quan trọng nhất?
 &lt;/h3&gt;&lt;p&gt;TCP/IP là nền tảng của internet, nhưng tất cả giao thức đều quan trọng trong hệ sinh thái mạng.&lt;/p&gt;
-&lt;h3 id="3-làm-sao-để-chọn-giao-thức-phù-hợp"&gt;3. Làm sao để chọn giao thức phù hợp?
+&lt;h3 id=&#34;3-làm-sao-để-chọn-giao-thức-phù-hợp&#34;&gt;3. Làm sao để chọn giao thức phù hợp?
 &lt;/h3&gt;&lt;p&gt;Phụ thuộc vào yêu cầu:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Cần đáng tin cậy → TCP&lt;/li&gt;
 &lt;li&gt;Cần tốc độ → UDP&lt;/li&gt;
 &lt;li&gt;Cần bảo mật → HTTPS, SSH&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="4-có-thể-tạo-giao-thức-riêng-không"&gt;4. Có thể tạo giao thức riêng không?
+&lt;h3 id=&#34;4-có-thể-tạo-giao-thức-riêng-không&#34;&gt;4. Có thể tạo giao thức riêng không?
 &lt;/h3&gt;&lt;p&gt;Có, nhưng cần tuân theo chuẩn và đảm bảo tương thích với hệ thống hiện có.&lt;/p&gt;
-&lt;h2 id="tổng-kết"&gt;Tổng kết
+&lt;h2 id=&#34;tổng-kết&#34;&gt;Tổng kết
 &lt;/h2&gt;&lt;p&gt;Giao thức mạng là nền tảng của mọi hoạt động truyền thông trên internet. Hiểu rõ 14 giao thức mạng phổ biến trên đây giúp bạn:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Nắm được cách hoạt động của mạng máy tính&lt;/li&gt;
@@ -313,4 +352,9 @@ data-flex-basis="396px"
 &lt;li&gt;RFC 793 - Transmission Control Protocol&lt;/li&gt;
 &lt;li&gt;IEEE 802 standards&lt;/li&gt;
 &lt;li&gt;W3C HTTP Specification&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
