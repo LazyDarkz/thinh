@@ -11,7 +11,7 @@ image: "/images/HUTECH.webp"
 
 ## Giới Thiệu
 
-![Avatar](/img/Thinhavt.jpg)
+![Avatar](/images/Thinhavt.jpg)
 
 Xin chào! Tôi là [Trần Phước Thịnh].
 
