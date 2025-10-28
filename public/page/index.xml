@@ -1,134 +1,92 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Pages on Trần Phước Thịnh</title>
-        <link>//localhost:1313/page/</link>
-        <description>Recent content in Pages on Trần Phước Thịnh</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>vi</language>
-        <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Về Tôi</title>
-        <link>//localhost:1313/page/about/</link>
-        <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-        
-        <guid>//localhost:1313/page/about/</guid>
-        <description>&lt;p&gt;&lt;img src=&#34;https://www.hutech.edu.vn/images/logo.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;HUTECH - Đại Học Công nghệ TP.HCM&#34;
-	
-	
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Trần Phước Thịnh</title><link>https://lazydarkz.github.io/thinh/page/</link><description>Recent content in Pages on Trần Phước Thịnh</description><generator>Hugo -- gohugo.io</generator><language>vi</language><lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lazydarkz.github.io/thinh/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Về Tôi</title><link>https://lazydarkz.github.io/thinh/page/about/</link><pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate><guid>https://lazydarkz.github.io/thinh/page/about/</guid><description>&lt;p&gt;&lt;img src="https://www.hutech.edu.vn/images/logo.png"
+loading="lazy"
+alt="HUTECH - Đại Học Công nghệ TP.HCM"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới Thiệu
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/Thinhavt.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Avatar&#34;
-	
-	
+&lt;h2 id="giới-thiệu"&gt;Giới Thiệu
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://lazydarkz.github.io/thinh/images/Thinhavt.jpg"
+loading="lazy"
+alt="Avatar"
 &gt;&lt;/p&gt;
 &lt;p&gt;Xin chào! Tôi là [Trần Phước Thịnh].&lt;/p&gt;
 &lt;p&gt;Ngày sinh: 15/06/2004&lt;/p&gt;
 &lt;p&gt;SĐT: (84+) 0569420644&lt;/p&gt;
 &lt;p&gt;Một sinh viên đam mê lập trình thiên về Back-end và phát triển phần mềm. Đang học tập tại ĐH Công nghệ HUTECH. Chuyên ngành Công nghệ phần mềm.&lt;/p&gt;
 &lt;p&gt;Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập của mình về Java và JavaScript.&lt;/p&gt;
-&lt;h2 id=&#34;kỹ-năng&#34;&gt;Kỹ Năng
+&lt;h2 id="kỹ-năng"&gt;Kỹ Năng
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Lập trình hướng đối tượng&lt;/li&gt;
 &lt;li&gt;Phát triển ứng dụng web&lt;/li&gt;
 &lt;li&gt;Lập trình mạng&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;chứng-chỉ-cisco-networking-academy-đã-đạt-được&#34;&gt;Chứng Chỉ Cisco Networking Academy đã đạt được
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;//localhost:1313/page/about/images/QRJE1.jpeg&#34;
-	width=&#34;1029&#34;
-	height=&#34;788&#34;
-	srcset=&#34;//localhost:1313/page/about/images/QRJE1_hu_7a4bee0f3c09f243.jpeg 480w, //localhost:1313/page/about/images/QRJE1_hu_fba3847e3283b441.jpeg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Chứng chỉ Cisco JE1&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;130&#34;
-		data-flex-basis=&#34;313px&#34;
-	
+&lt;h3 id="chứng-chỉ-cisco-networking-academy-đã-đạt-được"&gt;Chứng Chỉ Cisco Networking Academy đã đạt được
+&lt;/h3&gt;&lt;p&gt;&lt;img src="https://lazydarkz.github.io/thinh/page/about/images/QRJE1.jpeg"
+width="1029"
+height="788"
+srcset="https://lazydarkz.github.io/thinh/page/about/images/QRJE1_hu_7a4bee0f3c09f243.jpeg 480w, https://lazydarkz.github.io/thinh/page/about/images/QRJE1_hu_fba3847e3283b441.jpeg 1024w"
+loading="lazy"
+alt="Chứng chỉ Cisco JE1"
+class="gallery-image"
+data-flex-grow="130"
+data-flex-basis="313px"
 &gt;
-&lt;img src=&#34;//localhost:1313/page/about/images/QRJE2.jpeg&#34;
-	width=&#34;1030&#34;
-	height=&#34;788&#34;
-	srcset=&#34;//localhost:1313/page/about/images/QRJE2_hu_5d6612b2a8453a.jpeg 480w, //localhost:1313/page/about/images/QRJE2_hu_a426b64547675bf4.jpeg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Chứng chỉ Cisco JE2&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;130&#34;
-		data-flex-basis=&#34;313px&#34;
-	
+&lt;img src="https://lazydarkz.github.io/thinh/page/about/images/QRJE2.jpeg"
+width="1030"
+height="788"
+srcset="https://lazydarkz.github.io/thinh/page/about/images/QRJE2_hu_5d6612b2a8453a.jpeg 480w, https://lazydarkz.github.io/thinh/page/about/images/QRJE2_hu_a426b64547675bf4.jpeg 1024w"
+loading="lazy"
+alt="Chứng chỉ Cisco JE2"
+class="gallery-image"
+data-flex-grow="130"
+data-flex-basis="313px"
 &gt;
-&lt;img src=&#34;//localhost:1313/page/about/images/QRNB.jpeg&#34;
-	width=&#34;1030&#34;
-	height=&#34;787&#34;
-	srcset=&#34;//localhost:1313/page/about/images/QRNB_hu_cbb1f64fa1dc3454.jpeg 480w, //localhost:1313/page/about/images/QRNB_hu_89fcb23819a08b5f.jpeg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Chứng chỉ Cisco NB&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;130&#34;
-		data-flex-basis=&#34;314px&#34;
-	
+&lt;img src="https://lazydarkz.github.io/thinh/page/about/images/QRNB.jpeg"
+width="1030"
+height="787"
+srcset="https://lazydarkz.github.io/thinh/page/about/images/QRNB_hu_cbb1f64fa1dc3454.jpeg 480w, https://lazydarkz.github.io/thinh/page/about/images/QRNB_hu_89fcb23819a08b5f.jpeg 1024w"
+loading="lazy"
+alt="Chứng chỉ Cisco NB"
+class="gallery-image"
+data-flex-grow="130"
+data-flex-basis="314px"
 &gt;&lt;/p&gt;
-&lt;h3 id=&#34;ngôn-ngữ-lập-trình&#34;&gt;Ngôn Ngữ Lập Trình
+&lt;h3 id="ngôn-ngữ-lập-trình"&gt;Ngôn Ngữ Lập Trình
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Java&lt;/li&gt;
 &lt;li&gt;JavaScript&lt;/li&gt;
 &lt;li&gt;HTML/CSS&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;frameworks--công-nghệ&#34;&gt;Frameworks &amp;amp; Công Nghệ
+&lt;h3 id="frameworks--công-nghệ"&gt;Frameworks &amp;amp; Công Nghệ
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Spring Boot&lt;/li&gt;
 &lt;li&gt;React.js&lt;/li&gt;
 &lt;li&gt;Node.js&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;công-cụ-phát-triển&#34;&gt;Công Cụ Phát Triển
+&lt;h3 id="công-cụ-phát-triển"&gt;Công Cụ Phát Triển
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Git&lt;/li&gt;
 &lt;li&gt;VS Code&lt;/li&gt;
 &lt;li&gt;IntelliJ IDEA&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;dự-án&#34;&gt;Dự Án
+&lt;h2 id="dự-án"&gt;Dự Án
 &lt;/h2&gt;&lt;p&gt;Đây là blog cá nhân được phát triển như một phần của đồ án môn học, sử dụng:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Hugo Static Site Generator&lt;/li&gt;
 &lt;li&gt;Theme Stack&lt;/li&gt;
 &lt;li&gt;GitHub Pages&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;liên-hệ&#34;&gt;Liên Hệ
+&lt;h2 id="liên-hệ"&gt;Liên Hệ
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Email: &lt;a class=&#34;link&#34; href=&#34;mailto:phuocthinh123456789100@gmail.com&#34; &gt;phuocthinh123456789100@gmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;GitHub: &lt;a class=&#34;link&#34; href=&#34;https://github.com/LazyDarkz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/LazyDarkz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email: &lt;a class="link" href="mailto:phuocthinh123456789100@gmail.com" &gt;phuocthinh123456789100@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a class="link" href="https://github.com/LazyDarkz" target="_blank" rel="noopener"
+&gt;https://github.com/LazyDarkz&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;-mục-tiêu&#34;&gt;🌟 Mục tiêu
+&lt;h2 id="-mục-tiêu"&gt;🌟 Mục tiêu
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Trở thành lập trình viên có nhiều kinh nghiệm, có thể xây dựng các hệ thống web hiệu quả, bảo mật và dễ mở rộng. Mong muốn được làm việc trong môi trường sáng tạo, học hỏi và phát triển kỹ năng liên tục.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;--thông-điệp&#34;&gt;- Thông điệp
+&lt;h2 id="--thông-điệp"&gt;- Thông điệp
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&amp;ldquo;Học hỏi không ngừng, chứng kiến sự thay đổi của bản thân.&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;Tin tưởng vào vận may và gia đình.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;p&gt;&lt;a href="https://lazydarkz.github.io/thinh/images/ThinhCV.pdf" download&gt;Tải CV (PDF)&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

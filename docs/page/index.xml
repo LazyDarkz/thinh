@@ -23,18 +23,14 @@
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới Thiệu
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://lazydarkz.github.io/thinh/page/about/images/Thinhavt.jpg&#34;
-	width=&#34;1920&#34;
-	height=&#34;2560&#34;
-	srcset=&#34;https://lazydarkz.github.io/thinh/page/about/images/Thinhavt_hu_b1bc16c6b669e491.jpg 480w, https://lazydarkz.github.io/thinh/page/about/images/Thinhavt_hu_7fb8d98f30bdb52d.jpg 1024w&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://lazydarkz.github.io/thinh/images/Thinhavt.jpg&#34;
+	
+	
+	
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Avatar&#34;
 	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;75&#34;
-		data-flex-basis=&#34;180px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Xin chào! Tôi là [Trần Phước Thịnh].&lt;/p&gt;
@@ -131,6 +127,7 @@
 &lt;li&gt;&amp;ldquo;Học hỏi không ngừng, chứng kiến sự thay đổi của bản thân.&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;Tin tưởng vào vận may và gia đình.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://lazydarkz.github.io/thinh/images/ThinhCV.pdf&#34; download&gt;Tải CV (PDF)&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         

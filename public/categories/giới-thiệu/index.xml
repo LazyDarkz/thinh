@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Giới Thiệu on Trần Phước Thịnh</title>
-        <link>//localhost:1313/categories/gi%E1%BB%9Bi-thi%E1%BB%87u/</link>
-        <description>Recent content in Giới Thiệu on Trần Phước Thịnh</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>vi</language>
-        <lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/gi%E1%BB%9Bi-thi%E1%BB%87u/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>1/Lời chào - Giới thiệu về blog Thinhblog</title>
-        <link>//localhost:1313/post/loi-chao/</link>
-        <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-        
-        <guid>//localhost:1313/post/loi-chao/</guid>
-        <description>&lt;h1 id=&#34;lời-chào---giới-thiệu-về-blog-thinhblog&#34;&gt;Lời chào - Giới thiệu về blog Thinhblog
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Giới Thiệu on Trần Phước Thịnh</title><link>https://lazydarkz.github.io/thinh/categories/gi%E1%BB%9Bi-thi%E1%BB%87u/</link><description>Recent content in Giới Thiệu on Trần Phước Thịnh</description><generator>Hugo -- gohugo.io</generator><language>vi</language><lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lazydarkz.github.io/thinh/categories/gi%E1%BB%9Bi-thi%E1%BB%87u/index.xml" rel="self" type="application/rss+xml"/><item><title>1/Lời chào - Giới thiệu về blog Thinhblog</title><link>https://lazydarkz.github.io/thinh/post/loi-chao/</link><pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate><guid>https://lazydarkz.github.io/thinh/post/loi-chao/</guid><description>&lt;h1 id="lời-chào---giới-thiệu-về-blog-thinhblog"&gt;Lời chào - Giới thiệu về blog Thinhblog
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Chào mừng bạn đến với blog Thinhblog! Đây là nơi tôi chia sẻ những kiến thức, kinh nghiệm và suy nghĩ của mình về lập trình, công nghệ và cuộc sống. Hy vọng bạn sẽ tìm thấy những thông tin hữu ích và thú vị tại đây.&lt;/p&gt;
@@ -24,50 +10,38 @@
 &lt;p&gt;Hiện tại tôi đang học tập tại trường ĐH Công Nghệ Thông Tin - ĐHQG HCM, chuyên ngành Kỹ Thuật Phần Mềm. Tôi có kinh nghiệm làm việc với các ngôn ngữ lập trình như Java, JavaScript, Python và nhiều công nghệ khác.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;hình-ảnh-sơ-lược-về-trường---đại-học-công-nghệ-thông-tin---đhqg-hcm&#34;&gt;Hình ảnh sơ lược về trường - Đại học Công Nghệ Thông Tin - ĐHQG HCM
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;//localhost:1313/post/loi-chao/images/hutech1.webp&#34;
-	width=&#34;300&#34;
-	height=&#34;180&#34;
-	srcset=&#34;//localhost:1313/post/loi-chao/images/hutech1_hu_44fad5e501a31d36.webp 480w, //localhost:1313/post/loi-chao/images/hutech1_hu_15eb75eddea704af.webp 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Hutech1&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;166&#34;
-		data-flex-basis=&#34;400px&#34;
-	
+&lt;h2 id="hình-ảnh-sơ-lược-về-trường---đại-học-công-nghệ-thông-tin---đhqg-hcm"&gt;Hình ảnh sơ lược về trường - Đại học Công Nghệ Thông Tin - ĐHQG HCM
+&lt;/h2&gt;&lt;p&gt;&lt;img src="https://lazydarkz.github.io/thinh/post/loi-chao/images/hutech1.webp"
+width="300"
+height="180"
+srcset="https://lazydarkz.github.io/thinh/post/loi-chao/images/hutech1_hu_44fad5e501a31d36.webp 480w, https://lazydarkz.github.io/thinh/post/loi-chao/images/hutech1_hu_15eb75eddea704af.webp 1024w"
+loading="lazy"
+alt="Hutech1"
+class="gallery-image"
+data-flex-grow="166"
+data-flex-basis="400px"
 &gt;
-&lt;img src=&#34;//localhost:1313/post/loi-chao/images/hutech2.jpg&#34;
-	width=&#34;620&#34;
-	height=&#34;413&#34;
-	srcset=&#34;//localhost:1313/post/loi-chao/images/hutech2_hu_2c0d72bc8508a6bc.jpg 480w, //localhost:1313/post/loi-chao/images/hutech2_hu_969229ab8f6d7e5f.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Hutech2&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;150&#34;
-		data-flex-basis=&#34;360px&#34;
-	
+&lt;img src="https://lazydarkz.github.io/thinh/post/loi-chao/images/hutech2.jpg"
+width="620"
+height="413"
+srcset="https://lazydarkz.github.io/thinh/post/loi-chao/images/hutech2_hu_2c0d72bc8508a6bc.jpg 480w, https://lazydarkz.github.io/thinh/post/loi-chao/images/hutech2_hu_969229ab8f6d7e5f.jpg 1024w"
+loading="lazy"
+alt="Hutech2"
+class="gallery-image"
+data-flex-grow="150"
+data-flex-basis="360px"
 &gt;
-&lt;img src=&#34;//localhost:1313/post/loi-chao/images/hutech3.jpg&#34;
-	width=&#34;1200&#34;
-	height=&#34;894&#34;
-	srcset=&#34;//localhost:1313/post/loi-chao/images/hutech3_hu_61b965b5965bf3d9.jpg 480w, //localhost:1313/post/loi-chao/images/hutech3_hu_227dab49428f5e85.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Hutech3&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;134&#34;
-		data-flex-basis=&#34;322px&#34;
-	
+&lt;img src="https://lazydarkz.github.io/thinh/post/loi-chao/images/hutech3.jpg"
+width="1200"
+height="894"
+srcset="https://lazydarkz.github.io/thinh/post/loi-chao/images/hutech3_hu_61b965b5965bf3d9.jpg 480w, https://lazydarkz.github.io/thinh/post/loi-chao/images/hutech3_hu_227dab49428f5e85.jpg 1024w"
+loading="lazy"
+alt="Hutech3"
+class="gallery-image"
+data-flex-grow="134"
+data-flex-basis="322px"
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;nội-dung-blog-thinhblog&#34;&gt;Nội dung blog Thinhblog
+&lt;h2 id="nội-dung-blog-thinhblog"&gt;Nội dung blog Thinhblog
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Blog Thinhblog sẽ tập trung vào các chủ đề như lập trình web, phát triển ứng dụng, công nghệ mới và các kỹ năng mềm cần thiết cho lập trình viên. Tôi sẽ cố gắng cập nhật nội dung thường xuyên để mang đến cho bạn những bài viết chất lượng và hữu ích.&lt;/li&gt;
 &lt;li&gt;Cảm ơn bạn đã ghé thăm blog Thinhblog. Nếu bạn có bất kỳ câu hỏi, góp ý hay muốn kết nối, đừng ngần ngại liên hệ với tôi qua trang Liên hệ hoặc các kênh mạng xã hội. Chúc bạn có những trải nghiệm tuyệt vời tại Thinhblog!&lt;/li&gt;
@@ -77,12 +51,7 @@
 &lt;p&gt;&lt;strong&gt;Thịnh - Thinhblog&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Liên Hệ:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Email: &lt;a class=&#34;link&#34; href=&#34;mailto:phuocthinh123456789100@gmail.com&#34; &gt;phuocthinh123456789100@gmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;GitHub: &lt;a class=&#34;link&#34; href=&#34;https://github.com/LazyDarkz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/LazyDarkz&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+&lt;li&gt;Email: &lt;a class="link" href="mailto:phuocthinh123456789100@gmail.com" &gt;phuocthinh123456789100@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a class="link" href="https://github.com/LazyDarkz" target="_blank" rel="noopener"
+&gt;https://github.com/LazyDarkz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

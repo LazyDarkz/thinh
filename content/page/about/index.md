@@ -11,7 +11,7 @@ image: "/images/HUTECH.webp"
 
 ## Giới Thiệu
 
-![Avatar](/images/Thinhavt.jpg)
+![Avatar](https://lazydarkz.github.io/thinh/images/Thinhavt.jpg)
 
 Xin chào! Tôi là [Trần Phước Thịnh].
 
@@ -74,3 +74,5 @@ Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập c�
 
 - "Học hỏi không ngừng, chứng kiến sự thay đổi của bản thân."
 - "Tin tưởng vào vận may và gia đình."
+
+<a href="https://lazydarkz.github.io/thinh/images/ThinhCV.pdf" download>Tải CV (PDF)</a>
